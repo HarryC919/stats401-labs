@@ -229,6 +229,19 @@ h2 {
     box-shadow: var(--shadow);
 }
 
+.justification-card h2 {
+    margin-bottom: 18px;
+}
+
+.justification-card p {
+    margin-bottom: 14px;
+    line-height: 1.5;
+}
+
+.justification-card p:last-child {
+    margin-bottom: 0;
+}
+
 .chart-heading-row {
     display: flex;
     margin-bottom: 16px;
@@ -254,7 +267,8 @@ h2 {
 
 #chart svg {
     display: block;
-    width: 100%;
+    width: min(100%, 800px);
+    margin: 0 auto;
     height: auto;
 }
 

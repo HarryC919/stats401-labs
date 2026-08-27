@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
             name="description"
-            content="A D3 bar chart showing student scores."
+            content="A D3 bar chart showing city information."
         />
         <title>Lab 2 - Multivariate Visualization</title>
         <link rel="stylesheet" href="../css/style.css" />
@@ -38,24 +38,42 @@
 
             <header class="page-header lab-page-header">
                 <p class="eyebrow">Lab 2: Multivariate Visualization with D3</p>
-                <h1>Student Scores</h1>
+                <h1>City Profiles</h1>
                 <p class="lede">
-                    This visualization explores the relationship among study hours,
-                    exam score, major, and year level.
+                    This visualization displays the information about different cities,
+                    exploring the relationship between temperature, region, development level and population.
                 </p>
             </header>
 
             <section class="chart-card" aria-labelledby="chart-heading">
                 <div class="chart-heading-row">
                     <div>
-                        <p class="section-label">Class overview</p>
-                        <h2 id="chart-heading">Score by student</h2>
+                        <p class="section-label">City Overview</p>
+                        <h2 id="chart-heading">City Population</h2>
                     </div>
-                    <p class="scale-note">Scale: 0–100</p>
+                    <p class="scale-note">Scale: 0-3.5 millions</p>
                 </div>
                 
                 <div id="chart" aria-live="polite"></div>
                 <div id="tooltip" class="tooltip"></div>
+            </section>
+
+            <section class="chart-card justification-card" aria-labelledby="justification-heading">
+                <h2 id="justification-heading">Design Justification</h2>
+                <p>
+                    This visualization represents four measurement types: population is a ratio variable, temperature is an interval variable, development level is ordinal, and region is nominal.
+                </p>
+                <p>
+                    Population is encoded by bar height because position along a common baseline supports accurate comparisons. 
+                    Cities are grouped by region along the x-axis, making it easier to compare populations both within and across regions. 
+                    Temperature is represented by a continuous blue-to-red color scale, following the familiar association of blue with cooler temperatures and red with warmer ones. 
+                    Development level is encoded through stroke width, with thicker outlines indicating higher levels. Although stroke width is less precise than position, the dataset contains only three ordered categories, so the differences remain distinguishable. 
+                    City labels and tooltips provide details about individual observations.
+                </p>
+                <p>
+                    I hope viewers notice that cities with higher development levels generally have larger populations, while warmer cities—particularly those in the South—tend to have smaller populations.
+                    The grouping and color patterns also reveal how temperature varies across regions.
+                </p>
             </section>
         </main>
 
