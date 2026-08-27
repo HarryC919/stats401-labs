@@ -1,0 +1,14 @@
+{
+    "name": "stats401-labs",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "build": "tsc",
+        "check": "tsc --noEmit",
+        "watch": "tsc --watch"
+    },
+    "devDependencies": {
+        "@types/d3": "^7.4.3",
+        "typescript": "^7.0.2"
+    }
+}
