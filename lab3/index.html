@@ -1,19 +1,116 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lab 3 | STATS 401</title>
-    <link rel="stylesheet" href="../css/style.css">
-</head>
-<body>
-    <main class="site-shell">
-        <section class="placeholder-card">
-            <p class="eyebrow">STATS 401</p>
-            <h1>Lab 3</h1>
-            <p>Lab 3 will be added here.</p>
-            <a class="back-link" href="../index.html">&larr; Back to home</a>
-        </section>
-    </main>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="A D3 table showing HKG Inbound Outbound Flights."
+        />
+        <title>Lab 3 - Web Data Acquisition with Python</title>
+        <link rel="stylesheet" href="../css/style.css" />
+    </head>
+
+    <body>
+        <main class="site-shell">
+            <header class="course-bar">
+                <div class="course-brand">
+                    <p class="course-code">STATS 401</p>
+                    <p class="course-name">
+                        Data Acquisition and Visualization
+                    </p>
+                </div>
+                <a class="back-link" href="../index.html">&larr; All labs</a>
+            </header>
+
+            <nav class="lab-tabs" aria-label="Course labs">
+                <a href="../lab1/index.html">Lab 1</a>
+                <a href="../lab2/index.html">Lab 2</a>
+                <a href="../lab3/index.html" aria-current="page">Lab 3</a>
+                <a href="../lab4/index.html">Lab 4</a>
+                <a href="../lab5/index.html">Lab 5</a>
+                <a href="../lab6/index.html">Lab 6</a>
+                <a href="../lab7/index.html">Lab 7</a>
+                <a href="../lab8/index.html">Lab 8</a>
+                <a href="../lab9/index.html">Lab 9</a>
+                <a href="../lab10/index.html">Lab 10</a>
+            </nav>
+
+            <header class="page-header lab-page-header">
+                <p class="eyebrow">Lab 3: Web Data Acquisition with Python</p>
+                <h1>HKG Flight Information</h1>
+                <p class="lede">
+                    The table below displays the information about the inbound
+                    and outbound flights at Hong Kong International Airport
+                    (HKG) on Aug 31st, 2026, acquired using my Python script.
+                </p>
+            </header>
+
+            <section class="chart-card" aria-labelledby="chart-heading">
+                <div class="chart-heading-row">
+                    <div>
+                        <p class="section-label">Flights Overview</p>
+                        <h2 id="chart-heading">Flight Information</h2>
+                    </div>
+                    <p class="scale-note">
+                        Data Source:
+                        <a
+                            href="https://data.gov.hk/en-data/dataset/aahk-team1-flight-info"
+                            >Airport Authority Hong Kong via DATA.GOV.HK</a
+                        ><br />
+                        Data Retrieved Date: Sep 1st, 2026
+                    </p>
+                </div>
+
+                <div class="table-wrap">
+                    <table id="data-table">
+                        <thead></thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section
+                class="chart-card justification-card"
+                aria-labelledby="justification-heading"
+            >
+                <h2 id="justification-heading">
+                    Dataset description, Data Source and Number of Records
+                </h2>
+                <p>
+                    This dataset contains the flight records for Hong Kong
+                    International Airport (HKG) on August 31st, 2026, covering
+                    both arrivals and departures across passenger and cargo
+                    services. Each record represents one flight and includes its
+                    scheduled date and time, direction, service type, primary
+                    flight number and airline, codeshare details, origin or
+                    destination airport, and latest status. The Date and
+                    Scheduled Time columns contain official scheduled values,
+                    while Status reports the latest actual or estimated flight
+                    event.
+                </p>
+                <p>
+                    Data acquired programmatically from the airport's public
+                    flight information API using a Python script (requests). The
+                    four API requests returned <b>1,109</b> flight records for
+                    the target date August 31, 2026.
+                </p>
+                <p>
+                    API documentation:
+                    <a
+                        href="https://www.hongkongairport.com/iwov-resources/misc/opendata/Flight_Information_DataSpec_en.pdf"
+                        >Flight Information DataSpec.pdf</a
+                    ><br />
+                    API URL:
+                    <a
+                        href="https://www.hongkongairport.com/flightinfo-rest/rest/flights/past"
+                        >https://www.hongkongairport.com/flightinfo-rest/rest/flights/past</a
+                    >
+                </p>
+            </section>
+        </main>
+
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script type="module" src="../js/lab3.js"></script>
+    </body>
 </html>

@@ -1,0 +1,1110 @@
+﻿date,direction,service_type,time,primary_flight_number,primary_airline,codeshare_flight_numbers,codeshare_airlines,codeshare_count,origin,destination,status
+2026-08-30,arrival,passenger,22:00,CX 724,CPA,AC 9791 / MH 9202 / QR 5810,ACA / MAS / QTR,3,KUL,HKG,At gate 00:25 (31/08/2026)
+2026-08-30,arrival,passenger,23:35,UO 273,HKE,CX 5273,CPA,1,CZX,HKG,At gate 00:22 (31/08/2026)
+2026-08-30,arrival,passenger,23:40,CX 989,CPA,,,0,CAN,HKG,At gate 00:11 (31/08/2026)
+2026-08-30,arrival,passenger,23:40,UO 703,HKE,,,0,BKK,HKG,At gate 01:02 (31/08/2026)
+2026-08-30,arrival,passenger,23:45,HX 453,CRK,HU 8161,CHH,1,CTU,HKG,At gate 01:11 (31/08/2026)
+2026-08-31,arrival,passenger,00:00,UO 671,HKE,CX 5671,CPA,1,NGO,HKG,At gate 23:37 (30/08/2026)
+2026-08-31,arrival,passenger,00:00,UO 795,HKE,,,0,HKT,HKG,At gate 00:14
+2026-08-31,arrival,passenger,00:05,HX 547,CRK,EY 6824,ETD,1,DAD,HKG,At gate 23:37 (30/08/2026)
+2026-08-31,arrival,passenger,00:05,CX 782,CPA,AA 8917,AAL,1,DPS,HKG,At gate 00:03
+2026-08-31,arrival,passenger,00:10,CX 636,CPA,GF 4062 / AY 5852 / OM 5614 / FJ 5463,GFA / FIN / MGL / FJI,4,SIN,HKG,At gate 00:04
+2026-08-31,arrival,passenger,00:15,BX 3935,ABL,,,0,ICN,HKG,At gate 00:19
+2026-08-31,arrival,passenger,00:15,TW 639,TWB,,,0,PUS,HKG,At gate 00:06
+2026-08-31,arrival,passenger,00:25,CX 469,CPA,,,0,TPE,HKG,At gate 23:46 (30/08/2026)
+2026-08-31,arrival,passenger,00:35,HX 337,CRK,HU 8189,CHH,1,PEK,HKG,At gate 00:23
+2026-08-31,arrival,passenger,00:35,UO 651,HKE,CX 5651,CPA,1,NRT,HKG,At gate 00:11
+2026-08-31,arrival,passenger,00:40,UO 863,HKE,CX 5863,CPA,1,KIX,HKG,At gate 00:23
+2026-08-31,arrival,passenger,00:50,5J 242,CEB,,,0,ILO,HKG,At gate 00:39
+2026-08-31,arrival,passenger,00:55,HX 631,CRK,TK 8869,THY,1,NRT,HKG,At gate 00:30
+2026-08-31,arrival,passenger,01:10,UO 627,HKE,,,0,ICN,HKG,At gate 00:46
+2026-08-31,arrival,passenger,01:15,CX 327,CPA,,,0,SHA,HKG,At gate 00:46
+2026-08-31,arrival,passenger,01:30,UO 653,HKE,,,0,NRT,HKG,At gate 01:03
+2026-08-31,arrival,passenger,01:45,HB 707,HGB,,,0,TPE,HKG,At gate 01:43
+2026-08-31,arrival,passenger,01:55,HB 2296,HGB,,,0,BKK,HKG,At gate 02:28
+2026-08-31,arrival,passenger,01:55,CX 501,CPA,AA 8927 / FJ 5473 / QR 3458 / JL 7043,AAL / FJI / QTR / JAL,4,NRT,HKG,At gate 01:43
+2026-08-31,arrival,passenger,04:05,CX 875,CPA,,,0,DFW,HKG,At gate 04:25
+2026-08-31,arrival,passenger,04:25,UO 791,HKE,CX 5791,CPA,1,BKI,HKG,At gate 04:22
+2026-08-31,arrival,passenger,04:30,UO 733,HKE,,,0,BKK,HKG,At gate 03:50
+2026-08-31,arrival,passenger,04:40,UO 623,HKE,CX 5623,CPA,1,HND,HKG,At gate 04:14
+2026-08-31,arrival,passenger,04:45,CX 427,CPA,QF 8219 / AA 8892,QFA / AAL,2,ICN,HKG,At gate 04:16
+2026-08-31,arrival,passenger,04:45,HB 711,HGB,,,0,TPE,HKG,At gate 04:44
+2026-08-31,arrival,passenger,04:55,UO 769,HKE,CX 5769,CPA,1,PEN,HKG,At gate 04:55
+2026-08-31,arrival,passenger,05:00,CX 811,CPA,OM 5811,MGL,1,BOS,HKG,At gate 05:00
+2026-08-31,arrival,passenger,05:00,CX 829,CPA,,,0,YYZ,HKG,At gate 05:04
+2026-08-31,arrival,passenger,05:00,UA 877,UAL,,,0,SFO,HKG,At gate 04:31
+2026-08-31,arrival,passenger,05:05,DL 089,DAL,,,0,LAX,HKG,At gate 05:48
+2026-08-31,arrival,passenger,05:10,CX 138,CPA,BA 4134 / AY 5112 / OM 5602,BAW / FIN / MGL,3,SYD,HKG,At gate 05:14
+2026-08-31,arrival,passenger,05:15,NH 813,ANA,,,0,HND,HKG,At gate 05:03
+2026-08-31,arrival,passenger,05:25,UO 615,HKE,CX 5615,CPA,1,ICN,HKG,At gate 04:53
+2026-08-31,arrival,passenger,05:30,CX 843,CPA,OM 5843 / MH 9211,MGL / MAS,2,JFK,HKG,At gate 05:25
+2026-08-31,arrival,passenger,05:35,CX 865,CPA,,,0,YVR,HKG,At gate 05:38
+2026-08-31,arrival,passenger,05:35,HB 511,HGB,,,0,MLE,HKG,At gate 05:36
+2026-08-31,arrival,passenger,05:40,UA 820,UAL,,,0,LAX,HKG,At gate 05:13
+2026-08-31,arrival,passenger,05:45,GA 860,GIA,HX 1960,CRK,1,CGK,HKG,At gate 06:24
+2026-08-31,arrival,passenger,05:45,HX 627,CRK,OZ 9295,AAR,1,ICN,HKG,At gate 05:26
+2026-08-31,arrival,passenger,05:45,CX 883,CPA,MH 9193 / LA 5648 / OM 5883 / AA 8936,MAS / LAN / MGL / AAL,4,LAX,HKG,At gate 05:25
+2026-08-31,arrival,passenger,05:50,CX 714,CPA,QR 3455 / AY 5856 / OM 5732 / AA 8902,QTR / FIN / MGL / AAL,4,SIN,HKG,At gate 06:47
+2026-08-31,arrival,passenger,05:55,HX 760,CRK,TK 8863,THY,1,BKK,HKG,At gate 06:08
+2026-08-31,arrival,passenger,06:00,CX 640,CPA,,,0,KTM,HKG,At gate 06:08
+2026-08-31,arrival,passenger,06:00,UO 629,HKE,CX 5629,CPA,1,HND,HKG,At gate 05:35
+2026-08-31,arrival,passenger,06:05,CX 798,CPA,BA 4148 / AA 8918,BAW / AAL,2,CGK,HKG,At gate 06:29
+2026-08-31,arrival,passenger,06:10,CX 270,CPA,,,0,AMS,HKG,At gate 06:12
+2026-08-31,arrival,passenger,06:10,UO 235,HKE,CX 5235,CPA,1,PKX,HKG,At gate 05:38
+2026-08-31,arrival,passenger,06:15,CX 234,CPA,,,0,MXP,HKG,At gate 06:21
+2026-08-31,arrival,passenger,06:15,CX 260,CPA,,,0,CDG,HKG,At gate 06:09
+2026-08-31,arrival,passenger,06:15,CX 873,CPA,MH 9183 / OM 5873 / AA 8931,MAS / MGL / AAL,3,SFO,HKG,At gate 05:49
+2026-08-31,arrival,passenger,06:15,AI 314,AIC,,,0,DEL,HKG,At gate 06:28
+2026-08-31,arrival,passenger,06:20,HX 073,CRK,,,0,SPN,HKG,At gate 06:11
+2026-08-31,arrival,passenger,06:25,CX 953,CPA,,,0,CAN,HKG,At gate 05:53
+2026-08-31,arrival,passenger,06:30,CX 748,CPA,LA 6093 / JL 7900,LAN / JAL,2,JNB,HKG,At gate 06:02
+2026-08-31,arrival,passenger,06:35,CX 216,CPA,,,0,MAN,HKG,At gate 06:09
+2026-08-31,arrival,passenger,06:40,CX 698,CPA,,,0,DEL,HKG,At gate 06:45
+2026-08-31,arrival,passenger,06:45,CX 881,CPA,MH 9191 / LA 5646 / OM 5881 / AA 8934,MAS / LAN / MGL / AAL,4,LAX,HKG,At gate 06:17
+2026-08-31,arrival,passenger,06:50,CX 156,CPA,JL 7906 / AY 5850 / OM 5632 / BA 4146,JAL / FIN / MGL / BAW,4,BNE,HKG,At gate 07:06
+2026-08-31,arrival,passenger,06:55,HX 081,CRK,,,0,YVR,HKG,At gate 06:30
+2026-08-31,arrival,passenger,06:55,CX 178,CPA,AY 5844 / OM 5612 / BA 4140,FIN / MGL / BAW,3,MEL,HKG,At gate 06:43
+2026-08-31,arrival,passenger,06:55,CX 372,CPA,,,0,MAD,HKG,At gate 07:05
+2026-08-31,arrival,passenger,06:55,CX 382,CPA,,,0,ZRH,HKG,At gate 06:53
+2026-08-31,arrival,passenger,06:55,CX 395,CPA,CA 6515,CCA,1,PEK,HKG,At gate 06:43
+2026-08-31,arrival,passenger,07:00,CX 318,CPA,,,0,BCN,HKG,At gate 07:23
+2026-08-31,arrival,passenger,07:00,CX 732,CPA,MH 9206,MAS,1,KUL,HKG,At gate 06:57
+2026-08-31,arrival,passenger,07:20,CX 288,CPA,LH 7014,DLH,1,FRA,HKG,At gate 07:34
+2026-08-31,arrival,passenger,07:25,TK 170,THY,HX 3680 / NZ 4852,CRK / ANZ,2,IST,HKG,At gate 07:17
+2026-08-31,arrival,passenger,07:35,CX 2216,CPA,,,0,MAN,HKG,At gate 07:30
+2026-08-31,arrival,passenger,07:50,CX 252,CPA,,,0,LHR,HKG,At gate 07:23
+2026-08-31,arrival,passenger,07:50,CX 974,CPA,,,0,MNL,HKG,At gate 07:54
+2026-08-31,arrival,passenger,08:05,CX 170,CPA,QF 8237 / AY 5846 / OM 5622 / JL 7904 / BA 4144,QFA / FIN / MGL / JAL / BAW,5,PER,HKG,At gate 07:54
+2026-08-31,arrival,passenger,08:10,5J 272,CEB,,,0,MNL,HKG,At gate 08:15
+2026-08-31,arrival,passenger,08:45,MU 7365,CES,,,0,PVG,HKG,At gate 09:01
+2026-08-31,arrival,passenger,08:50,BR 891,EVA,HX 1819,CRK,1,TPE,HKG,At gate 08:50
+2026-08-31,arrival,passenger,09:00,EY 870,ETD,HX 3600,CRK,1,AUH,HKG,At gate 09:52
+2026-08-31,arrival,passenger,09:05,CX 449,CPA,,,0,KHH,HKG,At gate 08:48
+2026-08-31,arrival,passenger,09:10,CX 612,CPA,AY 5116 / QF 8216 / AA 8952,FIN / QFA / AAL,3,CMB,HKG,At gate 09:10
+2026-08-31,arrival,passenger,09:10,CX 632,CPA,JL 7914 / AA 8946,JAL / AAL,2,MAA,HKG,At gate 09:16
+2026-08-31,arrival,passenger,09:10,AE 983,MDA,CI 9501,CAL,1,KHH,HKG,At gate 09:02
+2026-08-31,arrival,passenger,09:15,CI 601,CAL,,,0,TPE,HKG,At gate 09:29
+2026-08-31,arrival,passenger,09:15,5J 150,CEB,,,0,CRK,HKG,At gate 08:54
+2026-08-31,arrival,passenger,09:20,CX 694,CPA,OM 5751 / JL 7908 / AA 8944,MGL / JAL / AAL,3,DEL,HKG,At gate 09:48
+2026-08-31,arrival,passenger,09:30,UO 617,HKE,CX 5617,CPA,1,ICN,HKG,At gate 09:29
+2026-08-31,arrival,passenger,09:40,UO 699,HKE,CX 5699,CPA,1,CJU,HKG,At gate 09:35
+2026-08-31,arrival,passenger,09:50,CX 624,CPA,,,0,BLR,HKG,At gate 09:50
+2026-08-31,arrival,passenger,09:55,JX 233,SJX,,,0,TPE,HKG,At gate 10:27
+2026-08-31,arrival,passenger,10:00,CX 407,CPA,,,0,TPE,HKG,Cancelled
+2026-08-31,arrival,passenger,10:00,UO 673,HKE,CX 5673,CPA,1,TAE,HKG,At gate 09:58
+2026-08-31,arrival,passenger,10:05,BR 851,EVA,HX 1821,CRK,1,TPE,HKG,At gate 10:34
+2026-08-31,arrival,passenger,10:05,CI 903,CAL,,,0,TPE,HKG,At gate 09:58
+2026-08-31,arrival,passenger,10:05,PR 300,PAL,,,0,MNL,HKG,At gate 09:53
+2026-08-31,arrival,passenger,10:10,CX 303,CPA,,,0,PVG,HKG,At gate 09:55
+2026-08-31,arrival,passenger,10:10,CX 660,CPA,OM 5624 / JL 7912 / AA 8945,MGL / JAL / AAL,3,BOM,HKG,At gate 11:27
+2026-08-31,arrival,passenger,10:10,CX 933,CPA,,,0,XIY,HKG,At gate 10:06
+2026-08-31,arrival,passenger,10:15,UO 625,HKE,CX 5625,CPA,1,HND,HKG,At gate 09:44
+2026-08-31,arrival,passenger,10:20,HX 231,CRK,HU 8510,CHH,1,PVG,HKG,At gate 10:20
+2026-08-31,arrival,passenger,10:20,UO 607,HKE,CX 5607,CPA,1,PUS,HKG,At gate 10:32
+2026-08-31,arrival,passenger,10:25,MU 9623,CES,MF 9035,CXA,1,KMG,HKG,At gate 10:13
+2026-08-31,arrival,passenger,10:30,CX 912,CPA,,,0,MNL,HKG,At gate 10:15
+2026-08-31,arrival,passenger,10:30,MU 765,CES,FM 3033,CSH,1,NKG,HKG,At gate 10:22
+2026-08-31,arrival,passenger,10:35,SU 212,AFL,,,0,SVO,HKG,At gate 10:49
+2026-08-31,arrival,passenger,10:40,CX 965,CPA,CA 6565,CCA,1,HGH,HKG,At gate 10:21
+2026-08-31,arrival,passenger,10:40,UA 153,UAL,,,0,SGN,HKG,At gate 10:36
+2026-08-31,arrival,passenger,10:45,CX 305,CPA,,,0,NKG,HKG,At gate 10:34
+2026-08-31,arrival,passenger,10:50,CX 413,CPA,QF 8228 / QR 3488 / AA 8896,QFA / QTR / AAL,3,ICN,HKG,At gate 11:09
+2026-08-31,arrival,passenger,10:55,BR 845,EVA,HX 1845,CRK,1,KHH,HKG,At gate 10:38
+2026-08-31,arrival,passenger,10:55,HX 129,CRK,HU 8517,CHH,1,HGH,HKG,At gate 11:04
+2026-08-31,arrival,passenger,10:55,KE 2001,KAL,DL 7771 / WS 6075,DAL / WJA,2,ICN,HKG,At gate 11:34
+2026-08-31,arrival,passenger,10:55,CX 786,CPA,QF 8226 / OM 5658 / JL 7936 / AA 8926,QFA / MGL / JAL / AAL,4,SGN,HKG,At gate 11:00
+2026-08-31,arrival,passenger,11:00,CX 345,CPA,CA 6507,CCA,1,PEK,HKG,At gate 10:56
+2026-08-31,arrival,passenger,11:00,CX 672,CPA,,,0,HYD,HKG,At gate 10:17
+2026-08-31,arrival,passenger,11:00,MU 721,CES,FM 3013,CSH,1,SHA,HKG,At gate 10:53
+2026-08-31,arrival,passenger,11:00,HB 383,HGB,,,0,FUK,HKG,At gate 11:03
+2026-08-31,arrival,passenger,11:10,HX 497,CRK,HU 8201,CHH,1,CKG,HKG,At gate 11:07
+2026-08-31,arrival,passenger,11:10,CX 917,CPA,CA 6529,CCA,1,CTU,HKG,At gate 10:37
+2026-08-31,arrival,passenger,11:15,AK 138,AXM,,,0,KUL,HKG,At gate 11:10
+2026-08-31,arrival,passenger,11:20,MU 6097,CES,,,0,LHW,HKG,At gate 11:12
+2026-08-31,arrival,passenger,11:20,SQ 874,SIA,,,0,SIN,HKG,At gate 12:33
+2026-08-31,arrival,passenger,11:20,HX 639,CRK,,,0,FUK,HKG,At gate 12:14
+2026-08-31,arrival,passenger,11:25,ZH 9095,CSZ,CA 3361 / CX 6251,CCA / CPA,2,WUX,HKG,At gate 11:06
+2026-08-31,arrival,passenger,11:25,CX 361,CPA,,,0,PVG,HKG,At gate 10:45
+2026-08-31,arrival,passenger,11:35,MU 6085,CES,,,0,TYN,HKG,At gate 11:33
+2026-08-31,arrival,passenger,11:35,CX 700,CPA,PG 4553 / QR 5854 / FJ 5455 / AY 5102 / OM 5640 / AA 8893,BKP / QTR / FJI / FIN / MGL / AAL,6,BKK,HKG,At gate 11:31
+2026-08-31,arrival,passenger,11:35,CX 710,CPA,FJ 5451 / OM 5616 / QR 5858 / AY 5832,FJI / MGL / QTR / FIN,4,SIN,HKG,At gate 11:36
+2026-08-31,arrival,passenger,11:40,OZ 721,AAR,HX 1551,CRK,1,ICN,HKG,At gate 12:19
+2026-08-31,arrival,passenger,11:40,UO 227,HKE,CX 5227,CPA,1,NGB,HKG,At gate 11:37
+2026-08-31,arrival,passenger,11:45,CX 983,CPA,,,0,CAN,HKG,At gate 11:13
+2026-08-31,arrival,passenger,11:45,UO 131,HKE,CX 5131,CPA,1,KHH,HKG,At gate 11:55
+2026-08-31,arrival,passenger,11:45,TG 600,THA,AC 7408 / TK 8010,ACA / THY,2,BKK,HKG,At gate 11:52
+2026-08-31,arrival,passenger,11:50,CA 101,CCA,CX 6101,CPA,1,PEK,HKG,At gate 11:46
+2026-08-31,arrival,passenger,11:50,CA 103,CCA,CX 6103,CPA,1,TSN,HKG,At gate 11:16
+2026-08-31,arrival,passenger,11:50,MU 5017,CES,FM 3011,CSH,1,SHA,HKG,At gate 11:35
+2026-08-31,arrival,passenger,11:50,MU 501,CES,FM 3015,CSH,1,PVG,HKG,At gate 11:48
+2026-08-31,arrival,passenger,11:55,TW 643,TWB,,,0,ICN,HKG,At gate 12:20
+2026-08-31,arrival,passenger,11:55,UO 857,HKE,CX 5857,CPA,1,NRT,HKG,At gate 11:34
+2026-08-31,arrival,passenger,12:00,YP 801,APZ,,,0,ICN,HKG,At gate 12:22
+2026-08-31,arrival,passenger,12:05,BR 867,EVA,HX 1823,CRK,1,TPE,HKG,At gate 11:54
+2026-08-31,arrival,passenger,12:05,HX 235,CRK,HU 8356,CHH,1,PVG,HKG,At gate 12:25
+2026-08-31,arrival,passenger,12:05,CX 477,CPA,,,0,TPE,HKG,Cancelled
+2026-08-31,arrival,passenger,12:10,UO 193,HKE,CX 5193,CPA,1,RMQ,HKG,At gate 12:14
+2026-08-31,arrival,passenger,12:15,CX 597,CPA,QR 5823 / JL 7029,QTR / JAL,2,KIX,HKG,At gate 11:51
+2026-08-31,arrival,passenger,12:20,MU 5015,CES,,,0,PKX,HKG,At gate 12:21
+2026-08-31,arrival,passenger,12:20,CX 730,CPA,MH 9188,MAS,1,KUL,HKG,At gate 11:58
+2026-08-31,arrival,passenger,12:25,AK 237,AXM,,,0,BKI,HKG,At gate 12:39
+2026-08-31,arrival,passenger,12:25,NH 859,ANA,UA 7907,UAL,1,HND,HKG,At gate 12:14
+2026-08-31,arrival,passenger,12:25,CZ 355,CSN,3U 7001 / MF 9207,CSC / CXA,2,PKX,HKG,At gate 12:33
+2026-08-31,arrival,passenger,12:30,CX 365,CPA,,,0,PVG,HKG,At gate 12:21
+2026-08-31,arrival,passenger,12:30,UO 523,HKE,CX 5523,CPA,1,CRK,HKG,At gate 12:42
+2026-08-31,arrival,passenger,12:35,PR 318,PAL,,,0,MNL,HKG,At gate 12:43
+2026-08-31,arrival,passenger,12:35,CX 238,CPA,,,0,LHR,HKG,At gate 12:40
+2026-08-31,arrival,passenger,12:40,SQ 882,SIA,,,0,SIN,HKG,At gate 13:06
+2026-08-31,arrival,passenger,12:40,SC 1151,CDG,CA 8871,CCA,1,TNA,HKG,At gate 12:29
+2026-08-31,arrival,passenger,12:40,UO 541,HKE,,,0,HAN,HKG,At gate 12:57
+2026-08-31,arrival,passenger,12:45,UO 251,HKE,CX 5251,CPA,1,SYX,HKG,At gate 12:53
+2026-08-31,arrival,passenger,12:45,FM 811,CSH,MU 8595,CES,1,PVG,HKG,At gate 12:30
+2026-08-31,arrival,passenger,12:50,CX 431,CPA,,,0,KHH,HKG,At gate 12:59
+2026-08-31,arrival,passenger,13:00,CX 489,CPA,,,0,TPE,HKG,At gate 12:36
+2026-08-31,arrival,passenger,13:00,5J 142,CEB,,,0,MNL,HKG,At gate 13:11
+2026-08-31,arrival,passenger,13:05,CA 111,CCA,CX 6111,CPA,1,PEK,HKG,At gate 14:02
+2026-08-31,arrival,passenger,13:05,CI 909,CAL,,,0,TPE,HKG,At gate 13:03
+2026-08-31,arrival,passenger,13:05,CX 503,CPA,JL 7051 / QR 5835,JAL / QTR,2,KIX,HKG,At gate 12:48
+2026-08-31,arrival,passenger,13:05,UO 553,HKE,CX 5553,CPA,1,DAD,HKG,At gate 12:52
+2026-08-31,arrival,passenger,13:10,HX 617,CRK,TK 9212 / EY 6814,THY / ETD,2,KIX,HKG,At gate 13:15
+2026-08-31,arrival,passenger,13:15,HX 305,CRK,HU 8159,CHH,1,PEK,HKG,At gate 13:11
+2026-08-31,arrival,passenger,13:15,CX 509,CPA,QR 5857 / JL 7041 / AA 8939 / FJ 5475,QTR / JAL / AAL / FJI,4,NRT,HKG,At gate 14:23
+2026-08-31,arrival,passenger,13:15,CX 906,CPA,BA 4571,BAW,1,MNL,HKG,At gate 13:01
+2026-08-31,arrival,passenger,13:20,HX 706,CRK,GA 9770,GIA,1,DPS,HKG,At gate 13:17
+2026-08-31,arrival,passenger,13:20,UO 843,HKE,,,0,OKA,HKG,At gate 13:06
+2026-08-31,arrival,passenger,13:25,CX 563,CPA,QF 8259 / QR 5851 / JL 7033,QFA / QTR / JAL,3,NGO,HKG,At gate 13:10
+2026-08-31,arrival,passenger,13:25,CX 995,CPA,,,0,FOC,HKG,At gate 13:37
+2026-08-31,arrival,passenger,13:30,HX 607,CRK,TK 9205,THY,1,NRT,HKG,At gate 13:40
+2026-08-31,arrival,passenger,13:30,VN 592,HVN,,,0,HAN,HKG,At gate 13:32
+2026-08-31,arrival,passenger,13:30,JL 029,JAL,AS 7333 / CX 6321,ASA / CPA,2,HND,HKG,At gate 14:04
+2026-08-31,arrival,passenger,13:30,HB 703,HGB,,,0,TPE,HKG,At gate 13:25
+2026-08-31,arrival,passenger,13:35,BI 635,RBA,HX 1635,CRK,1,BWN,HKG,At gate 13:21
+2026-08-31,arrival,passenger,13:35,MU 203,CES,MF 9033,CXA,1,XIY,HKG,At gate 13:26
+2026-08-31,arrival,passenger,13:40,CX 309,CPA,,,0,CSX,HKG,At gate 14:01
+2026-08-31,arrival,passenger,13:45,CX 347,CPA,CA 6509,CCA,1,PEK,HKG,At gate 13:44
+2026-08-31,arrival,passenger,13:45,UO 103,HKE,CX 5103,CPA,1,RMQ,HKG,At gate 13:29
+2026-08-31,arrival,passenger,13:50,CX 543,CPA,QR 5841 / JL 7031 / FJ 5477,QTR / JAL / FJI,3,HND,HKG,At gate 14:19
+2026-08-31,arrival,passenger,13:50,CX 937,CPA,CA 6536,CCA,1,WUH,HKG,At gate 14:52
+2026-08-31,arrival,passenger,13:55,SQ 892,SIA,,,0,SIN,HKG,At gate 14:13
+2026-08-31,arrival,passenger,13:55,CX 658,CPA,QR 5856 / AY 5134 / FJ 5459 / AA 8890 / OM 5618,QTR / FIN / FJI / AAL / MGL,5,SIN,HKG,At gate 14:07
+2026-08-31,arrival,passenger,13:55,CX 841,CPA,LA 5640 / MH 9187,LAN / MAS,2,JFK,HKG,At gate 14:03
+2026-08-31,arrival,passenger,14:00,CX 385,CPA,,,0,WNZ,HKG,At gate 13:54
+2026-08-31,arrival,passenger,14:00,CX 973,CPA,,,0,XMN,HKG,At gate 13:39
+2026-08-31,arrival,passenger,14:05,CX 461,CPA,,,0,TPE,HKG,At gate 13:34
+2026-08-31,arrival,passenger,14:05,CX 959,CPA,CA 6523,CCA,1,HGH,HKG,At gate 14:19
+2026-08-31,arrival,passenger,14:05,MU 507,CES,FM 3021,CSH,1,PVG,HKG,At gate 14:19
+2026-08-31,arrival,passenger,14:10,CX 250,CPA,,,0,LHR,HKG,At gate 13:55
+2026-08-31,arrival,passenger,14:10,CX 718,CPA,QR 3468 / AY 6552 / BA 4572 / AA 8904,QTR / FIN / BAW / AAL,4,CGK,HKG,At gate 14:04
+2026-08-31,arrival,passenger,14:10,CX 780,CPA,QR 3480 / AY 6548 / AA 8957,QTR / FIN / AAL,3,SUB,HKG,At gate 14:01
+2026-08-31,arrival,passenger,14:15,HX 253,CRK,BR 2897,EVA,1,TPE,HKG,At gate 14:28
+2026-08-31,arrival,passenger,14:15,OD 605,MXD,,,0,KUL,HKG,At gate 16:12
+2026-08-31,arrival,passenger,14:15,MH 072,MAS,CX 6000 / FY 7050 / UL 2772 / AY 6632 / WY 5583 / QR 5389,CPA / FFM / ALK / FIN / OMA / QTR,6,KUL,HKG,At gate 14:31
+2026-08-31,arrival,passenger,14:20,CX 740,CPA,QR 3454 / AY 5140,QTR / FIN,2,HAN,HKG,At gate 14:43
+2026-08-31,arrival,passenger,14:20,TG 628,THA,,,0,BKK,HKG,At gate 16:37
+2026-08-31,arrival,passenger,14:20,UO 705,HKE,CX 5705,CPA,1,BKK,HKG,At gate 14:13
+2026-08-31,arrival,passenger,14:25,BR 869,EVA,HX 1825,CRK,1,TPE,HKG,At gate 14:36
+2026-08-31,arrival,passenger,14:25,UO 739,HKE,CX 5739,CPA,1,CNX,HKG,At gate 14:30
+2026-08-31,arrival,passenger,14:30,CX 945,CPA,CA 6519,CCA,1,CKG,HKG,At gate 14:30
+2026-08-31,arrival,passenger,14:35,HX 113,CRK,HU 8515,CHH,1,HGH,HKG,At gate 14:24
+2026-08-31,arrival,passenger,14:45,HX 237,CRK,HU 8358,CHH,1,PVG,HKG,At gate 14:42
+2026-08-31,arrival,passenger,14:50,UO 563,HKE,CX 5563,CPA,1,DAD,HKG,At gate 15:01
+2026-08-31,arrival,passenger,14:50,UO 599,HKE,CX 5599,CPA,1,PQC,HKG,At gate 14:40
+2026-08-31,arrival,passenger,14:55,ET 644,ETH,,,0,ADD,HKG,At gate 15:15
+2026-08-31,arrival,passenger,14:55,CX 134,CPA,AY 5096 / OM 5606 / BA 4138,FIN / MGL / BAW,3,MEL,HKG,At gate 14:33
+2026-08-31,arrival,passenger,14:55,CX 766,CPA,QR 3482 / AY 5104 / AC 9768 / JL 7928 / VN 3562 / BA 4558 / OM 5610,QTR / FIN / ACA / JAL / HVN / BAW / MGL,7,SGN,HKG,At gate 15:45
+2026-08-31,arrival,passenger,15:00,HU 719,CHH,HX 1719,CRK,1,HAK,HKG,At gate 14:42
+2026-08-31,arrival,passenger,15:00,CX 930,CPA,AY 5120 / BA 4579,FIN / BAW,2,MNL,HKG,At gate 15:04
+2026-08-31,arrival,passenger,15:00,CX 948,CPA,AC 9766 / PR 3200 / AY 5118,ACA / PAL / FIN,3,CEB,HKG,At gate 14:48
+2026-08-31,arrival,passenger,15:05,CX 750,CPA,PG 4559 / GF 4050 / QR 5850 / AY 5859 / OM 5638 / AA 8908,BKP / GFA / QTR / FIN / MGL / AAL,6,BKK,HKG,At gate 15:13
+2026-08-31,arrival,passenger,15:10,CX 110,CPA,AY 5092 / OM 5623 / BA 4132,FIN / MGL / BAW,3,SYD,HKG,At gate 15:09
+2026-08-31,arrival,passenger,15:10,QR 818,QTR,AH 4908 / JU 8319 / IB 6247 / BA 2355 / CX 9202 / LA 6038 / B6 6547,DAH / ASL / IBE / BAW / CPA / LAN / JBU,7,DOH,HKG,At gate 15:29
+2026-08-31,arrival,passenger,15:15,CX 319,CPA,,,0,PVG,HKG,At gate 15:10
+2026-08-31,arrival,passenger,15:15,CX 608,CPA,AY 5130,FIN,1,KTI,HKG,At gate 15:19
+2026-08-31,arrival,passenger,15:20,CX 495,CPA,,,0,TPE,HKG,At gate 14:54
+2026-08-31,arrival,passenger,15:20,UO 173,HKE,CX 5173,CPA,1,RMQ,HKG,At gate 15:20
+2026-08-31,arrival,passenger,15:20,LH 796,DLH,CX 6798 / NZ 4212,CPA / ANZ,2,FRA,HKG,At gate 14:58
+2026-08-31,arrival,passenger,15:25,UQ 2637,CUH,,,0,URC,HKG,Cancelled
+2026-08-31,arrival,passenger,15:25,CX 423,CPA,,,0,KHH,HKG,At gate 15:10
+2026-08-31,arrival,passenger,15:25,EK 382,UAE,AZ 5630,AZA,1,DXB,HKG,At gate 19:12
+2026-08-31,arrival,passenger,15:25,BA 031,BAW,IB 3524,IBE,1,LHR,HKG,At gate 14:47
+2026-08-31,arrival,passenger,15:35,UO 111,HKE,CX 5111,CPA,1,TPE,HKG,At gate 15:30
+2026-08-31,arrival,passenger,15:35,UO 601,HKE,CX 5601,CPA,1,FUK,HKG,At gate 15:10
+2026-08-31,arrival,passenger,15:35,UO 619,HKE,CX 5619,CPA,1,ICN,HKG,At gate 15:55
+2026-08-31,arrival,passenger,15:40,CZ 603,CSN,MF 9213,CXA,1,URC,HKG,At gate 16:04
+2026-08-31,arrival,passenger,15:45,9G 502,SPQ,,,0,PQC,HKG,At gate 15:42
+2026-08-31,arrival,passenger,15:45,HX 170,CRK,HU 8275,CHH,1,SYX,HKG,At gate 16:55
+2026-08-31,arrival,passenger,15:45,CX 256,CPA,,,0,LHR,HKG,At gate 15:24
+2026-08-31,arrival,passenger,15:50,HX 679,CRK,EY 6823,ETD,1,OKA,HKG,At gate 15:39
+2026-08-31,arrival,passenger,15:55,CA 427,CCA,CX 6127 / ZH 4983,CPA / CSZ,2,CTU,HKG,At gate 16:04
+2026-08-31,arrival,passenger,15:55,HB 309,HGB,,,0,FUK,HKG,At gate 15:36
+2026-08-31,arrival,passenger,16:00,CX 335,CPA,CA 6503,CCA,1,PEK,HKG,At gate 15:51
+2026-08-31,arrival,passenger,16:00,UO 725,HKE,CX 5725,CPA,1,HKT,HKG,At gate 15:50
+2026-08-31,arrival,passenger,16:05,CX 349,CPA,,,0,SHA,HKG,At gate 15:51
+2026-08-31,arrival,passenger,16:05,CX 997,CPA,CA 6557,CCA,1,URC,HKG,At gate 15:40
+2026-08-31,arrival,passenger,16:05,MU 509,CES,FM 3023,CSH,1,PVG,HKG,At gate 15:45
+2026-08-31,arrival,passenger,16:05,MU 733,CES,MF 9037,CXA,1,KMG,HKG,At gate 16:03
+2026-08-31,arrival,passenger,16:15,CX 367,CPA,,,0,PVG,HKG,At gate 16:07
+2026-08-31,arrival,passenger,16:15,CX 774,CPA,OM 5647 / AA 8916 / PG 4569 / GF 4078 / QR 3476 / AC 9765,MGL / AAL / BKP / GFA / QTR / ACA,6,BKK,HKG,At gate 16:47
+2026-08-31,arrival,passenger,16:20,CA 109,CCA,CX 6109,CPA,1,PEK,HKG,At gate 16:14
+2026-08-31,arrival,passenger,16:20,PG 807,BKP,CX 6502 / HX 3751 / AY 6295 / EY 7760 / KL 3715 / TG 7002 / QR 4418 / AF 4379,CPA / CRK / FIN / ETD / KLM / THA / QTR / AFR,8,USM,HKG,At gate 16:19
+2026-08-31,arrival,passenger,16:20,CX 184,CPA,AY 5132 / OM 5662 / LH 7018 / BA 4554,FIN / MGL / DLH / BAW,4,PER,HKG,At gate 16:27
+2026-08-31,arrival,passenger,16:20,KE 2005,KAL,DL 7909 / VS 5547,DAL / VIR,2,ICN,HKG,At gate 16:28
+2026-08-31,arrival,passenger,16:25,GJ 8053,CDC,,,0,HGH,HKG,At gate 15:47
+2026-08-31,arrival,passenger,16:30,CX 439,CPA,QR 5829,QTR,1,ICN,HKG,At gate 16:49
+2026-08-31,arrival,passenger,16:30,SC 4631,CDG,CA 8861,CCA,1,TAO,HKG,At gate 16:16
+2026-08-31,arrival,passenger,16:35,CI 915,CAL,,,0,TPE,HKG,At gate 16:48
+2026-08-31,arrival,passenger,16:35,UO 133,HKE,CX 5133,CPA,1,KHH,HKG,At gate 16:47
+2026-08-31,arrival,passenger,16:35,LX 138,SWR,CX 6630,CPA,1,ZRH,HKG,At gate 16:28
+2026-08-31,arrival,passenger,16:40,CX 754,CPA,PG 4561 / GF 4054 / QR 5814 / AY 5138 / OM 5646 / AA 8950,BKP / GFA / QTR / FIN / MGL / AAL,6,BKK,HKG,At gate 16:51
+2026-08-31,arrival,passenger,16:45,CX 513,CPA,,,0,FUK,HKG,At gate 16:31
+2026-08-31,arrival,passenger,16:50,CX 770,CPA,QR 5837 / AY 6555,QTR / FIN,2,HKT,HKG,At gate 16:22
+2026-08-31,arrival,passenger,16:50,CX 987,CPA,CA 6521,CCA,1,CTU,HKG,At gate 16:31
+2026-08-31,arrival,passenger,16:50,UO 851,HKE,CX 5851,CPA,1,KIX,HKG,At gate 16:35
+2026-08-31,arrival,passenger,16:55,CX 955,CPA,,,0,NGB,HKG,At gate 17:00
+2026-08-31,arrival,passenger,16:55,UO 675,HKE,CX 5675,CPA,1,PUS,HKG,At gate 16:36
+2026-08-31,arrival,passenger,17:00,PR 306,PAL,,,0,MNL,HKG,At gate 16:59
+2026-08-31,arrival,passenger,17:00,CX 652,CPA,QR 5800 / AY 5098 / OM 5620 / FJ 5461,QTR / FIN / MGL / FJI,4,SIN,HKG,At gate 17:20
+2026-08-31,arrival,passenger,17:00,UO 717,HKE,,,0,SZB,HKG,At gate 17:05
+2026-08-31,arrival,passenger,17:05,SQ 894,SIA,,,0,SIN,HKG,At gate 17:12
+2026-08-31,arrival,passenger,17:05,CX 357,CPA,,,0,NKG,HKG,At gate 16:40
+2026-08-31,arrival,passenger,17:10,MU 2067,CES,,,0,HFE,HKG,At gate 17:14
+2026-08-31,arrival,passenger,17:10,CA 763,CCA,,,0,PKX,HKG,At gate 17:10
+2026-08-31,arrival,passenger,17:10,CX 634,CPA,MH 9757 / QR 5834 / AY 6554,MAS / QTR / FIN,3,PEN,HKG,At gate 16:59
+2026-08-31,arrival,passenger,17:10,UO 113,HKE,,,0,TPE,HKG,At gate 17:30
+2026-08-31,arrival,passenger,17:15,TK 070,THY,HX 3670 / NZ 4850,CRK / ANZ,2,IST,HKG,At gate 16:46
+2026-08-31,arrival,passenger,17:15,HB 341,HGB,,,0,KIX,HKG,At gate 17:08
+2026-08-31,arrival,passenger,17:20,CA 727,CCA,CX 6143,CPA,1,HGH,HKG,At gate 17:21
+2026-08-31,arrival,passenger,17:20,UO 823,HKE,CX 5823,CPA,1,HIJ,HKG,At gate 17:26
+2026-08-31,arrival,passenger,17:25,CX 377,CPA,,,0,PVG,HKG,At gate 17:08
+2026-08-31,arrival,passenger,17:25,CX 391,CPA,CA 6511,CCA,1,PEK,HKG,At gate 17:35
+2026-08-31,arrival,passenger,17:25,CX 722,CPA,AC 9795 / MH 9196 / QR 5806 / AY 5126,ACA / MAS / QTR / FIN,4,KUL,HKG,At gate 17:18
+2026-08-31,arrival,passenger,17:25,VN 594,HVN,,,0,SGN,HKG,At gate 18:02
+2026-08-31,arrival,passenger,17:25,3U 3959,CSC,CZ 1500,CSN,1,CTU,HKG,At gate 17:53
+2026-08-31,arrival,passenger,17:25,HB 337,HGB,,,0,OKA,HKG,At gate 17:45
+2026-08-31,arrival,passenger,17:30,OM 2971,MGL,CX 6203 / TK 8644,CPA / THY,2,UBN,HKG,At gate 17:49
+2026-08-31,arrival,passenger,17:35,CX 758,CPA,QR 3484 / AY 5860 / AA 8897 / OM 5674 / FJ 5479,QTR / FIN / AAL / MGL / FJI,5,SIN,HKG,At gate 17:39
+2026-08-31,arrival,passenger,17:35,UO 687,HKE,CX 5687,CPA,1,KIX,HKG,At gate 17:24
+2026-08-31,arrival,passenger,17:40,AY 099,FIN,,,0,HEL,HKG,Cancelled
+2026-08-31,arrival,passenger,17:40,AF 188,AFR,KL 2156 / QF 4224,KLM / QFA,2,CDG,HKG,At gate 17:16
+2026-08-31,arrival,passenger,17:40,HX 629,CRK,OZ 9293,AAR,1,ICN,HKG,At gate 17:41
+2026-08-31,arrival,passenger,17:40,FM 809,CSH,MU 8629,CES,1,SHA,HKG,At gate 17:32
+2026-08-31,arrival,passenger,17:45,NZ 081,ANZ,CX 7402 / LH 7153 / TG 4862 / TK 8721,CPA / DLH / THA / THY,4,AKL,HKG,At gate 17:27
+2026-08-31,arrival,passenger,17:45,CX 162,CPA,AY 5094 / BA 4136 / OM 5672,FIN / BAW / MGL,3,SYD,HKG,At gate 18:08
+2026-08-31,arrival,passenger,17:45,TG 638,THA,,,0,BKK,HKG,At gate 18:09
+2026-08-31,arrival,passenger,17:50,HX 615,CRK,TK 8867 / EY 6813,THY / ETD,2,KIX,HKG,At gate 17:29
+2026-08-31,arrival,passenger,17:55,QF 029,QFA,AF 9679 / AY 5022 / BA 7473 / KL 4899 / LA 5928,AFR / FIN / BAW / KLM / LAN,5,MEL,HKG,At gate 17:40
+2026-08-31,arrival,passenger,17:55,QF 127,QFA,AY 5006 / BA 7497 / KL 4897 / LA 4899 / AF 9678,FIN / BAW / KLM / LAN / AFR,5,SYD,HKG,At gate 18:42
+2026-08-31,arrival,passenger,18:00,CX 254,CPA,,,0,LHR,HKG,At gate 17:39
+2026-08-31,arrival,passenger,18:00,HX 659,CRK,EY 6826,ETD,1,OKA,HKG,At gate 17:52
+2026-08-31,arrival,passenger,18:00,CX 411,CPA,QR 3499 / QF 8224 / AA 8894,QTR / QFA / AAL,3,ICN,HKG,At gate 18:04
+2026-08-31,arrival,passenger,18:00,5J 112,CEB,,,0,MNL,HKG,At gate 18:16
+2026-08-31,arrival,passenger,18:10,HX 255,CRK,BR 2899,EVA,1,TPE,HKG,At gate 17:37
+2026-08-31,arrival,passenger,18:10,CX 443,CPA,,,0,TPE,HKG,At gate 17:56
+2026-08-31,arrival,passenger,18:15,CX 951,CPA,,,0,TAO,HKG,At gate 19:53
+2026-08-31,arrival,passenger,18:15,UO 631,HKE,,,0,ICN,HKG,At gate 18:22
+2026-08-31,arrival,passenger,18:15,EK 384,UAE,,,0,DXB → BKK,HKG,At gate 23:14
+2026-08-31,arrival,passenger,18:20,CX 313,CPA,,,0,HAK,HKG,At gate 17:57
+2026-08-31,arrival,passenger,18:25,BR 849,EVA,HX 1849,CRK,1,KHH,HKG,At gate 18:08
+2026-08-31,arrival,passenger,18:25,HX 399,CRK,HU 8083,CHH,1,PKX,HKG,At gate 18:00
+2026-08-31,arrival,passenger,18:25,UO 643,HKE,CX 5643,CPA,1,TAK,HKG,At gate 18:30
+2026-08-31,arrival,passenger,18:30,BR 871,EVA,HX 1831,CRK,1,TPE,HKG,At gate 18:43
+2026-08-31,arrival,passenger,18:30,CX 421,CPA,,,0,TPE,HKG,At gate 18:04
+2026-08-31,arrival,passenger,18:30,UA 152,UAL,,,0,LAX,HKG,At gate 17:56
+2026-08-31,arrival,passenger,18:35,CX 961,CPA,CA 6525,CCA,1,HGH,HKG,At gate 18:29
+2026-08-31,arrival,passenger,18:45,HX 641,CRK,EY 6806,ETD,1,FUK,HKG,At gate 18:18
+2026-08-31,arrival,passenger,18:50,VJ 876,VJC,,,0,SGN,HKG,At gate 18:56
+2026-08-31,arrival,passenger,18:50,CX 527,CPA,QR 5803 / JL 7025,QTR / JAL,2,NRT,HKG,At gate 18:25
+2026-08-31,arrival,passenger,18:55,CX 879,CPA,MH 9199 / OM 5879 / AA 8932,MAS / MGL / AAL,3,SFO,HKG,At gate 18:51
+2026-08-31,arrival,passenger,18:55,CX 885,CPA,MH 9201 / LA 5636 / OM 5885 / AA 8938,MAS / LAN / MGL / AAL,4,LAX,HKG,At gate 18:44
+2026-08-31,arrival,passenger,18:55,JX 235,SJX,,,0,TPE,HKG,At gate 18:35
+2026-08-31,arrival,passenger,18:55,UA 869,UAL,,,0,SFO,HKG,At gate 18:28
+2026-08-31,arrival,passenger,19:00,CA 115,CCA,CX 6115,CPA,1,PEK,HKG,At gate 19:03
+2026-08-31,arrival,passenger,19:00,UO 669,HKE,,,0,FUK,HKG,At gate 18:45
+2026-08-31,arrival,passenger,19:05,CI 919,CAL,,,0,TPE,HKG,At gate 18:45
+2026-08-31,arrival,passenger,19:05,CX 654,CPA,PG 4563 / GF 4068 / QR 5827 / AY 5114 / OM 5634,BKP / GFA / QTR / FIN / MGL,5,BKK,HKG,At gate 21:27
+2026-08-31,arrival,passenger,19:05,CX 831,CPA,MH 9203 / LA 5637 / OM 5831,MAS / LAN / MGL,3,JFK,HKG,At gate 18:59
+2026-08-31,arrival,passenger,19:05,CX 947,CPA,CA 6547,CCA,1,XIY,HKG,At gate 18:41
+2026-08-31,arrival,passenger,19:05,UO 213,HKE,CX 5213,CPA,1,YIW,HKG,At gate 19:04
+2026-08-31,arrival,passenger,19:05,MU 505,CES,FM 3019,CSH,1,PVG,HKG,At gate 18:56
+2026-08-31,arrival,passenger,19:10,HX 018,CRK,TK 9227,THY,1,SYD,HKG,At gate 19:25
+2026-08-31,arrival,passenger,19:10,CX 805,CPA,,,0,YYZ,HKG,At gate 19:17
+2026-08-31,arrival,passenger,19:20,CX 150,CPA,JL 7910 / AY 5100 / OM 5648 / LH 7002 / BA 4142,JAL / FIN / MGL / DLH / BAW,5,BNE,HKG,At gate 20:08
+2026-08-31,arrival,passenger,19:20,HX 549,CRK,EY 6804,ETD,1,DAD,HKG,At gate 19:17
+2026-08-31,arrival,passenger,19:20,HX 605,CRK,TK 9203,THY,1,NRT,HKG,At gate 19:04
+2026-08-31,arrival,passenger,19:20,CX 867,CPA,,,0,YVR,HKG,At gate 19:16
+2026-08-31,arrival,passenger,19:25,CX 589,CPA,QR 5807 / JL 7057,QTR / JAL,2,FUK,HKG,At gate 19:40
+2026-08-31,arrival,passenger,19:25,CX 957,CPA,,,0,CGO,HKG,At gate 18:59
+2026-08-31,arrival,passenger,19:30,CX 539,CPA,QR 5855 / JL 7035 / QF 8258,QTR / JAL / QFA,3,NGO,HKG,At gate 19:10
+2026-08-31,arrival,passenger,19:35,UO 115,HKE,,,0,TPE,HKG,At gate 19:19
+2026-08-31,arrival,passenger,19:35,PX 008,ANG,CX 6898,CPA,1,POM,HKG,At gate 20:44
+2026-08-31,arrival,passenger,19:40,CI 935,CAL,AE 5215,MDA,1,KHH,HKG,At gate 20:02
+2026-08-31,arrival,passenger,19:40,UO 849,HKE,,,0,NRT,HKG,At gate 19:16
+2026-08-31,arrival,passenger,19:45,TR 982,TGW,,,0,SIN,HKG,At gate 19:50
+2026-08-31,arrival,passenger,19:45,HX 247,CRK,HU 8360,CHH,1,PVG,HKG,At gate 20:49
+2026-08-31,arrival,passenger,19:45,UA 821,UAL,,,0,BKK,HKG,At gate 19:33
+2026-08-31,arrival,passenger,19:45,HO 1291,DKH,MU 3951,CES,1,PVG,HKG,At gate 19:37
+2026-08-31,arrival,passenger,19:55,BR 857,EVA,HX 1833,CRK,1,TPE,HKG,At gate 20:35
+2026-08-31,arrival,passenger,19:55,HX 776,CRK,TK 9220,THY,1,BKK,HKG,At gate 21:51
+2026-08-31,arrival,passenger,19:55,HB 321,HGB,,,0,NRT,HKG,At gate 19:30
+2026-08-31,arrival,passenger,20:00,HX 609,CRK,TK 9207,THY,1,NRT,HKG,At gate 19:28
+2026-08-31,arrival,passenger,20:00,CX 549,CPA,QR 5843 / JL 7039,QTR / JAL,2,HND,HKG,At gate 19:40
+2026-08-31,arrival,passenger,20:00,UO 691,HKE,,,0,NGO,HKG,At gate 19:54
+2026-08-31,arrival,passenger,20:10,CX 734,CPA,QR 3491 / OM 5654 / BA 4556 / FJ 5471 / GF 4064,QTR / MGL / BAW / FJI / GFA,5,SIN,HKG,At gate 20:07
+2026-08-31,arrival,passenger,20:10,UO 899,HKE,CX 5899,CPA,1,KIX,HKG,At gate 20:09
+2026-08-31,arrival,passenger,20:15,MU 9657,CES,,,0,KMG,HKG,At gate 20:11
+2026-08-31,arrival,passenger,20:15,CX 918,CPA,LH 7004 / BA 4576,DLH / BAW,2,MNL,HKG,At gate 21:15
+2026-08-31,arrival,passenger,20:15,UO 701,HKE,,,0,BKK,HKG,At gate 20:04
+2026-08-31,arrival,passenger,20:20,HX 619,CRK,TK 8875 / EY 6815,THY / ETD,2,KIX,HKG,At gate 19:49
+2026-08-31,arrival,passenger,20:20,5J 114,CEB,,,0,MNL,HKG,At gate 20:01
+2026-08-31,arrival,passenger,20:20,UO 747,HKE,CX 5747,CPA,1,PEN,HKG,At gate 20:54
+2026-08-31,arrival,passenger,20:25,CX 331,CPA,CA 6501,CCA,1,PEK,HKG,At gate 20:35
+2026-08-31,arrival,passenger,20:30,CX 369,CPA,,,0,PVG,HKG,At gate 20:24
+2026-08-31,arrival,passenger,20:30,CX 706,CPA,PG 4565 / AY 6545 / OM 5626 / AA 8955,BKP / FIN / MGL / AAL,4,BKK,HKG,At gate 20:54
+2026-08-31,arrival,passenger,20:30,CX 776,CPA,QR 3494 / BA 4574,QTR / BAW,2,CGK,HKG,At gate 20:41
+2026-08-31,arrival,passenger,20:35,HB 881,HGB,,,0,CTS,HKG,At gate 20:13
+2026-08-31,arrival,passenger,20:35,UO 845,HKE,CX 5845,CPA,1,OKA,HKG,At gate 20:41
+2026-08-31,arrival,passenger,20:40,CX 473,CPA,,,0,TPE,HKG,At gate 21:08
+2026-08-31,arrival,passenger,20:40,UO 639,HKE,,,0,FUK,HKG,At gate 20:38
+2026-08-31,arrival,passenger,20:45,BR 809,EVA,HX 1835,CRK,1,TPE,HKG,At gate 21:07
+2026-08-31,arrival,passenger,20:45,HX 691,CRK,EY 6801,ETD,1,CTS,HKG,At gate 20:10
+2026-08-31,arrival,passenger,20:50,CX 459,CPA,,,0,KHH,HKG,At gate 21:17
+2026-08-31,arrival,passenger,20:50,CX 507,CPA,JL 7059 / QR 5801,JAL / QTR,2,KIX,HKG,At gate 20:30
+2026-08-31,arrival,passenger,20:50,5J 236,CEB,,,0,CEB,HKG,At gate 20:31
+2026-08-31,arrival,passenger,20:55,CX 581,CPA,QF 8242 / QR 3495 / JL 7061,QFA / QTR / JAL,3,CTS,HKG,At gate 20:41
+2026-08-31,arrival,passenger,21:00,CX 801,CPA,OM 5807,MGL,1,ORD,HKG,At gate 20:58
+2026-08-31,arrival,passenger,21:00,UO 871,HKE,CX 5871,CPA,1,NRT,HKG,At gate 20:51
+2026-08-31,arrival,passenger,21:05,CA 117,CCA,CX 6117,CPA,1,PEK,HKG,At gate 21:06
+2026-08-31,arrival,passenger,21:05,CX 198,CPA,QR 5805 / AY 5848 / LH 7020 / NZ 4995 / BA 4550,QTR / FIN / DLH / ANZ / BAW,5,AKL,HKG,At gate 20:59
+2026-08-31,arrival,passenger,21:05,MU 723,CES,FM 3027,CSH,1,PVG,HKG,At gate 21:07
+2026-08-31,arrival,passenger,21:05,AC 015,ACA,,,0,YVR,HKG,At gate 22:36
+2026-08-31,arrival,passenger,21:10,CX 521,CPA,QR 5859 / JL 7047 / AA 8883,QTR / JAL / AAL,3,NRT,HKG,At gate 21:12
+2026-08-31,arrival,passenger,21:10,CX 565,CPA,JL 7055,JAL,1,KIX → TPE,HKG,At gate 21:01
+2026-08-31,arrival,passenger,21:10,UO 559,HKE,CX 5559,CPA,1,DAD,HKG,At gate 21:11
+2026-08-31,arrival,passenger,21:20,HX 261,CRK,BR 2895,EVA,1,TPE,HKG,At gate 21:41
+2026-08-31,arrival,passenger,21:25,CX 784,CPA,QR 5812 / AY 6546 / BA 4553,QTR / FIN / BAW,3,DPS,HKG,At gate 21:22
+2026-08-31,arrival,passenger,21:30,CX 100,CPA,AY 5834 / LA 5647 / OM 5670 / LH 7000 / BA 4130,FIN / LAN / MGL / DLH / BAW,5,SYD,HKG,At gate 20:56
+2026-08-31,arrival,passenger,21:30,CX 451,CPA,JL 7045,JAL,1,NRT → TPE,HKG,At gate 01:44 (01/09/2026)
+2026-08-31,arrival,passenger,21:30,CX 583,CPA,QF 8246 / QR 3473 / JL 7065,QFA / QTR / JAL,3,CTS,HKG,At gate 21:25
+2026-08-31,arrival,passenger,21:30,CX 708,CPA,PG 4557 / QR 3460 / OM 5604 / BA 4568,BKP / QTR / MGL / BAW,4,BKK,HKG,At gate 21:31
+2026-08-31,arrival,passenger,21:35,HX 217,CRK,HU 8210,CHH,1,NKG,HKG,At gate 21:31
+2026-08-31,arrival,passenger,21:40,CX 595,CPA,QR 5815 / JL 7067,QTR / JAL,2,KIX,HKG,At gate 23:50
+2026-08-31,arrival,passenger,21:40,UO 759,HKE,,,0,BKK,HKG,At gate 21:54
+2026-08-31,arrival,passenger,21:45,CA 107,CCA,CX 6107,CPA,1,PEK,HKG,At gate 22:08
+2026-08-31,arrival,passenger,21:45,CX 104,CPA,AY 5842 / OM 5660 / LH 7010 / BA 4566 / LA 5645,FIN / MGL / DLH / BAW / LAN,5,MEL,HKG,At gate 21:15
+2026-08-31,arrival,passenger,21:50,CX 381,CPA,,,0,PVG,HKG,At gate 21:46
+2026-08-31,arrival,passenger,21:55,HX 239,CRK,HU 8362,CHH,1,SHA,HKG,At gate 22:02
+2026-08-31,arrival,passenger,21:55,QR 816,QTR,CX 9200 / LA 7418 / B6 6607 / BA 2326 / IB 6331,CPA / LAN / JBU / BAW / IBE,5,DOH,HKG,At gate 22:21
+2026-08-31,arrival,passenger,22:00,PR 310,PAL,,,0,MNL,HKG,At gate 22:00
+2026-08-31,arrival,passenger,22:00,CX 531,CPA,JL 7037,JAL,1,NGO → TPE,HKG,At gate 21:48
+2026-08-31,arrival,passenger,22:00,CX 724,CPA,AC 9791 / MH 9202 / QR 5810,ACA / MAS / QTR,3,KUL,HKG,At gate 21:40
+2026-08-31,arrival,passenger,22:00,TG 602,THA,,,0,BKK,HKG,At gate 22:31
+2026-08-31,arrival,passenger,22:05,CX 716,CPA,FJ 5469 / GF 4052 / QR 5816 / OM 5656 / BA 4557 / AA 8907,FJI / GFA / QTR / MGL / BAW / AAL,6,SIN,HKG,At gate 22:00
+2026-08-31,arrival,passenger,22:05,CX 764,CPA,QR 5831 / OM 5629 / JL 7922 / VN 3560 / BA 4562,QTR / MGL / JAL / HVN / BAW,5,SGN,HKG,At gate 21:49
+2026-08-31,arrival,passenger,22:05,EK 380,UAE,TP 6360,TAP,1,DXB,HKG,At gate 22:58
+2026-08-31,arrival,passenger,22:05,JL 735,JAL,MH 9119 / TN 1900 / WS 5910 / AA 8417 / AS 7331 / CX 6323,MAS / THT / WJA / AAL / ASA / CPA,6,NRT,HKG,At gate 21:56
+2026-08-31,arrival,passenger,22:10,HB 873,HGB,,,0,DYG,HKG,At gate 22:35
+2026-08-31,arrival,passenger,22:10,UO 825,HKE,CX 5825,CPA,1,OKA,HKG,At gate 22:00
+2026-08-31,arrival,passenger,22:15,CX 600,CPA,,,0,KTI,HKG,At gate 22:49
+2026-08-31,arrival,passenger,22:15,CX 742,CPA,QR 5802 / AC 9770 / VN 3566 / BA 4564,QTR / ACA / HVN / BAW,4,HAN,HKG,At gate 22:04
+2026-08-31,arrival,passenger,22:15,CX 926,CPA,AC 9796 / PR 3198 / LH 7006,ACA / PAL / DLH,3,CEB,HKG,At gate 22:11
+2026-08-31,arrival,passenger,22:20,CX 307,CPA,,,0,WNZ,HKG,At gate 22:16
+2026-08-31,arrival,passenger,22:20,CX 505,CPA,QR 3457 / JL 7049 / AA 8881,QTR / JAL / AAL,3,NRT,HKG,At gate 22:09
+2026-08-31,arrival,passenger,22:20,CX 963,CPA,CA 6527,CCA,1,HGH,HKG,At gate 23:39
+2026-08-31,arrival,passenger,22:20,CX 979,CPA,,,0,XMN,HKG,At gate 22:22
+2026-08-31,arrival,passenger,22:20,UO 215,HKE,CX 5215,CPA,1,WUX,HKG,At gate 22:24
+2026-08-31,arrival,passenger,22:25,CX 393,CPA,CA 6513,CCA,1,PEK,HKG,At gate 22:22
+2026-08-31,arrival,passenger,22:25,UO 183,HKE,CX 5183,CPA,1,RMQ,HKG,At gate 22:12
+2026-08-31,arrival,passenger,22:30,HB 323,HGB,,,0,NRT,HKG,At gate 22:06
+2026-08-31,arrival,passenger,22:35,NH 811,ANA,AC 6286 / NZ 4147 / UA 7989,ACA / ANZ / UAL,3,NRT,HKG,At gate 22:04
+2026-08-31,arrival,passenger,22:40,CX 569,CPA,JL 7939,JAL,1,KIX,HKG,At gate 22:17
+2026-08-31,arrival,passenger,22:40,CX 991,CPA,,,0,FOC,HKG,At gate 22:33
+2026-08-31,arrival,passenger,22:45,ZE 861,ESR,,,0,ICN,HKG,At gate 23:24
+2026-08-31,arrival,passenger,22:45,KE 2011,KAL,VS 5515 / WS 6035 / DL 7773 / AC 6298,VIR / WJA / DAL / ACA,4,ICN,HKG,At gate 23:08
+2026-08-31,arrival,passenger,22:45,CZ 5009,CSN,3U 7003 / MF 9235,CSC / CXA,2,PKX,HKG,At gate 22:43
+2026-08-31,arrival,passenger,22:50,HX 462,CRK,,,0,HLD,HKG,At gate 23:11
+2026-08-31,arrival,passenger,22:50,UO 135,HKE,CX 5135,CPA,1,KHH,HKG,At gate 22:56
+2026-08-31,arrival,passenger,22:55,CX 902,CPA,,,0,MNL,HKG,At gate 23:04
+2026-08-31,arrival,passenger,23:00,SQ 898,SIA,,,0,SIN,HKG,At gate 23:07
+2026-08-31,arrival,passenger,23:00,CX 419,CPA,QR 5845,QTR,1,ICN,HKG,At gate 23:37
+2026-08-31,arrival,passenger,23:05,CX 479,CPA,,,0,TPE,HKG,At gate 22:52
+2026-08-31,arrival,passenger,23:05,CX 704,CPA,PG 4567 / QR 3450 / AC 9764 / OM 5625,BKP / QTR / ACA / MGL,4,BKK,HKG,At gate 23:05
+2026-08-31,arrival,passenger,23:05,CX 931,CPA,CA 6531,CCA,1,WUH,HKG,At gate 22:57
+2026-08-31,arrival,passenger,23:10,UO 597,HKE,CX 5597,CPA,1,PQC,HKG,At gate 22:42
+2026-08-31,arrival,passenger,23:15,CX 778,CPA,QR 5818 / AC 9762,QTR / ACA,2,HKT,HKG,At gate 23:00
+2026-08-31,arrival,passenger,23:15,UO 695,HKE,CX 5695,CPA,1,FUK,HKG,At gate 23:07
+2026-08-31,arrival,passenger,23:15,UO 755,HKE,CX 5755,CPA,1,CNX,HKG,At gate 23:09
+2026-08-31,arrival,passenger,23:20,UO 117,HKE,CX 5117,CPA,1,TPE,HKG,At gate 00:15 (01/09/2026)
+2026-08-31,arrival,passenger,23:20,UO 647,HKE,CX 5647,CPA,1,NRT,HKG,At gate 23:00
+2026-08-31,arrival,passenger,23:25,ET 645,ETH,,,0,MNL,HKG,At gate 23:24
+2026-08-31,arrival,passenger,23:25,CX 337,CPA,CA 6505,CCA,1,PEK,HKG,At gate 23:14
+2026-08-31,arrival,passenger,23:30,OZ 745,AAR,HX 1565,CRK,1,ICN,HKG,At gate 23:53
+2026-08-31,arrival,passenger,23:30,UO 273,HKE,CX 5273,CPA,1,CZX,HKG,At gate 00:41 (01/09/2026)
+2026-08-31,arrival,passenger,23:30,UO 535,HKE,,,0,MNL,HKG,At gate 23:56
+2026-08-31,arrival,passenger,23:35,LJ 713,JNA,,,0,CJU,HKG,At gate 23:58
+2026-08-31,arrival,passenger,23:35,7C 6013,JJA,H1 9930,HHN,1,ICN,HKG,At gate 23:45
+2026-08-31,arrival,passenger,23:40,CX 989,CPA,,,0,CAN,HKG,At gate 00:28 (01/09/2026)
+2026-08-31,arrival,passenger,23:40,UO 703,HKE,,,0,BKK,HKG,At gate 23:42
+2026-08-31,arrival,passenger,23:45,HX 283,CRK,BR 2891,EVA,1,TPE,HKG,At gate 23:21
+2026-08-31,arrival,passenger,23:45,HX 453,CRK,HU 8161,CHH,1,CTU,HKG,At gate 00:05 (01/09/2026)
+2026-08-31,arrival,passenger,23:45,MU 725,CES,FM 3029,CSH,1,PVG,HKG,At gate 23:33
+2026-08-31,arrival,passenger,23:50,HX 613,CRK,TK 9201 / EY 6812,THY / ETD,2,KIX,HKG,At gate 23:13
+2026-08-31,arrival,passenger,23:50,UO 689,HKE,,,0,KIX,HKG,At gate 23:27
+2026-08-31,arrival,passenger,23:50,MH 078,MAS,CX 6010 / FY 7052 / UL 2778 / QR 4986,CPA / FFM / ALK / QTR,4,KUL,HKG,At gate 00:31 (01/09/2026)
+2026-08-31,arrival,passenger,23:55,GK 027,JJP,,,0,NRT,HKG,At gate 23:49
+2026-08-31,arrival,passenger,23:55,MM 067,APJ,,,0,KIX,HKG,At gate 23:31
+2026-09-01,arrival,passenger,00:00,UO 671,HKE,CX 5671,CPA,1,NGO,HKG,At gate 23:57 (31/08/2026)
+2026-09-01,arrival,passenger,00:00,UO 795,HKE,,,0,HKT,HKG,At gate 23:37 (31/08/2026)
+2026-09-01,arrival,passenger,00:05,HX 547,CRK,EY 6824,ETD,1,DAD,HKG,At gate 23:45 (31/08/2026)
+2026-09-01,arrival,passenger,00:05,CX 782,CPA,AA 8917,AAL,1,DPS,HKG,At gate 23:38 (31/08/2026)
+2026-09-01,arrival,passenger,00:35,UO 651,HKE,CX 5651,CPA,1,NRT,HKG,At gate 23:51 (31/08/2026)
+2026-08-30,departure,passenger,21:30,EK 385,UAE,,,0,HKG,BKK → DXB,Dep 00:09 (31/08/2026)
+2026-08-30,departure,passenger,23:55,CX 289,CPA,LH 7015,DLH,1,HKG,FRA,Dep 00:06 (31/08/2026)
+2026-08-30,departure,passenger,23:55,NH 814,ANA,,,0,HKG,HND,Dep 01:17 (31/08/2026)
+2026-08-31,departure,passenger,00:05,ZE 862,ESR,,,0,HKG,ICN,Dep 00:10
+2026-08-31,departure,passenger,00:05,CX 261,CPA,,,0,HKG,CDG,Dep 00:05
+2026-08-31,departure,passenger,00:05,CX 880,CPA,LA 6094 / OM 5880 / AA 8933 / MH 9190,LAN / MGL / AAL / MAS,4,HKG,LAX,Dep 00:20
+2026-08-31,departure,passenger,00:15,CX 165,CPA,JL 7923 / AY 5099 / OM 5671 / LH 7003 / BA 4143,JAL / FIN / MGL / DLH / BAW,5,HKG,BNE,Dep 01:23
+2026-08-31,departure,passenger,00:20,CX 105,CPA,AY 5095 / OM 5605 / BA 4567,FIN / MGL / BAW,3,HKG,MEL,Dep 00:26
+2026-08-31,departure,passenger,00:25,ET 645,ETH,,,0,HKG,ADD,Dep 00:39
+2026-08-31,departure,passenger,00:25,CX 383,CPA,,,0,HKG,ZRH,Dep 00:27
+2026-08-31,departure,passenger,00:35,7C 6014,JJA,H1 9933,HHN,1,HKG,ICN,Dep 00:30
+2026-08-31,departure,passenger,00:40,EK 381,UAE,TP 6349,TAP,1,HKG,DXB,Dep 01:41
+2026-08-31,departure,passenger,00:45,CX 181,CPA,AY 5093 / OM 5627 / BA 4131,FIN / MGL / BAW,3,HKG,SYD,Dep 00:47
+2026-08-31,departure,passenger,00:45,CX 275,CPA,,,0,HKG,BRU,Dep 01:40
+2026-08-31,departure,passenger,00:45,CX 321,CPA,,,0,HKG,BCN,Dep 00:42
+2026-08-31,departure,passenger,00:45,KE 2012,KAL,DL 7774 / VS 5516 / WS 6036 / AC 6299,DAL / VIR / WJA / ACA,4,HKG,ICN,Dep 00:49
+2026-08-31,departure,passenger,00:45,CX 888,CPA,,,0,HKG,YVR,Dep 01:12
+2026-08-31,departure,passenger,00:50,CX 233,CPA,,,0,HKG,MXP,Dep 00:52
+2026-08-31,departure,passenger,00:50,UO 616,HKE,CX 5616,CPA,1,HKG,ICN,Dep 00:40
+2026-08-31,departure,passenger,00:55,GK 028,JJP,,,0,HKG,NRT,Dep 00:58
+2026-08-31,departure,passenger,00:55,CX 259,CPA,,,0,HKG,MAN,Dep 01:01
+2026-08-31,departure,passenger,00:55,MM 068,APJ,,,0,HKG,KIX,Dep 20:14
+2026-08-31,departure,passenger,01:00,CX 301,CPA,,,0,HKG,MUC,Dep 01:00
+2026-08-31,departure,passenger,01:05,CX 293,CPA,,,0,HKG,FCO,Dep 01:09
+2026-08-31,departure,passenger,01:05,CX 749,CPA,LA 5632 / JL 7901,LAN / JAL,2,HKG,JNB,Dep 01:20
+2026-08-31,departure,passenger,01:10,CX 872,CPA,MH 9198 / OM 5872 / AA 8930,MAS / MGL / AAL,3,HKG,SFO,Dep 01:25
+2026-08-31,departure,passenger,01:15,CX 950,CPA,,,0,HKG,CAN,Dep 01:30
+2026-08-31,departure,passenger,01:15,CX 998,CPA,CA 6558,CCA,1,HKG,URC,Dep 01:19
+2026-08-31,departure,passenger,01:15,UO 854,HKE,,,0,HKG,NRT,Dep 01:07
+2026-08-31,departure,passenger,01:20,CX 524,CPA,QR 5844 / JL 7040 / AA 8884,QTR / JAL / AAL,3,HKG,NRT,Dep 03:27
+2026-08-31,departure,passenger,01:25,BX 3945,ABL,,,0,HKG,ICN,Dep 01:26
+2026-08-31,departure,passenger,01:25,QR 815,QTR,AH 4909 / LA 7419 / BA 2328 / JU 8317 / IB 6245 / B6 6587 / CX 9201,DAH / LAN / BAW / ASL / IBE / JBU / CPA,7,HKG,DOH,Dep 01:29
+2026-08-31,departure,passenger,01:40,OZ 746,AAR,HX 1566,CRK,1,HKG,ICN,Dep 01:51
+2026-08-31,departure,passenger,01:45,CX 659,CPA,QR 3459 / AY 5133 / OM 5613 / FJ 5472,QTR / FIN / MGL / FJI,4,HKG,SIN,Dep 03:14
+2026-08-31,departure,passenger,01:50,TW 640,TWB,,,0,HKG,PUS,Dep 01:43
+2026-08-31,departure,passenger,01:55,CX 566,CPA,QR 5838 / JL 7050,QTR / JAL,2,HKG,KIX,Dep 02:01
+2026-08-31,departure,passenger,02:00,LJ 714,JNA,,,0,HKG,CJU,Dep 02:09
+2026-08-31,departure,passenger,02:00,HX 707,CRK,GA 9771,GIA,1,HKG,DPS,Dep 01:52
+2026-08-31,departure,passenger,02:00,CX 844,CPA,MH 9210 / LA 5631 / OM 5844,MAS / LAN / MGL,3,HKG,JFK,Dep 02:14
+2026-08-31,departure,passenger,02:10,UO 656,HKE,CX 5656,CPA,1,HKG,TAE,Dep 02:25
+2026-08-31,departure,passenger,02:20,5J 243,CEB,,,0,HKG,ILO,Dep 02:24
+2026-08-31,departure,passenger,02:30,UO 698,HKE,CX 5698,CPA,1,HKG,CJU,Dep 02:34
+2026-08-31,departure,passenger,02:35,HX 606,CRK,TK 9204,THY,1,HKG,NRT,Dep 03:09
+2026-08-31,departure,passenger,02:35,UO 604,HKE,CX 5604,CPA,1,HKG,PUS,Dep 02:45
+2026-08-31,departure,passenger,02:45,HB 382,HGB,,,0,HKG,FUK,Dep 02:31
+2026-08-31,departure,passenger,02:50,HX 616,CRK,TK 9211 / EY 6810,THY / ETD,2,HKG,KIX,Dep 03:14
+2026-08-31,departure,passenger,02:50,CX 820,CPA,,,0,HKG,YYZ,Dep 03:39
+2026-08-31,departure,passenger,03:35,HX 638,CRK,,,0,HKG,FUK,Dep 03:55
+2026-08-31,departure,passenger,07:00,UO 842,HKE,CX 5842,CPA,1,HKG,OKA,Dep 06:54
+2026-08-31,departure,passenger,07:10,CX 422,CPA,,,0,HKG,TPE,Cancelled
+2026-08-31,departure,passenger,07:15,UO 618,HKE,,,0,HKG,ICN,Dep 07:02
+2026-08-31,departure,passenger,07:20,CX 907,CPA,,,0,HKG,MNL,Dep 07:13
+2026-08-31,departure,passenger,07:25,CX 334,CPA,CA 6504,CCA,1,HKG,PEK,Dep 07:46
+2026-08-31,departure,passenger,07:25,UO 704,HKE,,,0,HKG,BKK,Dep 07:15
+2026-08-31,departure,passenger,07:30,MU 726,CES,FM 3030,CSH,1,HKG,PVG,Dep 07:19
+2026-08-31,departure,passenger,07:30,HB 308,HGB,,,0,HKG,FUK,Dep 07:28
+2026-08-31,departure,passenger,07:35,UO 522,HKE,CX 5522,CPA,1,HKG,CRK,Dep 07:35
+2026-08-31,departure,passenger,07:35,UO 600,HKE,,,0,HKG,FUK,Dep 07:33
+2026-08-31,departure,passenger,07:40,UO 540,HKE,,,0,HKG,HAN,Dep 07:35
+2026-08-31,departure,passenger,07:40,UA 820,UAL,,,0,HKG,BKK,Dep 07:32
+2026-08-31,departure,passenger,07:45,CX 958,CPA,CA 6524,CCA,1,HKG,HGH,Dep 07:54
+2026-08-31,departure,passenger,07:45,UO 598,HKE,CX 5598,CPA,1,HKG,PQC,Dep 07:45
+2026-08-31,departure,passenger,07:50,CX 982,CPA,,,0,HKG,CAN,Dep 07:55
+2026-08-31,departure,passenger,07:50,TG 603,THA,,,0,HKG,BKK,Dep 07:54
+2026-08-31,departure,passenger,07:50,UO 738,HKE,CX 5738,CPA,1,HKG,CNX,Dep 07:36
+2026-08-31,departure,passenger,07:55,HX 112,CRK,HU 8516,CHH,1,HKG,HGH,Dep 07:56
+2026-08-31,departure,passenger,07:55,CX 434,CPA,QR 3498,QTR,1,HKG,ICN,Dep 07:57
+2026-08-31,departure,passenger,07:55,CX 921,CPA,AC 9767 / PR 3201 / AY 5113 / LH 7007,ACA / PAL / FIN / DLH,4,HKG,CEB,Dep 08:05
+2026-08-31,departure,passenger,07:55,UO 192,HKE,CX 5192,CPA,1,HKG,RMQ,Dep 07:53
+2026-08-31,departure,passenger,07:55,UO 724,HKE,,,0,HKG,HKT,Dep 07:52
+2026-08-31,departure,passenger,08:00,CX 488,CPA,,,0,HKG,TPE,Dep 08:09
+2026-08-31,departure,passenger,08:00,CX 691,CPA,QR 3487 / OM 5661 / FJ 5458 / AA 8898,QTR / MGL / FJI / AAL,4,HKG,SIN,Dep 08:21
+2026-08-31,departure,passenger,08:00,CX 705,CPA,PG 4550 / QR 3469 / AC 9773 / FJ 5470 / AY 5847 / OM 5645 / AA 8906,BKP / QTR / ACA / FJI / FIN / MGL / AAL,7,HKG,BKK,Dep 08:24
+2026-08-31,departure,passenger,08:00,UO 130,HKE,,,0,HKG,KHH,Dep 08:01
+2026-08-31,departure,passenger,08:00,UO 716,HKE,,,0,HKG,SZB,Dep 08:11
+2026-08-31,departure,passenger,08:00,UO 810,HKE,,,0,HKG,KIX,Dep 07:51
+2026-08-31,departure,passenger,08:05,HX 236,CRK,HU 8492,CHH,1,HKG,PVG,Dep 08:04
+2026-08-31,departure,passenger,08:05,CX 257,CPA,,,0,HKG,LHR,Dep 09:34
+2026-08-31,departure,passenger,08:05,CX 771,CPA,QR 5817 / AC 9799 / AY 5123,QTR / ACA / FIN,3,HKG,HKT,Dep 08:08
+2026-08-31,departure,passenger,08:10,CX 316,CPA,,,0,HKG,PVG,Dep 08:16
+2026-08-31,departure,passenger,08:10,CX 564,CPA,JL 7054,JAL,1,HKG,TPE → KIX,Dep 08:29
+2026-08-31,departure,passenger,08:10,CX 596,CPA,QR 5826 / JL 7028,QTR / JAL,2,HKG,KIX,Dep 08:12
+2026-08-31,departure,passenger,08:10,CX 723,CPA,AC 9781 / MH 9189 / QR 3470,ACA / MAS / QTR,3,HKG,KUL,Dep 08:11
+2026-08-31,departure,passenger,08:10,CX 928,CPA,CA 6518,CCA,1,HKG,CKG,Dep 08:14
+2026-08-31,departure,passenger,08:15,CX 512,CPA,QR 5849 / JL 7068,QTR / JAL,2,HKG,FUK,Dep 08:15
+2026-08-31,departure,passenger,08:15,CX 526,CPA,QR 5840 / JL 7026 / AA 8956,QTR / JAL / AAL,3,HKG,NRT,Dep 08:13
+2026-08-31,departure,passenger,08:15,CX 633,CPA,MH 9750 / QR 3481 / AY 5853,MAS / QTR / FIN,3,HKG,PEN,Dep 08:15
+2026-08-31,departure,passenger,08:15,CX 936,CPA,CA 6535,CCA,1,HKG,WUH,Dep 09:33
+2026-08-31,departure,passenger,08:15,HB 340,HGB,,,0,HKG,KIX,Dep 08:13
+2026-08-31,departure,passenger,08:20,CX 767,CPA,QR 5821 / AY 5843 / OM 5644 / AC 9769 / JL 7919 / VN 3563 / BA 4559,QTR / FIN / MGL / ACA / JAL / HVN / BAW,7,HKG,SGN,Dep 09:06
+2026-08-31,departure,passenger,08:20,AI 315,AIC,,,0,HKG,DEL,Dep 08:32
+2026-08-31,departure,passenger,08:25,HX 614,CRK,TK 8866 / EY 6809,THY / ETD,2,HKG,KIX,Dep 08:29
+2026-08-31,departure,passenger,08:25,UO 250,HKE,CX 5250,CPA,1,HKG,SYX,Dep 08:33
+2026-08-31,departure,passenger,08:25,UO 552,HKE,CX 5552,CPA,1,HKG,DAD,Dep 08:29
+2026-08-31,departure,passenger,08:30,CA 118,CCA,CX 6118,CPA,1,HKG,PEK,Dep 08:31
+2026-08-31,departure,passenger,08:30,CX 384,CPA,,,0,HKG,WNZ,Dep 08:31
+2026-08-31,departure,passenger,08:30,HX 604,CRK,TK 9202,THY,1,HKG,NRT,Dep 08:34
+2026-08-31,departure,passenger,08:30,CZ 5010,CSN,3U 7004 / MF 9236,CSC / CXA,2,HKG,PKX,Dep 08:23
+2026-08-31,departure,passenger,08:30,CX 914,CPA,,,0,HKG,FOC,Dep 08:32
+2026-08-31,departure,passenger,08:35,CX 432,CPA,,,0,HKG,KHH,Dep 08:39
+2026-08-31,departure,passenger,08:35,CX 530,CPA,JL 7034,JAL,1,HKG,TPE → NGO,Dep 08:32
+2026-08-31,departure,passenger,08:35,CX 607,CPA,AY 5131,FIN,1,HKG,KTI,Dep 08:32
+2026-08-31,departure,passenger,08:40,CX 548,CPA,QR 5820 / JL 7030,QTR / JAL,2,HKG,HND,Dep 08:43
+2026-08-31,departure,passenger,08:40,CX 759,CPA,GF 4079 / QR 3493 / OM 5663,GFA / QTR / MGL,3,HKG,SIN,Dep 08:43
+2026-08-31,departure,passenger,08:45,HX 628,CRK,OZ 9294,AAR,1,HKG,ICN,Dep 08:36
+2026-08-31,departure,passenger,08:45,HX 690,CRK,EY 6800,ETD,1,HKG,CTS,Dep 08:37
+2026-08-31,departure,passenger,08:45,CX 741,CPA,AC 9771 / QR 5813 / AY 5139,ACA / QTR / FIN,3,HKG,HAN,Dep 08:49
+2026-08-31,departure,passenger,08:45,UO 686,HKE,,,0,HKG,KIX,Dep 08:43
+2026-08-31,departure,passenger,08:45,MH 079,MAS,UL 2779 / AY 6627 / QR 4987 / CX 6011 / FY 7053,ALK / FIN / QTR / CPA / FFM,5,HKG,KUL,Dep 08:41
+2026-08-31,departure,passenger,08:50,HB 702,HGB,,,0,HKG,TPE,Dep 08:51
+2026-08-31,departure,passenger,08:55,TK 171,THY,NZ 4853 / HX 3681,ANZ / CRK,2,HKG,IST,Dep 09:01
+2026-08-31,departure,passenger,09:00,CX 390,CPA,CA 6510,CCA,1,HKG,PEK,Dep 09:04
+2026-08-31,departure,passenger,09:00,CX 466,CPA,,,0,HKG,TPE,Dep 08:54
+2026-08-31,departure,passenger,09:00,CX 717,CPA,PG 4552 / QR 3453 / OM 5665 / AA 8891 / AY 5849,BKP / QTR / MGL / AAL / FIN,5,HKG,BKK,Dep 09:07
+2026-08-31,departure,passenger,09:00,CX 901,CPA,,,0,HKG,MNL,Dep 09:02
+2026-08-31,departure,passenger,09:05,HB 880,HGB,,,0,HKG,CTS,Dep 08:54
+2026-08-31,departure,passenger,09:05,SQ 899,SIA,,,0,HKG,SIN,Dep 09:10
+2026-08-31,departure,passenger,09:05,HX 676,CRK,EY 6822,ETD,1,HKG,OKA,Dep 08:56
+2026-08-31,departure,passenger,09:05,CX 504,CPA,QR 5846 / JL 7042 / AA 8880 / FJ 5480,QTR / JAL / AAL / FJI,4,HKG,NRT,Dep 09:06
+2026-08-31,departure,passenger,09:05,CX 830,CPA,LA 5639 / OM 5830 / MH 9209,LAN / MGL / MAS,3,HKG,JFK,Dep 09:20
+2026-08-31,departure,passenger,09:05,UO 822,HKE,CX 5822,CPA,1,HKG,HIJ,Dep 09:00
+2026-08-31,departure,passenger,09:10,CX 139,CPA,OM 5681 / BA 4135 / AY 5105,MGL / BAW / FIN,3,HKG,SYD,Dep 09:13
+2026-08-31,departure,passenger,09:10,HX 608,CRK,TK 9206,THY,1,HKG,NRT,Dep 09:08
+2026-08-31,departure,passenger,09:10,CX 777,CPA,QR 3483 / AY 6550 / BA 4141 / AA 8913,QTR / FIN / BAW / AAL,4,HKG,CGK,Dep 09:31
+2026-08-31,departure,passenger,09:10,UO 674,HKE,CX 5674,CPA,1,HKG,PUS,Dep 09:11
+2026-08-31,departure,passenger,09:15,HX 252,CRK,BR 2898,EVA,1,HKG,TPE,Dep 09:36
+2026-08-31,departure,passenger,09:15,CX 330,CPA,,,0,HKG,CSX,Dep 09:17
+2026-08-31,departure,passenger,09:15,CX 580,CPA,QF 8215 / QR 5804 / JL 7062,QFA / QTR / JAL,3,HKG,CTS,Dep 09:21
+2026-08-31,departure,passenger,09:15,UO 848,HKE,,,0,HKG,NRT,Dep 09:08
+2026-08-31,departure,passenger,09:20,CX 368,CPA,,,0,HKG,PVG,Dep 09:21
+2026-08-31,departure,passenger,09:20,HB 320,HGB,,,0,HKG,NRT,Dep 09:31
+2026-08-31,departure,passenger,09:25,DL 088,DAL,,,0,HKG,LAX,Dep 09:24
+2026-08-31,departure,passenger,09:25,CX 410,CPA,QF 8223 / AA 8887,QFA / AAL,2,HKG,ICN,Dep 09:30
+2026-08-31,departure,passenger,09:25,CX 755,CPA,PG 4554 / QR 3456 / OM 5657 / AA 8940,BKP / QTR / MGL / AAL,4,HKG,BKK,Dep 09:23
+2026-08-31,departure,passenger,09:25,5J 273,CEB,,,0,HKG,MNL,Dep 09:31
+2026-08-31,departure,passenger,09:30,NH 812,ANA,AC 6287 / NZ 4148 / UA 7988,ACA / ANZ / UAL,3,HKG,NRT,Dep 09:34
+2026-08-31,departure,passenger,09:30,CX 970,CPA,,,0,HKG,XMN,Dep 09:35
+2026-08-31,departure,passenger,09:30,UO 102,HKE,CX 5102,CPA,1,HKG,RMQ,Dep 09:28
+2026-08-31,departure,passenger,09:35,CX 342,CPA,,,0,HKG,SHA,Dep 09:42
+2026-08-31,departure,passenger,09:40,GA 863,GIA,HX 1963,CRK,1,HKG,CGK,Dep 09:55
+2026-08-31,departure,passenger,09:45,UO 630,HKE,,,0,HKG,ICN,Dep 09:41
+2026-08-31,departure,passenger,09:45,MU 724,CES,FM 3028,CSH,1,HKG,PVG,Dep 09:56
+2026-08-31,departure,passenger,09:55,CX 450,CPA,JL 7044,JAL,1,HKG,TPE → NRT,Dep 09:52
+2026-08-31,departure,passenger,10:00,HX 398,CRK,HU 8084,CHH,1,HKG,PKX,Dep 09:51
+2026-08-31,departure,passenger,10:00,CX 582,CPA,QF 8217 / QR 3466 / JL 7066,QFA / QTR / JAL,3,HKG,CTS,Dep 09:51
+2026-08-31,departure,passenger,10:00,CX 785,CPA,QR 3485 / AY 6547 / BA 4560,QTR / FIN / BAW,3,HKG,DPS,Dep 10:07
+2026-08-31,departure,passenger,10:00,CX 986,CPA,CA 6522,CCA,1,HKG,CTU,Dep 10:28
+2026-08-31,departure,passenger,10:00,5J 149,CEB,,,0,HKG,CRK,Dep 09:54
+2026-08-31,departure,passenger,10:00,UO 642,HKE,CX 5642,CPA,1,HKG,TAK,Dep 09:57
+2026-08-31,departure,passenger,10:10,BR 892,EVA,HX 1820,CRK,1,HKG,TPE,Dep 10:17
+2026-08-31,departure,passenger,10:10,CX 494,CPA,,,0,HKG,TPE,Dep 10:06
+2026-08-31,departure,passenger,10:10,CX 536,CPA,QF 8213 / QR 8371 / JL 7036,QFA / QTR / JAL,3,HKG,NGO,Dep 10:25
+2026-08-31,departure,passenger,10:10,AE 984,MDA,CI 9502,CAL,1,HKG,KHH,Dep 10:19
+2026-08-31,departure,passenger,10:10,UO 566,HKE,CX 5566,CPA,1,HKG,DAD,Dep 10:09
+2026-08-31,departure,passenger,10:15,CI 602,CAL,,,0,HKG,TPE,Dep 10:15
+2026-08-31,departure,passenger,10:15,CX 954,CPA,,,0,HKG,TAO,Dep 12:28
+2026-08-31,departure,passenger,10:20,HX 640,CRK,EY 6807,ETD,1,HKG,FUK,Dep 10:08
+2026-08-31,departure,passenger,10:25,CX 356,CPA,,,0,HKG,NKG,Dep 10:25
+2026-08-31,departure,passenger,10:25,CX 376,CPA,,,0,HKG,PVG,Dep 10:26
+2026-08-31,departure,passenger,10:25,CX 506,CPA,QR 5822 / JL 7052,QTR / JAL,2,HKG,KIX,Dep 11:19
+2026-08-31,departure,passenger,10:30,CA 108,CCA,CX 6108,CPA,1,HKG,PEK,Dep 10:29
+2026-08-31,departure,passenger,10:30,JL 736,JAL,AA 8418 / AS 7330 / CX 6322 / MH 9120 / TN 1901 / WS 5911,AAL / ASA / CPA / MAS / THT / WJA,6,HKG,NRT,Dep 10:26
+2026-08-31,departure,passenger,10:35,UO 870,HKE,,,0,HKG,NRT,Dep 10:31
+2026-08-31,departure,passenger,10:40,CX 520,CPA,AA 8882 / QR 5828 / JL 7046 / FJ 5482,AAL / QTR / JAL / FJI,4,HKG,NRT,Dep 10:39
+2026-08-31,departure,passenger,10:50,UO 690,HKE,CX 5690,CPA,1,HKG,NGO,Dep 10:41
+2026-08-31,departure,passenger,10:55,HX 169,CRK,HU 8271,CHH,1,HKG,SYX,Dep 12:15
+2026-08-31,departure,passenger,10:55,HX 618,CRK,TK 8876 / EY 6811,THY / ETD,2,HKG,KIX,Dep 10:47
+2026-08-31,departure,passenger,10:55,UO 110,HKE,CX 5110,CPA,1,HKG,TPE,Dep 11:15
+2026-08-31,departure,passenger,10:55,UO 668,HKE,,,0,HKG,FUK,Dep 10:50
+2026-08-31,departure,passenger,10:55,HB 336,HGB,,,0,HKG,OKA,Dep 11:14
+2026-08-31,departure,passenger,11:00,CX 588,CPA,QR 3496 / JL 7058,QTR / JAL,2,HKG,FUK,Dep 10:59
+2026-08-31,departure,passenger,11:00,CX 828,CPA,,,0,HKG,YYZ,Dep 11:12
+2026-08-31,departure,passenger,11:00,CX 956,CPA,,,0,HKG,NGB,Dep 11:07
+2026-08-31,departure,passenger,11:05,BR 852,EVA,HX 1822,CRK,1,HKG,TPE,Dep 11:35
+2026-08-31,departure,passenger,11:05,CI 904,CAL,,,0,HKG,TPE,Dep 10:59
+2026-08-31,departure,passenger,11:05,CX 424,CPA,,,0,HKG,KHH,Dep 11:04
+2026-08-31,departure,passenger,11:05,CX 814,CPA,,,0,HKG,YVR,Dep 11:23
+2026-08-31,departure,passenger,11:05,UO 172,HKE,CX 5172,CPA,1,HKG,RMQ,Dep 11:02
+2026-08-31,departure,passenger,11:10,CX 946,CPA,CA 6546,CCA,1,HKG,XIY,Dep 11:37
+2026-08-31,departure,passenger,11:15,CX 739,CPA,AA 8942 / OM 5679 / GF 4073 / QR 3492,AAL / MGL / GFA / QTR,4,HKG,SIN,Dep 11:15
+2026-08-31,departure,passenger,11:20,CX 163,CPA,BA 4577 / AY 5845 / OM 5673,BAW / FIN / MGL,3,HKG,MEL,Dep 11:25
+2026-08-31,departure,passenger,11:20,HX 658,CRK,EY 6816,ETD,1,HKG,OKA,Dep 11:13
+2026-08-31,departure,passenger,11:20,UO 898,HKE,CX 5898,CPA,1,HKG,KIX,Dep 11:38
+2026-08-31,departure,passenger,11:20,JX 234,SJX,,,0,HKG,TPE,Dep 11:40
+2026-08-31,departure,passenger,11:25,MU 9624,CES,MF 9036,CXA,1,HKG,KMG,Dep 11:35
+2026-08-31,departure,passenger,11:30,PR 301,PAL,,,0,HKG,MNL,Dep 11:19
+2026-08-31,departure,passenger,11:35,MU 766,CES,FM 3034,CSH,1,HKG,NKG,Dep 11:38
+2026-08-31,departure,passenger,11:45,UA 862,UAL,,,0,HKG,SFO,Dep 11:48
+2026-08-31,departure,passenger,11:50,CX 791,CPA,GF 4087 / AY 5097 / AA 8924 / OM 5691,GFA / FIN / AAL / MGL,4,HKG,SIN,Dep 11:52
+2026-08-31,departure,passenger,11:55,AK 139,AXM,,,0,HKG,KUL,Dep 11:56
+2026-08-31,departure,passenger,11:55,CX 157,CPA,OM 5631 / JL 7907 / AY 5107 / BA 4147,MGL / JAL / FIN / BAW,4,HKG,BNE,Dep 12:01
+2026-08-31,departure,passenger,11:55,UO 746,HKE,CX 5746,CPA,1,HKG,PEN,Dep 12:32
+2026-08-31,departure,passenger,11:55,HB 322,HGB,,,0,HKG,NRT,Dep 11:55
+2026-08-31,departure,passenger,12:00,CX 332,CPA,CA 6502,CCA,1,HKG,PEK,Dep 12:59
+2026-08-31,departure,passenger,12:00,CX 653,CPA,PG 4556 / GF 4057 / QR 5853 / OM 5643 / AA 8941,BKP / GFA / QTR / MGL / AAL,5,HKG,BKK,Dep 11:54
+2026-08-31,departure,passenger,12:05,BR 846,EVA,HX 1846,CRK,1,HKG,KHH,Dep 12:01
+2026-08-31,departure,passenger,12:05,MU 722,CES,FM 3014,CSH,1,HKG,SHA,Dep 12:05
+2026-08-31,departure,passenger,12:10,CX 806,CPA,OM 5806,MGL,1,HKG,ORD,Dep 12:13
+2026-08-31,departure,passenger,12:15,CX 960,CPA,CA 6526,CCA,1,HKG,HGH,Dep 12:19
+2026-08-31,departure,passenger,12:20,MU 6098,CES,,,0,HKG,LHW,Dep 12:07
+2026-08-31,departure,passenger,12:20,HX 463,CRK,,,0,HKG,HLD,Dep 12:07
+2026-08-31,departure,passenger,12:20,KE 2002,KAL,DL 7772 / WS 6034 / AC 6297,DAL / WJA / ACA,3,HKG,ICN,Dep 12:41
+2026-08-31,departure,passenger,12:25,SU 213,AFL,,,0,HKG,SVO,Dep 12:32
+2026-08-31,departure,passenger,12:30,ZH 9096,CSZ,CA 3362 / CX 6250,CCA / CPA,2,HKG,WUX,Dep 12:33
+2026-08-31,departure,passenger,12:35,MU 6086,CES,,,0,HKG,TYN,Dep 12:27
+2026-08-31,departure,passenger,12:35,SQ 875,SIA,,,0,HKG,SIN,Dep 13:45
+2026-08-31,departure,passenger,12:35,CX 783,CPA,AA 8921,AAL,1,HKG,DPS,Dep 12:34
+2026-08-31,departure,passenger,12:35,UO 112,HKE,,,0,HKG,TPE,Dep 12:40
+2026-08-31,departure,passenger,12:35,UO 638,HKE,CX 5638,CPA,1,HKG,FUK,Dep 12:34
+2026-08-31,departure,passenger,12:40,CX 725,CPA,MH 9195,MAS,1,HKG,KUL,Dep 12:46
+2026-08-31,departure,passenger,12:40,UA 153,UAL,,,0,HKG,LAX,Dep 12:38
+2026-08-31,departure,passenger,12:45,HX 775,CRK,TK 9221,THY,1,HKG,BKK,Dep 14:11
+2026-08-31,departure,passenger,12:45,CX 884,CPA,LA 5635 / AA 8937 / OM 5884,LAN / AAL / MGL,3,HKG,LAX,Dep 12:50
+2026-08-31,departure,passenger,12:45,CX 952,CPA,,,0,HKG,CGO,Dep 12:46
+2026-08-31,departure,passenger,12:45,UO 136,HKE,CX 5136,CPA,1,HKG,KHH,Dep 12:42
+2026-08-31,departure,passenger,12:50,CA 104,CCA,CX 6104,CPA,1,HKG,TSN,Dep 12:53
+2026-08-31,departure,passenger,12:50,MU 5018,CES,FM 3012,CSH,1,HKG,SHA,Dep 13:05
+2026-08-31,departure,passenger,12:50,MU 502,CES,FM 3016,CSH,1,HKG,PVG,Dep 12:50
+2026-08-31,departure,passenger,12:55,HX 254,CRK,BR 2900,EVA,1,HKG,TPE,Dep 13:04
+2026-08-31,departure,passenger,12:55,TG 601,THA,GF 6301,GFA,1,HKG,BKK,Dep 12:56
+2026-08-31,departure,passenger,13:00,OZ 722,AAR,HX 1552,CRK,1,HKG,ICN,Dep 13:30
+2026-08-31,departure,passenger,13:00,HX 246,CRK,HU 8359,CHH,1,HKG,PVG,Dep 13:25
+2026-08-31,departure,passenger,13:00,UO 646,HKE,CX 5646,CPA,1,HKG,NRT,Dep 13:01
+2026-08-31,departure,passenger,13:10,CX 400,CPA,,,0,HKG,TPE,Dep 13:25
+2026-08-31,departure,passenger,13:15,AK 236,AXM,,,0,HKG,BKI,Dep 13:16
+2026-08-31,departure,passenger,13:15,TW 644,TWB,,,0,HKG,ICN,Dep 13:09
+2026-08-31,departure,passenger,13:20,CX 598,CPA,JL 7938,JAL,1,HKG,KIX,Dep 13:08
+2026-08-31,departure,passenger,13:20,CX 775,CPA,PG 4568 / GF 4085 / QR 3474 / OM 5667 / AA 8900,BKP / GFA / QTR / MGL / AAL,5,HKG,BKK,Dep 13:11
+2026-08-31,departure,passenger,13:25,CX 253,CPA,,,0,HKG,LHR,Dep 15:50
+2026-08-31,departure,passenger,13:25,CX 852,CPA,AA 8953,AAL,1,HKG,SEA,Dep 13:28
+2026-08-31,departure,passenger,13:25,CX 870,CPA,AA 8929 / MH 9180 / OM 5870,AAL / MAS / MGL,3,HKG,SFO,Dep 13:35
+2026-08-31,departure,passenger,13:30,CA 102,CCA,CX 6102,CPA,1,HKG,PEK,Dep 13:25
+2026-08-31,departure,passenger,13:30,BR 868,EVA,HX 1824,CRK,1,HKG,TPE,Dep 13:55
+2026-08-31,departure,passenger,13:30,YP 802,APZ,,,0,HKG,ICN,Dep 13:54
+2026-08-31,departure,passenger,13:30,UO 700,HKE,,,0,HKG,BKK,Dep 13:45
+2026-08-31,departure,passenger,13:35,MU 5016,CES,,,0,HKG,PKX,Dep 13:22
+2026-08-31,departure,passenger,13:35,CX 420,CPA,,,0,HKG,TPE,Dep 13:45
+2026-08-31,departure,passenger,13:40,PR 319,PAL,,,0,HKG,MNL,Dep 14:08
+2026-08-31,departure,passenger,13:40,CX 360,CPA,,,0,HKG,PVG,Dep 13:40
+2026-08-31,departure,passenger,13:40,SC 1152,CDG,CA 8872,CCA,1,HKG,TNA,Dep 13:28
+2026-08-31,departure,passenger,13:40,CZ 356,CSN,3U 7002 / MF 9208,CSC / CXA,2,HKG,PKX,Dep 13:38
+2026-08-31,departure,passenger,13:50,HB 510,HGB,,,0,HKG,MLE,Dep 13:52
+2026-08-31,departure,passenger,13:55,CX 392,CPA,CA 6512,CCA,1,HKG,PEK,Dep 14:04
+2026-08-31,departure,passenger,13:55,FM 812,CSH,MU 8596,CES,1,HKG,PVG,Dep 14:01
+2026-08-31,departure,passenger,14:00,5J 143,CEB,,,0,HKG,MNL,Dep 14:24
+2026-08-31,departure,passenger,14:00,UO 212,HKE,CX 5212,CPA,1,HKG,YIW,Dep 14:02
+2026-08-31,departure,passenger,14:05,CI 910,CAL,,,0,HKG,TPE,Dep 14:40
+2026-08-31,departure,passenger,14:05,CX 919,CPA,,,0,HKG,MNL,Dep 15:30
+2026-08-31,departure,passenger,14:10,CX 310,CPA,,,0,HKG,HAK,Dep 14:05
+2026-08-31,departure,passenger,14:15,UO 650,HKE,,,0,HKG,NRT,Dep 14:09
+2026-08-31,departure,passenger,14:20,HX 612,CRK,TK 9200 / EY 6808,THY / ETD,2,HKG,KIX,Dep 14:13
+2026-08-31,departure,passenger,14:20,HX 630,CRK,TK 8868,THY,1,HKG,NRT,Dep 14:25
+2026-08-31,departure,passenger,14:25,SQ 883,SIA,,,0,HKG,SIN,Dep 14:37
+2026-08-31,departure,passenger,14:25,CX 418,CPA,QR 8370,QTR,1,HKG,ICN,Dep 14:53
+2026-08-31,departure,passenger,14:25,UO 844,HKE,CX 5844,CPA,1,HKG,OKA,Dep 14:24
+2026-08-31,departure,passenger,14:30,HX 548,CRK,EY 6805,ETD,1,HKG,DAD,Dep 14:32
+2026-08-31,departure,passenger,14:30,CX 629,CPA,QR 3479 / AY 6549 / AA 8920,QTR / FIN / AAL,3,HKG,SUB,Dep 15:01
+2026-08-31,departure,passenger,14:30,CX 751,CPA,PG 4558 / GF 4061 / QR 3472 / OM 5637,BKP / GFA / QTR / MGL,4,HKG,BKK,Dep 14:31
+2026-08-31,departure,passenger,14:30,VN 593,HVN,,,0,HKG,HAN,Dep 14:23
+2026-08-31,departure,passenger,14:35,CA 112,CCA,CX 6112,CPA,1,HKG,PEK,Dep 15:18
+2026-08-31,departure,passenger,14:35,NH 860,ANA,UA 7918,UAL,1,HKG,HND,Dep 14:35
+2026-08-31,departure,passenger,14:35,MU 204,CES,MF 9034,CXA,1,HKG,XIY,Dep 14:23
+2026-08-31,departure,passenger,14:40,BI 636,RBA,HX 1636,CRK,1,HKG,BWN,Dep 14:45
+2026-08-31,departure,passenger,14:45,CX 773,CPA,QR 3490 / AC 9797,QTR / ACA,2,HKG,HKT,Dep 14:43
+2026-08-31,departure,passenger,14:50,UO 670,HKE,CX 5670,CPA,1,HKG,NGO,Dep 14:45
+2026-08-31,departure,passenger,14:55,UO 114,HKE,,,0,HKG,TPE,Dep 15:06
+2026-08-31,departure,passenger,14:55,UO 688,HKE,CX 5688,CPA,1,HKG,KIX,Dep 14:50
+2026-08-31,departure,passenger,15:00,CX 171,CPA,QF 8236 / AY 5111 / JL 7905 / BA 4145 / OM 5621 / LH 7019,QFA / FIN / JAL / BAW / MGL / DLH,6,HKG,PER,Dep 15:10
+2026-08-31,departure,passenger,15:00,CX 336,CPA,CA 6506,CCA,1,HKG,PEK,Dep 15:07
+2026-08-31,departure,passenger,15:00,CX 380,CPA,,,0,HKG,PVG,Dep 15:10
+2026-08-31,departure,passenger,15:00,UO 758,HKE,,,0,HKG,BKK,Dep 14:49
+2026-08-31,departure,passenger,15:05,CX 635,CPA,AY 5833 / OM 5731,FIN / MGL,2,HKG,SIN,Dep 15:50
+2026-08-31,departure,passenger,15:05,MU 508,CES,FM 3022,CSH,1,HKG,PVG,Dep 15:20
+2026-08-31,departure,passenger,15:10,UO 652,HKE,,,0,HKG,NRT,Dep 15:05
+2026-08-31,departure,passenger,15:15,HX 216,CRK,HU 8209,CHH,1,HKG,NKG,Dep 15:30
+2026-08-31,departure,passenger,15:15,JL 026,JAL,AS 7332 / CX 6320,ASA / CPA,2,HKG,HND,Dep 15:27
+2026-08-31,departure,passenger,15:15,UO 694,HKE,CX 5694,CPA,1,HKG,FUK,Dep 15:17
+2026-08-31,departure,passenger,15:15,OD 606,MXD,,,0,HKG,KUL,Dep 16:58
+2026-08-31,departure,passenger,15:20,CX 500,CPA,QR 5852 / JL 7048 / AA 8928,QTR / JAL / AAL,3,HKG,NRT,Dep 15:34
+2026-08-31,departure,passenger,15:20,CX 925,CPA,AC 9777 / PR 3199 / PR 3197,ACA / PAL / PAL,3,HKG,CEB,Dep 15:29
+2026-08-31,departure,passenger,15:25,BR 870,EVA,HX 1826,CRK,1,HKG,TPE,Dep 16:03
+2026-08-31,departure,passenger,15:25,MH 073,MAS,CX 6001 / FY 7051 / UL 2773 / AY 6625 / WY 5584 / QR 4971,CPA / FFM / ALK / FIN / OMA / QTR,6,HKG,KUL,Dep 15:34
+2026-08-31,departure,passenger,15:30,HX 238,CRK,HU 8361,CHH,1,HKG,SHA,Dep 15:45
+2026-08-31,departure,passenger,15:30,TG 629,THA,,,0,HKG,BKK,Dep 17:32
+2026-08-31,departure,passenger,15:35,CX 655,CPA,,,0,HKG,KTI,Dep 16:10
+2026-08-31,departure,passenger,15:35,CX 769,CPA,QR 5825 / JL 7927 / VN 3561 / BA 4563 / OM 5650,QTR / JAL / HVN / BAW / MGL,5,HKG,SGN,Dep 15:54
+2026-08-31,departure,passenger,15:35,UO 784,HKE,CX 5784,CPA,1,HKG,HKT,Dep 15:43
+2026-08-31,departure,passenger,15:40,SQ 893,SIA,,,0,HKG,SIN,Dep 15:42
+2026-08-31,departure,passenger,15:45,CX 472,CPA,,,0,HKG,TPE,Dep 16:19
+2026-08-31,departure,passenger,15:45,CX 719,CPA,QR 5819 / BA 4573,QTR / BAW,2,HKG,CGK,Dep 16:11
+2026-08-31,departure,passenger,15:50,UO 824,HKE,CX 5824,CPA,1,HKG,OKA,Dep 15:45
+2026-08-31,departure,passenger,15:50,UO 862,HKE,CX 5862,CPA,1,HKG,KIX,Dep 15:48
+2026-08-31,departure,passenger,15:55,CX 810,CPA,,,0,HKG,YVR,Dep 16:16
+2026-08-31,departure,passenger,16:00,CX 962,CPA,CA 6528,CCA,1,HKG,HGH,Dep 16:04
+2026-08-31,departure,passenger,16:05,HU 720,CHH,HX 1720,CRK,1,HKG,HAK,Dep 15:52
+2026-08-31,departure,passenger,16:05,CX 701,CPA,PG 4560 / GF 4081 / QR 3451 / OM 5639,BKP / GFA / QTR / MGL,4,HKG,BKK,Dep 16:13
+2026-08-31,departure,passenger,16:05,CX 876,CPA,,,0,HKG,DFW,Dep 16:47
+2026-08-31,departure,passenger,16:10,UO 214,HKE,CX 5214,CPA,1,HKG,WUX,Dep 16:13
+2026-08-31,departure,passenger,16:10,UO 596,HKE,CX 5596,CPA,1,HKG,PQC,Dep 16:17
+2026-08-31,departure,passenger,16:15,ET 644,ETH,,,0,HKG,MNL,Dep 16:28
+2026-08-31,departure,passenger,16:15,CX 532,CPA,QF 8211 / QR 5824 / JL 7038,QFA / QTR / JAL,3,HKG,NGO,Dep 16:23
+2026-08-31,departure,passenger,16:20,HX 260,CRK,BR 2896,EVA,1,HKG,TPE,Dep 16:49
+2026-08-31,departure,passenger,16:20,CX 542,CPA,QR 5842 / JL 7032,QTR / JAL,2,HKG,HND,Dep 16:18
+2026-08-31,departure,passenger,16:25,UQ 2638,CUH,,,0,HKG,URC,Cancelled
+2026-08-31,departure,passenger,16:30,HX 336,CRK,HU 8190,CHH,1,HKG,PEK,Dep 16:26
+2026-08-31,departure,passenger,16:30,CX 502,CPA,QR 5808 / JL 7056,QTR / JAL,2,HKG,KIX,Dep 16:28
+2026-08-31,departure,passenger,16:30,CX 840,CPA,MH 9184 / OM 5840,MAS / MGL,2,HKG,JFK,Dep 17:20
+2026-08-31,departure,passenger,16:30,UO 558,HKE,CX 5558,CPA,1,HKG,DAD,Dep 16:32
+2026-08-31,departure,passenger,16:35,CX 458,CPA,,,0,HKG,KHH,Dep 16:40
+2026-08-31,departure,passenger,16:40,CX 903,CPA,BA 4569,BAW,1,HKG,MNL,Dep 17:00
+2026-08-31,departure,passenger,16:45,9G 501,SPQ,,,0,HKG,PQC,Dep 16:49
+2026-08-31,departure,passenger,16:50,UO 744,HKE,CX 5744,CPA,1,HKG,CNX,Dep 16:42
+2026-08-31,departure,passenger,16:55,CX 729,CPA,MH 9197 / QR 3467,MAS / QTR,2,HKG,KUL,Dep 17:01
+2026-08-31,departure,passenger,16:55,CX 743,CPA,QR 5811 / VN 3567 / BA 4561,QTR / HVN / BAW,3,HKG,HAN,Dep 16:52
+2026-08-31,departure,passenger,16:55,UO 626,HKE,,,0,HKG,ICN,Dep 16:50
+2026-08-31,departure,passenger,16:55,UO 702,HKE,CX 5702,CPA,1,HKG,BKK,Dep 16:55
+2026-08-31,departure,passenger,16:55,CZ 604,CSN,MF 9214,CXA,1,HKG,URC,Dep 16:59
+2026-08-31,departure,passenger,17:00,CX 312,CPA,CA 6516,CCA,1,HKG,PEK,Dep 17:03
+2026-08-31,departure,passenger,17:00,CX 396,CPA,,,0,HKG,WNZ,Dep 17:14
+2026-08-31,departure,passenger,17:00,CX 711,CPA,QR 5848 / BA 4555 / AA 8901 / OM 5735,QTR / BAW / AAL / MGL,4,HKG,SIN,Dep 17:09
+2026-08-31,departure,passenger,17:05,MU 510,CES,FM 3024,CSH,1,HKG,PVG,Dep 17:06
+2026-08-31,departure,passenger,17:05,MU 734,CES,MF 9038,CXA,1,HKG,KMG,Dep 17:00
+2026-08-31,departure,passenger,17:10,HX 412,CRK,HU 8165,CHH,1,HKG,LJG,Dep 17:04
+2026-08-31,departure,passenger,17:10,HX 452,CRK,HU 8162,CHH,1,HKG,CTU,Dep 17:59
+2026-08-31,departure,passenger,17:20,PG 806,BKP,HX 3752 / KL 3728 / TG 7343 / AY 6275 / CX 6503 / EY 7761 / QR 4440,CRK / KLM / THA / FIN / CPA / ETD / QTR,7,HKG,USM,Dep 17:23
+2026-08-31,departure,passenger,17:25,HB 872,HGB,,,0,HKG,DYG,Dep 17:11
+2026-08-31,departure,passenger,17:25,CX 364,CPA,,,0,HKG,PVG,Dep 17:27
+2026-08-31,departure,passenger,17:25,GJ 8054,CDC,,,0,HKG,HGH,Dep 17:32
+2026-08-31,departure,passenger,17:30,CA 428,CCA,CX 6128 / ZH 4984,CPA / CSZ,2,HKG,CTU,Dep 17:28
+2026-08-31,departure,passenger,17:30,SC 4632,CDG,CA 8862,CCA,1,HKG,TAO,Dep 17:38
+2026-08-31,departure,passenger,17:35,CI 916,CAL,,,0,HKG,TPE,Dep 17:46
+2026-08-31,departure,passenger,17:35,CX 938,CPA,CA 6532,CCA,1,HKG,WUH,Dep 17:26
+2026-08-31,departure,passenger,17:35,UO 622,HKE,CX 5622,CPA,1,HKG,HND,Dep 17:42
+2026-08-31,departure,passenger,17:40,CX 430,CPA,QF 8227 / QR 5832 / AA 8951,QFA / QTR / AAL,3,HKG,ICN,Dep 17:59
+2026-08-31,departure,passenger,17:40,CX 990,CPA,,,0,HKG,FOC,Dep 17:42
+2026-08-31,departure,passenger,17:45,CA 110,CCA,CX 6110,CPA,1,HKG,PEK,Dep 17:40
+2026-08-31,departure,passenger,17:45,CX 978,CPA,,,0,HKG,XMN,Dep 17:50
+2026-08-31,departure,passenger,17:45,UO 272,HKE,CX 5272,CPA,1,HKG,CZX,Dep 18:11
+2026-08-31,departure,passenger,17:50,UO 534,HKE,CX 5534,CPA,1,HKG,MNL,Dep 17:51
+2026-08-31,departure,passenger,17:55,KE 2006,KAL,DL 7914,DAL,1,HKG,ICN,Dep 17:50
+2026-08-31,departure,passenger,18:00,PR 307,PAL,,,0,HKG,MNL,Dep 18:08
+2026-08-31,departure,passenger,18:00,CX 665,CPA,AA 8886 / OM 5653,AAL / MGL,2,HKG,DEL,Dep 18:21
+2026-08-31,departure,passenger,18:10,MU 2068,CES,,,0,HKG,HFE,Dep 18:07
+2026-08-31,departure,passenger,18:15,CX 402,CPA,,,0,HKG,TPE,Dep 18:10
+2026-08-31,departure,passenger,18:15,UO 182,HKE,CX 5182,CPA,1,HKG,RMQ,Dep 18:07
+2026-08-31,departure,passenger,18:25,CX 328,CPA,,,0,HKG,SHA,Dep 18:34
+2026-08-31,departure,passenger,18:25,CX 882,CPA,MH 9192 / LA 5634 / AA 8935 / OM 5882,MAS / LAN / AAL / MGL,4,HKG,LAX,Dep 18:27
+2026-08-31,departure,passenger,18:30,CA 764,CCA,,,0,HKG,PKX,Dep 18:19
+2026-08-31,departure,passenger,18:30,OM 2972,MGL,CX 6202 / TK 8645,CPA / THY,2,HKG,UBN,Dep 19:01
+2026-08-31,departure,passenger,18:35,CA 728,CCA,CX 6144,CPA,1,HKG,HGH,Dep 18:34
+2026-08-31,departure,passenger,18:40,UO 116,HKE,,,0,HKG,TPE,Dep 18:33
+2026-08-31,departure,passenger,18:40,3U 3960,CSC,CZ 1501,CSN,1,HKG,CTU,Dep 18:45
+2026-08-31,departure,passenger,18:45,VN 595,HVN,,,0,HKG,SGN,Dep 18:50
+2026-08-31,departure,passenger,18:50,SQ 895,SIA,,,0,HKG,SIN,Dep 19:05
+2026-08-31,departure,passenger,18:50,HX 282,CRK,BR 2892,EVA,1,HKG,TPE,Dep 18:49
+2026-08-31,departure,passenger,18:50,HX 546,CRK,EY 6825,ETD,1,HKG,DAD,Dep 18:51
+2026-08-31,departure,passenger,18:50,UO 134,HKE,CX 5134,CPA,1,HKG,KHH,Dep 18:55
+2026-08-31,departure,passenger,18:50,FM 810,CSH,MU 8630,CES,1,HKG,SHA,Dep 18:57
+2026-08-31,departure,passenger,18:55,CX 603,CPA,,,0,HKG,KTM,Dep 18:56
+2026-08-31,departure,passenger,19:00,CX 135,CPA,AY 5835 / OM 5611 / LH 7011 / BA 4139,FIN / MGL / DLH / BAW,4,HKG,MEL,Dep 19:09
+2026-08-31,departure,passenger,19:00,CX 344,CPA,CA 6514,CCA,1,HKG,PEK,Dep 18:54
+2026-08-31,departure,passenger,19:05,CX 111,CPA,AY 5841 / OM 5617 / LH 7001 / BA 4133,FIN / MGL / DLH / BAW,4,HKG,SYD,Dep 19:18
+2026-08-31,departure,passenger,19:05,CX 797,CPA,QR 5809 / AY 5115 / BA 4575,QTR / FIN / BAW,3,HKG,CGK,Dep 19:28
+2026-08-31,departure,passenger,19:05,TG 639,THA,,,0,HKG,BKK,Dep 19:12
+2026-08-31,departure,passenger,19:10,HX 232,CRK,HU 8509,CHH,1,HKG,PVG,Dep 19:11
+2026-08-31,departure,passenger,19:10,CX 812,CPA,OM 5812,MGL,1,HKG,BOS,Dep 19:50
+2026-08-31,departure,passenger,19:10,CX 826,CPA,,,0,HKG,YYZ,Dep 19:09
+2026-08-31,departure,passenger,19:10,EK 383,UAE,AZ 5631,AZA,1,HKG,DXB,Dep 21:11
+2026-08-31,departure,passenger,19:15,NZ 080,ANZ,CX 7401 / LH 7158 / TG 4863 / TK 8722,CPA / DLH / THA / THY,4,HKG,AKL,Dep 19:41
+2026-08-31,departure,passenger,19:15,CX 916,CPA,CA 6530,CCA,1,HKG,CTU,Dep 19:23
+2026-08-31,departure,passenger,19:15,5J 113,CEB,,,0,HKG,MNL,Dep 19:33
+2026-08-31,departure,passenger,19:20,CX 362,CPA,,,0,HKG,PVG,Dep 19:24
+2026-08-31,departure,passenger,19:20,CX 464,CPA,,,0,HKG,TPE,Dep 19:17
+2026-08-31,departure,passenger,19:25,BR 850,EVA,HX 1850,CRK,1,HKG,KHH,Dep 19:30
+2026-08-31,departure,passenger,19:25,CX 304,CPA,,,0,HKG,NKG,Dep 20:07
+2026-08-31,departure,passenger,19:30,QF 128,QFA,AF 9674 / AY 5005 / BA 7496 / KL 4896 / LA 4894,AFR / FIN / BAW / KLM / LAN,5,HKG,SYD,Dep 19:48
+2026-08-31,departure,passenger,19:40,BR 872,EVA,HX 1832,CRK,1,HKG,TPE,Dep 20:01
+2026-08-31,departure,passenger,19:40,QR 817,QTR,CX 9203 / LA 6039 / B6 6546 / BA 2354 / JU 8318 / IB 6246,CPA / LAN / JBU / BAW / ASL / IBE,6,HKG,DOH,Dep 20:00
+2026-08-31,departure,passenger,19:45,CX 426,CPA,QF 8233 / AA 8905,QFA / AAL,2,HKG,ICN,Dep 19:40
+2026-08-31,departure,passenger,19:50,VJ 877,VJC,,,0,HKG,SGN,Dep 19:50
+2026-08-31,departure,passenger,19:50,UO 226,HKE,CX 5226,CPA,1,HKG,NGB,Dep 19:55
+2026-08-31,departure,passenger,20:00,CX 988,CPA,,,0,HKG,CAN,Dep 20:10
+2026-08-31,departure,passenger,20:00,UO 628,HKE,CX 5628,CPA,1,HKG,HND,Dep 19:57
+2026-08-31,departure,passenger,20:05,QF 030,QFA,KL 4894 / LA 5929 / AF 9676 / AY 5015 / BA 7472,KLM / LAN / AFR / FIN / BAW,5,HKG,MEL,Dep 20:12
+2026-08-31,departure,passenger,20:05,MU 506,CES,FM 3020,CSH,1,HKG,PVG,Dep 19:58
+2026-08-31,departure,passenger,20:10,CI 920,CAL,,,0,HKG,TPE,Dep 20:19
+2026-08-31,departure,passenger,20:10,CX 964,CPA,CA 6564,CCA,1,HKG,HGH,Dep 20:21
+2026-08-31,departure,passenger,20:10,JX 236,SJX,,,0,HKG,TPE,Dep 20:28
+2026-08-31,departure,passenger,20:15,CA 116,CCA,CX 6116,CPA,1,HKG,PEK,Dep 20:19
+2026-08-31,departure,passenger,20:20,HX 304,CRK,HU 8160,CHH,1,HKG,PEK,Dep 20:24
+2026-08-31,departure,passenger,20:20,EY 871,ETD,HX 3601,CRK,1,HKG,AUH,Dep 20:16
+2026-08-31,departure,passenger,20:25,CX 942,CPA,CA 6542,CCA,1,HKG,XIY,Dep 20:19
+2026-08-31,departure,passenger,20:30,CX 913,CPA,AY 5135 / LH 7005 / BA 4578,FIN / DLH / BAW,3,HKG,MNL,Dep 20:41
+2026-08-31,departure,passenger,20:30,UA 152,UAL,,,0,HKG,SGN,Dep 20:36
+2026-08-31,departure,passenger,20:30,UO 768,HKE,CX 5768,CPA,1,HKG,PEN,Dep 20:31
+2026-08-31,departure,passenger,20:35,CX 611,CPA,QF 8249 / AY 5857 / AA 8958,QFA / FIN / AAL,3,HKG,CMB,Dep 20:29
+2026-08-31,departure,passenger,20:35,CX 651,CPA,JL 7915 / AA 8949,JAL / AAL,2,HKG,MAA,Dep 20:33
+2026-08-31,departure,passenger,20:35,CX 663,CPA,OM 5601 / JL 7913 / AA 8948,MGL / JAL / AAL,3,HKG,BOM,Dep 20:47
+2026-08-31,departure,passenger,20:35,CX 679,CPA,OM 5603 / JL 7933 / AA 8947,MGL / JAL / AAL,3,HKG,DEL,Dep 20:53
+2026-08-31,departure,passenger,20:40,CI 936,CAL,AE 5216,MDA,1,HKG,KHH,Dep 20:50
+2026-08-31,departure,passenger,20:40,HX 218,CRK,HU 8260,CHH,1,HKG,NKG,Dep 20:46
+2026-08-31,departure,passenger,20:45,TR 983,TGW,,,0,HKG,SIN,Dep 21:21
+2026-08-31,departure,passenger,20:45,PX 019,ANG,CX 6899,CPA,1,HKG,POM,Dep 22:45
+2026-08-31,departure,passenger,20:45,HO 1292,DKH,MU 3952,CES,1,HKG,PVG,Dep 20:54
+2026-08-31,departure,passenger,20:55,AY 100,FIN,,,0,HKG,HEL,Cancelled
+2026-08-31,departure,passenger,20:55,HX 496,CRK,HU 8202,CHH,1,HKG,CKG,Dep 21:36
+2026-08-31,departure,passenger,20:55,CX 623,CPA,,,0,HKG,BLR,Dep 21:01
+2026-08-31,departure,passenger,20:55,CX 715,CPA,QR 3471 / AY 5855 / OM 5609 / AA 8903,QTR / FIN / MGL / AAL,4,HKG,SIN,Dep 21:01
+2026-08-31,departure,passenger,21:00,UO 614,HKE,CX 5614,CPA,1,HKG,ICN,Dep 21:00
+2026-08-31,departure,passenger,21:05,BR 858,EVA,HX 1834,CRK,1,HKG,TPE,Dep 21:33
+2026-08-31,departure,passenger,21:05,HX 128,CRK,HU 8518,CHH,1,HKG,HGH,Dep 20:55
+2026-08-31,departure,passenger,21:05,CX 302,CPA,,,0,HKG,PVG,Dep 21:43
+2026-08-31,departure,passenger,21:10,CX 113,CPA,QR 3475 / AY 5101 / LA 5633 / LH 7021 / NZ 4994 / BA 4551,QTR / FIN / LAN / DLH / ANZ / BAW,6,HKG,AKL,Dep 21:25
+2026-08-31,departure,passenger,21:15,MU 9658,CES,,,0,HKG,KMG,Dep 21:03
+2026-08-31,departure,passenger,21:15,5J 115,CEB,,,0,HKG,MNL,Dep 21:15
+2026-08-31,departure,passenger,21:25,UO 790,HKE,CX 5790,CPA,1,HKG,BKI,Dep 21:40
+2026-08-31,departure,passenger,21:30,CX 733,CPA,MH 9208 / AY 5127,MAS / FIN,2,HKG,KUL,Dep 21:58
+2026-08-31,departure,passenger,21:30,UO 732,HKE,,,0,HKG,BKK,Dep 21:27
+2026-08-31,departure,passenger,21:30,EK 385,UAE,,,0,HKG,BKK → DXB,Dep 01:20 (01/09/2026)
+2026-08-31,departure,passenger,21:35,CX 161,CPA,AY 5091 / OM 5619 / BA 4137,FIN / MGL / BAW,3,HKG,SYD,Dep 22:02
+2026-08-31,departure,passenger,21:35,5J 237,CEB,,,0,HKG,CEB,Dep 21:46
+2026-08-31,departure,passenger,21:40,CX 448,CPA,,,0,HKG,KHH,Dep 21:53
+2026-08-31,departure,passenger,21:45,BR 810,EVA,HX 1836,CRK,1,HKG,TPE,Dep 21:57
+2026-08-31,departure,passenger,21:45,UA 821,UAL,,,0,HKG,LAX,Dep 21:43
+2026-08-31,departure,passenger,21:55,CX 340,CPA,CA 6520,CCA,1,HKG,PEK,Dep 22:08
+2026-08-31,departure,passenger,21:55,CX 939,CPA,AY 5137 / BA 4570,FIN / BAW,2,HKG,MNL,Dep 22:33
+2026-08-31,departure,passenger,22:00,HB 710,HGB,,,0,HKG,TPE,Dep 21:48
+2026-08-31,departure,passenger,22:05,MU 7366,CES,,,0,HKG,PVG,Dep 22:10
+2026-08-31,departure,passenger,22:15,CX 617,CPA,PG 4570 / QR 3452 / AC 9763 / AY 5129 / OM 5635 / BA 4565 / AA 8919,BKP / QTR / ACA / FIN / MGL / BAW / AAL,7,HKG,BKK,Dep 23:14
+2026-08-31,departure,passenger,22:15,UO 234,HKE,CX 5234,CPA,1,HKG,PKX,Dep 22:16
+2026-08-31,departure,passenger,22:20,AF 185,AFR,KL 2157 / QF 4223,KLM / QFA,2,HKG,CDG,Dep 22:23
+2026-08-31,departure,passenger,22:25,HX 080,CRK,,,0,HKG,YVR,Dep 22:31
+2026-08-31,departure,passenger,22:30,CX 673,CPA,,,0,HKG,HYD,Dep 23:00
+2026-08-31,departure,passenger,22:30,TK 071,THY,HX 3671 / NZ 4851,CRK / ANZ,2,HKG,IST,Dep 22:31
+2026-08-31,departure,passenger,22:30,UA 878,UAL,,,0,HKG,SFO,Dep 22:27
+2026-08-31,departure,passenger,22:40,CX 721,CPA,QF 8245 / AY 5839 / OM 5659 / JL 7916 / AA 8925,QFA / FIN / MGL / JAL / AAL,5,HKG,SGN,Dep 22:43
+2026-08-31,departure,passenger,22:40,UO 516,HKE,CX 5516,CPA,1,HKG,MNL,Dep 22:55
+2026-08-31,departure,passenger,22:45,CX 251,CPA,,,0,HKG,LHR,Dep 22:55
+2026-08-31,departure,passenger,22:45,BA 032,BAW,IB 3525,IBE,1,HKG,LHR,Dep 23:18
+2026-08-31,departure,passenger,22:50,CX 408,CPA,,,0,HKG,TPE,Dep 22:58
+2026-08-31,departure,passenger,22:55,CX 667,CPA,JL 7935,JAL,1,HKG,DAC,Dep 23:09
+2026-08-31,departure,passenger,23:05,LX 139,SWR,CX 6633,CPA,1,HKG,ZRH,Dep 23:20
+2026-08-31,departure,passenger,23:15,PR 311,PAL,,,0,HKG,MNL,Dep 23:11
+2026-08-31,departure,passenger,23:15,CX 255,CPA,,,0,HKG,LHR,Dep 23:28
+2026-08-31,departure,passenger,23:15,CX 271,CPA,,,0,HKG,AMS,Dep 23:28
+2026-08-31,departure,passenger,23:25,LH 797,DLH,CX 6799 / NZ 4213,CPA / ANZ,2,HKG,FRA,Dep 23:36
+2026-08-31,departure,passenger,23:35,UO 624,HKE,CX 5624,CPA,1,HKG,HND,Dep 23:31
+2026-08-31,departure,passenger,23:55,CX 289,CPA,LH 7015,DLH,1,HKG,FRA,Dep 00:00 (01/09/2026)
+2026-08-31,departure,passenger,23:55,NH 814,ANA,,,0,HKG,HND,Dep 23:53
+2026-08-29,arrival,cargo,21:50,RH 6652,HKC,,,0,DAC,HKG,At gate 02:27 (31/08/2026)
+2026-08-30,arrival,cargo,15:10,RH 332,HKC,,,0,BKK,HKG,At gate 11:05 (31/08/2026)
+2026-08-30,arrival,cargo,16:15,SQ 7874,SIA,,,0,SIN,HKG,At gate 11:12 (31/08/2026)
+2026-08-30,arrival,cargo,18:15,CX 087,CPA,,,0,NLU → ANC,HKG,At gate 01:50 (31/08/2026)
+2026-08-30,arrival,cargo,21:00,CI 5831,CAL,,,0,TPE,HKG,At gate 01:55 (31/08/2026)
+2026-08-30,arrival,cargo,21:45,WW 861,KXP,,,0,BKI,HKG,At gate 00:26 (31/08/2026)
+2026-08-30,arrival,cargo,23:55,RH 963,HKC,,,0,KIX,HKG,At gate 01:58 (31/08/2026)
+2026-08-31,arrival,cargo,00:10,KZ 203,NCA,,,0,NRT,HKG,At gate 23:59 (30/08/2026)
+2026-08-31,arrival,cargo,00:20,5X 168,UPS,,,0,SDF → SIN → PEN → SGN,HKG,At gate 00:13
+2026-08-31,arrival,cargo,00:35,RH 318,HKC,,,0,HAN,HKG,At gate 14:57
+2026-08-31,arrival,cargo,00:50,MB 8182,MNB,,,0,ALA,HKG,At gate 01:05
+2026-08-31,arrival,cargo,01:05,CX 3348,CPA,,,0,CGK → HAN,HKG,At gate 17:19
+2026-08-31,arrival,cargo,01:10,KE 313,KAL,,,0,ICN,HKG,At gate 00:45
+2026-08-31,arrival,cargo,01:20,CX 078,CPA,,,0,SIN → PEN → KTI,HKG,At gate 12:04
+2026-08-31,arrival,cargo,01:30,QR 8004,QTR,,,0,DOH → ALA,HKG,At gate 00:48
+2026-08-31,arrival,cargo,01:35,QR 8500,QTR,,,0,DOH,HKG,At gate 01:03
+2026-08-31,arrival,cargo,01:50,BR 6529,EVA,,,0,TPE,HKG,At gate 02:58
+2026-08-31,arrival,cargo,02:05,7L 624,AZG,,,0,GYD → BOM,HKG,At gate 01:32
+2026-08-31,arrival,cargo,02:15,3S 590,BOX,,,0,LEJ → NRT,HKG,At gate 01:28
+2026-08-31,arrival,cargo,02:15,SV 982,SVA,,,0,RUH,HKG,At gate 22:04
+2026-08-31,arrival,cargo,02:20,RH 9632,HKC,,,0,NMI,HKG,At gate 04:15
+2026-08-31,arrival,cargo,02:40,CX 083,CPA,,,0,PDX → ANC,HKG,At gate 02:56
+2026-08-31,arrival,cargo,03:00,3S 628,BOX,,,0,FRA → ALA,HKG,At gate 02:33
+2026-08-31,arrival,cargo,03:00,QR 8452,QTR,,,0,DOH → SYD,HKG,At gate 04:36
+2026-08-31,arrival,cargo,03:10,RH 372,HKC,,,0,SIN,HKG,At gate 06:41
+2026-08-31,arrival,cargo,03:25,EK 9862,UAE,,,0,DWC,HKG,At gate 03:22
+2026-08-31,arrival,cargo,03:30,7L 1611,AZG,,,0,GYD,HKG,At gate 02:47
+2026-08-31,arrival,cargo,03:55,ES 721,DHX,,,0,BAH,HKG,At gate 03:52
+2026-08-31,arrival,cargo,04:25,HJ 121,TMN,,,0,SYD,HKG,At gate 04:12
+2026-08-31,arrival,cargo,04:45,CK 263,CKK,,,0,PVG,HKG,Cancelled
+2026-08-31,arrival,cargo,04:55,CX 085,CPA,,,0,JFK,HKG,At gate 13:09
+2026-08-31,arrival,cargo,05:05,CI 5827,CAL,,,0,TPE,HKG,At gate 14:26
+2026-08-31,arrival,cargo,05:15,SR 814,XKY,,,0,MNL,HKG,At gate 04:59
+2026-08-31,arrival,cargo,06:00,CX 081,CPA,,,0,ORD → ANC,HKG,At gate 10:05
+2026-08-31,arrival,cargo,06:05,5Y 9445,GTI,,,0,RZE,HKG,Est at 12:20 (02/09/2026)
+2026-08-31,arrival,cargo,06:35,TK 6208,THY,,,0,IST → TBS,HKG,At gate 06:34
+2026-08-31,arrival,cargo,06:40,EK 9780,UAE,,,0,DWC,HKG,At gate 06:40
+2026-08-31,arrival,cargo,07:00,CX 068,CPA,,,0,FRA → MXP,HKG,At gate 12:17
+2026-08-31,arrival,cargo,07:00,ET 3784,ETH,,,0,MAD,HKG,Cancelled
+2026-08-31,arrival,cargo,07:25,RH 9376,HKC,,,0,MAA,HKG,At gate 09:40
+2026-08-31,arrival,cargo,07:35,CX 2018,CPA,,,0,MAA,HKG,At gate 07:49
+2026-08-31,arrival,cargo,08:10,QR 8082,QTR,,,0,DOH,HKG,At gate 07:37
+2026-08-31,arrival,cargo,08:10,EK 9848,UAE,,,0,DWC,HKG,At gate 08:29
+2026-08-31,arrival,cargo,08:30,3S 510,BOX,,,0,LEJ,HKG,At gate 08:04
+2026-08-31,arrival,cargo,08:35,5X 054,UPS,,,0,SDF → ANC → TPE,HKG,At gate 08:28
+2026-08-31,arrival,cargo,08:35,MP 9471,MPH,,,0,AMS,HKG,At gate 08:22
+2026-08-31,arrival,cargo,08:40,SQ 7974,SIA,,,0,SIN,HKG,At gate 08:02
+2026-08-31,arrival,cargo,09:35,CV 9937,CLX,,,0,LUX,HKG,At gate 10:54
+2026-08-31,arrival,cargo,10:45,CV 4167,CLX,,,0,LUX → MCT,HKG,At gate 11:18
+2026-08-31,arrival,cargo,10:45,5X 058,UPS,,,0,HNL → GUM,HKG,At gate 10:19
+2026-08-31,arrival,cargo,11:10,KE 8313,KAL,,,0,ICN,HKG,At gate 12:45
+2026-08-31,arrival,cargo,11:20,5X 060,UPS,,,0,SDF → ANC,HKG,At gate 11:25
+2026-08-31,arrival,cargo,12:05,3S 718,BOX,,,0,LEJ,HKG,At gate 11:26
+2026-08-31,arrival,cargo,12:35,CP 191,LSI,,,0,MXP,HKG,At gate 12:34
+2026-08-31,arrival,cargo,12:45,KZ 209,NCA,,,0,NRT,HKG,At gate 12:10
+2026-08-31,arrival,cargo,12:50,5X 004,UPS,,,0,PHL → CGN,HKG,At gate 12:27
+2026-08-31,arrival,cargo,12:55,K4 701,CKS,,,0,TLV,HKG,At gate 11:35
+2026-08-31,arrival,cargo,12:55,SV 3966,SVA,,,0,RUH,HKG,At gate 19:15
+2026-08-31,arrival,cargo,13:20,3S 714,BOX,,,0,LEJ → DXB,HKG,At gate 17:50
+2026-08-31,arrival,cargo,13:25,CX 2048,CPA,,,0,HAN,HKG,At gate 15:40
+2026-08-31,arrival,cargo,13:35,3S 580,BOX,,,0,LEJ → ICN,HKG,At gate 13:51
+2026-08-31,arrival,cargo,13:40,MB 300,MNB,,,0,BSZ,HKG,At gate 06:00
+2026-08-31,arrival,cargo,13:45,WW 861,KXP,,,0,BKI,HKG,Cancelled
+2026-08-31,arrival,cargo,14:10,5X 002,UPS,,,0,PHL → CGN,HKG,At gate 14:12
+2026-08-31,arrival,cargo,14:25,5X 018,UPS,,,0,PHL → CGN,HKG,At gate 13:49
+2026-08-31,arrival,cargo,14:40,ET 3618,ETH,,,0,ADD → ICN,HKG,At gate 14:20
+2026-08-31,arrival,cargo,14:40,KE 311,KAL,,,0,ICN,HKG,At gate 15:08
+2026-08-31,arrival,cargo,14:40,EK 9796,UAE,,,0,DWC,HKG,At gate 20:08
+2026-08-31,arrival,cargo,14:45,3S 520,BOX,,,0,LEJ → BAH,HKG,Cancelled
+2026-08-31,arrival,cargo,15:15,QR 8400,QTR,,,0,DOH,HKG,At gate 15:51
+2026-08-31,arrival,cargo,15:45,CV 4327,CLX,,,0,LUX,HKG,At gate 15:03
+2026-08-31,arrival,cargo,16:30,FX 079,FDX,,,0,OAK → ANC,HKG,At gate 17:11
+2026-08-31,arrival,cargo,16:35,QY 538,BCS,,,0,LEJ,HKG,At gate 16:36
+2026-08-31,arrival,cargo,16:40,HE 1720,HGO,,,0,GYD,HKG,At gate 16:08
+2026-08-31,arrival,cargo,16:40,EK 9850,UAE,,,0,DWC,HKG,At gate 20:37
+2026-08-31,arrival,cargo,16:45,2C 574,CMA,,,0,CDG,HKG,Cancelled
+2026-08-31,arrival,cargo,16:55,TH 640,RMY,,,0,BKI,HKG,Cancelled
+2026-08-31,arrival,cargo,16:55,TH 685,RMY,,,0,KUL,HKG,At gate 17:14
+2026-08-31,arrival,cargo,17:10,CX 008,CPA,,,0,LHR → CDG,HKG,At gate 17:02
+2026-08-31,arrival,cargo,17:45,5Y 8227,GTI,,,0,ORD,HKG,At gate 17:50
+2026-08-31,arrival,cargo,18:15,AK 8545,AXM,,,0,BKI,HKG,At gate 18:21
+2026-08-31,arrival,cargo,18:15,7L 147,AZG,,,0,GYD,HKG,Cancelled
+2026-08-31,arrival,cargo,18:45,3S 536,BOX,,,0,LEJ → SIN,HKG,At gate 19:59
+2026-08-31,arrival,cargo,18:50,ET 3728,ETH,,,0,LGG,HKG,Cancelled
+2026-08-31,arrival,cargo,18:50,3V 401,TAY,,,0,LGG,HKG,Cancelled
+2026-08-31,arrival,cargo,19:15,EK 9836,UAE,,,0,DWC,HKG,At gate 20:40
+2026-08-31,arrival,cargo,19:25,CV 7337,CLX,,,0,LUX → GYD → CGK,HKG,At gate 21:36
+2026-08-31,arrival,cargo,20:05,QR 8430,QTR,,,0,DOH,HKG,At gate 22:41
+2026-08-31,arrival,cargo,20:10,LD 8076,AHK,,,0,SYD,HKG,At gate 19:49
+2026-08-31,arrival,cargo,20:30,CX 3244,CPA,,,0,DEL,HKG,At gate 20:55
+2026-08-31,arrival,cargo,21:15,CX 097,CPA,,,0,NLU → GDL → ANC,HKG,At gate 07:04 (01/09/2026)
+2026-08-31,arrival,cargo,21:45,RH 9484,HKC,,,0,IST → ALA,HKG,At gate 09:50 (01/09/2026)
+2026-08-31,arrival,cargo,21:50,MB 6019,MNB,,,0,IST → SHJ,HKG,At gate 22:34
+2026-08-31,arrival,cargo,21:50,TK 6062,THY,,,0,IST → DWC,HKG,Cancelled
+2026-08-31,arrival,cargo,22:35,RH 9458,HKC,,,0,DEL,HKG,At gate 07:46 (01/09/2026)
+2026-08-31,arrival,cargo,22:40,TK 6061,THY,,,0,IST → KWI,HKG,At gate 22:42
+2026-08-31,arrival,cargo,23:30,CX 3128,CPA,,,0,SYD → MEL,HKG,At gate 22:32
+2026-08-31,arrival,cargo,23:40,D0 597,DHK,,,0,EMA → LEJ,HKG,At gate 23:26
+2026-08-30,departure,cargo,07:00,RH 331,HKC,,,0,HKG,BKK,Dep 03:40 (31/08/2026)
+2026-08-30,departure,cargo,14:00,CC 4100,ABD,,,0,HKG,DWC → LGG,Dep 07:09 (31/08/2026)
+2026-08-30,departure,cargo,16:40,RH 9485,HKC,,,0,HKG,ALA → IST,Dep 04:33 (31/08/2026)
+2026-08-30,departure,cargo,18:20,K4 527D,CKS,,,0,HKG,ICN → ANC → LAX,Dep 17:07 (31/08/2026)
+2026-08-30,departure,cargo,18:45,SQ 7873,SIA,,,0,HKG,SIN,Dep 14:01 (31/08/2026)
+2026-08-30,departure,cargo,19:25,RH 317,HKC,,,0,HKG,HAN,Dep 08:34 (31/08/2026)
+2026-08-30,departure,cargo,20:05,CX 2098,CPA,,,0,HKG,ANC → RFD → ORD,Dep 10:40 (31/08/2026)
+2026-08-30,departure,cargo,21:30,CX 037,CPA,,,0,HKG,DEL → FRA,Dep 04:01 (31/08/2026)
+2026-08-30,departure,cargo,22:00,C6 7632,MFX,,,0,HKG,TAS,Dep 07:02 (31/08/2026)
+2026-08-30,departure,cargo,22:20,QF 7526,QFA,,,0,HKG,SYD,Dep 00:34 (31/08/2026)
+2026-08-30,departure,cargo,22:45,WW 862,KXP,,,0,HKG,KUL,Dep 03:00 (31/08/2026)
+2026-08-30,departure,cargo,23:00,CI 5832,CAL,,,0,HKG,TPE,Dep 04:01 (31/08/2026)
+2026-08-30,departure,cargo,23:30,MH 6107,MAS,,,0,HKG,KUL,Dep 01:30 (31/08/2026)
+2026-08-30,departure,cargo,23:55,CX 3290,CPA,,,0,HKG,ANC → DFW → ATL,Dep 00:28 (31/08/2026)
+2026-08-31,departure,cargo,00:30,EY 948,ETD,,,0,HKG,AUH,Dep 00:20
+2026-08-31,departure,cargo,00:30,TH 671,RMY,,,0,HKG,KUL,Cancelled
+2026-08-31,departure,cargo,00:40,CV 915,CLX,,,0,HKG,GYD → LUX,Dep 01:57
+2026-08-31,departure,cargo,00:40,ET 3767,ETH,,,0,HKG,LGG,Cancelled
+2026-08-31,departure,cargo,01:30,CX 096,CPA,,,0,HKG,ANC → NLU,Dep 05:26
+2026-08-31,departure,cargo,01:35,5X 169,UPS,,,0,HKG,SIN → SDF,Dep 01:39
+2026-08-31,departure,cargo,01:40,TK 6257,THY,,,0,HKG,IST,Dep 01:47
+2026-08-31,departure,cargo,02:25,KZ 202,NCA,,,0,HKG,NRT,Dep 03:19
+2026-08-31,departure,cargo,02:40,LD 680,AHK,,,0,HKG,TPE,Dep 02:47
+2026-08-31,departure,cargo,03:10,KE 314,KAL,,,0,HKG,ICN,Dep 03:44
+2026-08-31,departure,cargo,03:30,QR 8041,QTR,,,0,HKG,DOH,Dep 03:25
+2026-08-31,departure,cargo,03:35,QR 8415,QTR,,,0,HKG,DOH,Dep 03:18
+2026-08-31,departure,cargo,03:50,BR 6530,EVA,,,0,HKG,TPE,Dep 04:26
+2026-08-31,departure,cargo,04:00,MB 8183,MNB,,,0,HKG,SHJ,Dep 04:10
+2026-08-31,departure,cargo,04:05,SV 983,SVA,,,0,HKG,RUH,Dep 23:29
+2026-08-31,departure,cargo,05:00,QR 8435,QTR,,,0,HKG,DOH,Dep 06:00
+2026-08-31,departure,cargo,05:25,EK 9863,UAE,,,0,HKG,DWC,Dep 05:20
+2026-08-31,departure,cargo,05:40,ES 720,DHX,,,0,HKG,BAH,Dep 05:34
+2026-08-31,departure,cargo,05:45,7L 625,AZG,,,0,HKG,DMM,Dep 05:47
+2026-08-31,departure,cargo,06:00,3S 633,BOX,,,0,HKG,DWC → FRA,Dep 05:40
+2026-08-31,departure,cargo,06:55,CX 3286,CPA,,,0,HKG,ANC → JFK,Dep 06:53
+2026-08-31,departure,cargo,07:00,CK 264,CKK,,,0,HKG,CKG,Cancelled
+2026-08-31,departure,cargo,07:05,CI 5828,CAL,,,0,HKG,TPE,Dep 15:45
+2026-08-31,departure,cargo,07:15,CX 2049,CPA,,,0,HKG,HAN,Dep 09:25
+2026-08-31,departure,cargo,07:20,HQ 9061,ADZ,,,0,HKG,DWC,Dep 07:54
+2026-08-31,departure,cargo,07:20,CX 3245,CPA,,,0,HKG,DEL,Dep 07:15
+2026-08-31,departure,cargo,07:30,K4 253,CKS,,,0,HKG,ANC → CVG,Dep 07:22
+2026-08-31,departure,cargo,08:40,EK 9781,UAE,,,0,HKG,DWC,Dep 08:38
+2026-08-31,departure,cargo,08:55,RH 9457,HKC,,,0,HKG,DEL,Dep 19:11
+2026-08-31,departure,cargo,09:00,7L 1612,AZG,,,0,HKG,ANC → ORD,Dep 08:51
+2026-08-31,departure,cargo,09:05,TK 6291,THY,,,0,HKG,CIT → IST,Dep 09:09
+2026-08-31,departure,cargo,09:05,MB 728,MNB,,,0,HKG,AMD → BAH,Dep 13:01
+2026-08-31,departure,cargo,09:30,ET 3035,ETH,,,0,HKG,ADD,Cancelled
+2026-08-31,departure,cargo,09:50,CX 098,CPA,,,0,HKG,ANC → ORD,Dep 10:02
+2026-08-31,departure,cargo,10:10,QR 8409,QTR,,,0,HKG,DOH,Dep 09:51
+2026-08-31,departure,cargo,10:10,EK 9849,UAE,,,0,HKG,DXB,Dep 10:06
+2026-08-31,departure,cargo,10:15,HQ 8056,ADZ,,,0,HKG,DMM,Dep 09:57
+2026-08-31,departure,cargo,10:35,MP 9472,MPH,,,0,HKG,GYD → AMS,Dep 10:50
+2026-08-31,departure,cargo,10:40,SQ 7974,SIA,,,0,HKG,ANC → LAX,Dep 10:48
+2026-08-31,departure,cargo,11:35,CV 753,CLX,,,0,HKG,GYD → LUX,Dep 14:05
+2026-08-31,departure,cargo,11:50,5Y 8230,GTI,,,0,HKG,ANC → MIA,Dep 12:05
+2026-08-31,departure,cargo,12:00,T8 4728,TVR,,,0,HKG,DMM,Dep 11:48
+2026-08-31,departure,cargo,12:00,RH 9631,HKC,,,0,HKG,NMI,Dep 14:24
+2026-08-31,departure,cargo,12:30,CX 049,CPA,,,0,HKG,BOM,Dep 15:10
+2026-08-31,departure,cargo,13:05,3S 510,BOX,,,0,HKG,CVG,Dep 13:00
+2026-08-31,departure,cargo,13:05,3S 520,BOX,,,0,HKG,CVG,Cancelled
+2026-08-31,departure,cargo,13:10,CV 283,CLX,,,0,HKG,ANC → GDL → NLU → LUX,Dep 13:22
+2026-08-31,departure,cargo,13:10,KE 8314,KAL,,,0,HKG,ICN,Dep 14:44
+2026-08-31,departure,cargo,13:20,5X 065,UPS,,,0,HKG,ANC → SDF,Dep 13:51
+2026-08-31,departure,cargo,14:05,3S 719,BOX,,,0,HKG,LEJ,Dep 13:55
+2026-08-31,departure,cargo,14:40,KZ 206,NCA,,,0,HKG,NRT,Dep 14:29
+2026-08-31,departure,cargo,14:45,WW 862,KXP,,,0,HKG,KUL,Cancelled
+2026-08-31,departure,cargo,14:55,SV 3967,SVA,,,0,HKG,RUH,Dep 21:22
+2026-08-31,departure,cargo,15:30,CX 2084,CPA,,,0,HKG,ANC → LAX → PDX,Dep 21:30
+2026-08-31,departure,cargo,15:35,CP 182,LSI,,,0,HKG,OTP,Dep 08:19 (01/09/2026)
+2026-08-31,departure,cargo,15:35,3S 515,BOX,,,0,HKG,LEJ,Cancelled
+2026-08-31,departure,cargo,15:40,5X 001,UPS,,,0,HKG,CGN → PHL,Dep 15:42
+2026-08-31,departure,cargo,15:40,5X 019,UPS,,,0,HKG,CGN → PHL,Dep 15:58
+2026-08-31,departure,cargo,16:05,5X 061,UPS,,,0,HKG,TPE → ANC → SDF,Dep 16:38
+2026-08-31,departure,cargo,16:10,P9 881,MGE,,,0,HKG,GUM,Est at 23:00 (01/09/2026)
+2026-08-31,departure,cargo,16:25,ET 3685,ETH,,,0,HKG,ADD,Dep 15:57
+2026-08-31,departure,cargo,16:40,KE 312,KAL,,,0,HKG,ICN,Dep 16:30
+2026-08-31,departure,cargo,16:40,EK 9797,UAE,,,0,HKG,DWC,Dep 21:43
+2026-08-31,departure,cargo,16:45,RH 6651,HKC,,,0,HKG,DAC,Dep 17:11
+2026-08-31,departure,cargo,17:15,3S 519,BOX,,,0,HKG,LEJ,Dep 17:05
+2026-08-31,departure,cargo,17:15,QR 8401,QTR,,,0,HKG,DOH,Dep 17:19
+2026-08-31,departure,cargo,17:50,CV 278,CLX,,,0,HKG,ANC → ORD → LUX,Dep 17:31
+2026-08-31,departure,cargo,18:00,TH 641,RMY,,,0,HKG,KUL,Dep 18:37
+2026-08-31,departure,cargo,18:20,CX 2041,CPA,,,0,HKG,MAA,Dep 21:07
+2026-08-31,departure,cargo,18:40,EK 9851,UAE,,,0,HKG,DWC,Dep 22:23
+2026-08-31,departure,cargo,19:05,5X 063,UPS,,,0,HKG,ANC → SDF,Dep 19:06
+2026-08-31,departure,cargo,19:20,HE 1710,HGO,,,0,HKG,GYD,Dep 19:54
+2026-08-31,departure,cargo,19:30,2C 575,CMA,,,0,HKG,ESB → CDG,Cancelled
+2026-08-31,departure,cargo,19:45,AK 8546,AXM,,,0,HKG,KUL,Dep 19:37
+2026-08-31,departure,cargo,19:45,5X 059,UPS,,,0,HKG,ANC → ONT,Dep 19:36
+2026-08-31,departure,cargo,19:50,FX 5991,FDX,,,0,HKG,KIX → OAK,Dep 20:00
+2026-08-31,departure,cargo,20:25,7L 147,AZG,,,0,HKG,GYD,Cancelled
+2026-08-31,departure,cargo,20:45,CX 054,CPA,,,0,HKG,CGO → PVG,Dep 21:00
+2026-08-31,departure,cargo,20:50,QY 539,BCS,,,0,HKG,ALA → LEJ,Dep 20:45
+2026-08-31,departure,cargo,20:50,3V 400,TAY,,,0,HKG,ALA → LGG,Cancelled
+2026-08-31,departure,cargo,21:05,5Y 8692,GTI,,,0,HKG,ANC,Est at 18:30 (01/09/2026)
+2026-08-31,departure,cargo,21:15,EK 9837,UAE,,,0,HKG,DWC,Dep 22:54
+2026-08-31,departure,cargo,21:20,RH 351,HKC,,,0,HKG,MNL,Dep 22:19
+2026-08-31,departure,cargo,21:20,MB 630,MNB,,,0,HKG,CRZ → IST,Cancelled
+2026-08-31,departure,cargo,21:25,K4 702,CKS,,,0,HKG,GYD → TLV,Dep 20:55
+2026-08-31,departure,cargo,21:30,ET 3229,ETH,,,0,HKG,ADD,Cancelled
+2026-08-31,departure,cargo,21:35,CX 3262,CPA,,,0,HKG,CKG,Dep 22:44
+2026-08-31,departure,cargo,21:40,3S 536,BOX,,,0,HKG,CVG,Dep 21:55
+2026-08-31,departure,cargo,22:00,CV 7331,CLX,,,0,HKG,NQZ → LUX,Dep 06:53 (01/09/2026)
+2026-08-31,departure,cargo,22:05,QR 8431,QTR,,,0,HKG,DOH,Dep 00:07 (01/09/2026)
