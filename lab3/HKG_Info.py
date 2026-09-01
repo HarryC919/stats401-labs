@@ -7,10 +7,10 @@ URL = "https://www.hongkongairport.com/flightinfo-rest/rest/flights/past"
 REQUEST_DATE = "2026-08-31"
 
 REQUEST_SETS = [
-    ("false", "true"),  # 客运到港
-    ("false", "false"),  # 客运离港
-    ("true", "true"),  # 货运到港
-    ("true", "false"),  # 货运离港
+    ("false", "true"),  # Passenger arrival
+    ("false", "false"),  # Passenger departure
+    ("true", "true"),  # Cargo arrival
+    ("true", "false"),  # Cargo departure
 ]
 
 FIELDNAMES = [
