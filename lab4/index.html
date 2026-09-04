@@ -1,19 +1,100 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lab 4 | STATS 401</title>
-    <link rel="stylesheet" href="../css/style.css">
-</head>
-<body>
-    <main class="site-shell">
-        <section class="placeholder-card">
-            <p class="eyebrow">STATS 401</p>
-            <h1>Lab 4</h1>
-            <p>Lab 4 will be added here.</p>
-            <a class="back-link" href="../index.html">&larr; Back to home</a>
-        </section>
-    </main>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="A D3 line chart showing tweet sentiment over time."
+        />
+        <title>Lab 4 - Cleaning Web Data for Visualization</title>
+        <link rel="stylesheet" href="../css/style.css" />
+    </head>
+
+    <body>
+        <main class="site-shell">
+            <header class="course-bar">
+                <div class="course-brand">
+                    <p class="course-code">STATS 401</p>
+                    <p class="course-name">
+                        Data Acquisition and Visualization
+                    </p>
+                </div>
+                <a class="back-link" href="../index.html">&larr; All labs</a>
+            </header>
+
+            <nav class="lab-tabs" aria-label="Course labs">
+                <a href="../lab1/index.html">Lab 1</a>
+                <a href="../lab2/index.html">Lab 2</a>
+                <a href="../lab3/index.html">Lab 3</a>
+                <a href="../lab4/index.html" aria-current="page">Lab 4</a>
+                <a href="../lab5/index.html">Lab 5</a>
+                <a href="../lab6/index.html">Lab 6</a>
+                <a href="../lab7/index.html">Lab 7</a>
+                <a href="../lab8/index.html">Lab 8</a>
+                <a href="../lab9/index.html">Lab 9</a>
+                <a href="../lab10/index.html">Lab 10</a>
+            </nav>
+
+            <header class="page-header lab-page-header">
+                <p class="eyebrow">
+                    Lab 4: Cleaning Web Data for Visualization
+                </p>
+                <h1>Tweet Sentiment over Time</h1>
+                <p class="lede">
+                    This visualization shows how estimated tweet sentiment
+                    evolved during the first half of 2026, combining daily
+                    averages with a weekly trend line.
+                </p>
+            </header>
+
+            <section class="chart-card" aria-labelledby="chart-heading">
+                <div class="chart-heading-row">
+                    <div>
+                        <p class="section-label">Sentiment Trend</p>
+                        <h2 id="chart-heading">Average Sentiment by Day</h2>
+                    </div>
+                    <p class="scale-note">
+                        Score: positive - negative probability
+                    </p>
+                </div>
+
+                <div id="chart" aria-live="polite"></div>
+                <div id="tooltip" class="tooltip"></div>
+            </section>
+
+            <section
+                class="chart-card justification-card"
+                aria-labelledby="analysis-heading"
+            >
+                <h2 id="analysis-heading">Analysis</h2>
+                <p>
+                    The dataset contains 7,041 English-language tweets posted
+                    between January 1 and June 5, 2026. During cleaning, rows
+                    with missing text or invalid dates were removed, only
+                    records labeled as English Tweets were retained, embedded
+                    header rows and duplicate tweet IDs were dropped, numeric
+                    engagement fields were coerced, and HTML entities, tags,
+                    and irregular whitespace were normalized. For sentiment
+                    analysis, mentions and URLs were replaced with generic
+                    tokens while punctuation, emoji, capitalization, and
+                    negation were preserved. The Twitter RoBERTa model
+                    estimated negative, neutral, and positive probabilities
+                    for each tweet; sentiment score was calculated as
+                    P(positive) − P(negative), so higher values indicate more
+                    positive language. Each blue point encodes the mean score
+                    for one day, while the red line summarizes weekly means
+                    and the dashed line marks neutral sentiment. Sentiment
+                    remains positive throughout the period, but the weekly
+                    trend generally declines: averages are strongest in
+                    January, flatten near 0.40 in March and April, and reach
+                    their lowest levels in late May and early June. Daily
+                    values fluctuate around this smoother downward pattern.
+                </p>
+            </section>
+        </main>
+
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script type="module" src="../js/lab4.js"></script>
+    </body>
 </html>

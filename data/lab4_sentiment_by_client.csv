@@ -1,0 +1,32 @@
+﻿client_clean,sentiment,count
+Hootsuite Inc.,Negative,8
+Hootsuite Inc.,Neutral,106
+Hootsuite Inc.,Positive,62
+HubSpot,Negative,6
+HubSpot,Neutral,144
+HubSpot,Positive,21
+Meltwater Social,Neutral,103
+Meltwater Social,Positive,61
+Sprinklr,Negative,4
+Sprinklr,Neutral,175
+Sprinklr,Positive,142
+TweetDeck Web App,Neutral,1
+TweetDeck Web App,Positive,1
+Twitter Ads,Neutral,1
+Twitter Ads,Positive,1
+Twitter Media Studio,Negative,4
+Twitter Media Studio,Neutral,63
+Twitter Media Studio,Positive,40
+Twitter Web App,Negative,5
+Twitter Web App,Neutral,1306
+Twitter Web App,Positive,871
+Twitter Web Client,Neutral,19
+Twitter Web Client,Positive,20
+Twitter for Android,Negative,3
+Twitter for Android,Neutral,1399
+Twitter for Android,Positive,1131
+Twitter for iPad,Neutral,36
+Twitter for iPad,Positive,49
+Twitter for iPhone,Negative,59
+Twitter for iPhone,Neutral,673
+Twitter for iPhone,Positive,527
