@@ -147,6 +147,54 @@ async function drawChart() {
             .on("mouseout.tooltip", function () {
             tooltip.style("opacity", 0);
         });
+        const matrixData = [];
+        nodes.forEach((rowNode) => {
+            nodes.forEach((colNode) => {
+                const foundLink = links.find((link) => (link.source.id === rowNode.id &&
+                    link.target.id === colNode.id) ||
+                    (link.source.id === colNode.id &&
+                        link.target.id === rowNode.id));
+                matrixData.push({
+                    row: rowNode.id,
+                    col: colNode.id,
+                    weight: foundLink ? foundLink.weight : 0,
+                    type: foundLink ? foundLink.type : null,
+                });
+            });
+        });
+        const matrixSize = 500;
+        const matrixX = d3
+            .scaleBand()
+            .domain(nodes.map((d) => d.id))
+            .range([0, matrixSize])
+            .padding(0.02);
+        const matrixY = d3
+            .scaleBand()
+            .domain(nodes.map((d) => d.id))
+            .range([0, matrixSize])
+            .padding(0.02);
+        const matrixSvg = d3
+            .select("#matrix")
+            .append("svg")
+            .attr("width", 650)
+            .attr("height", 650);
+        const matrixGroup = matrixSvg
+            .append("g")
+            .attr("transform", "translate(100,50)");
+        const opacityScale = d3
+            .scaleLinear()
+            .domain(d3.extent(links, (d) => d.weight))
+            .range([0.25, 1]);
+        matrixGroup
+            .selectAll("rect")
+            .data(matrixData)
+            .join("rect")
+            .attr("x", (d) => matrixX(d.col))
+            .attr("y", (d) => matrixY(d.row))
+            .attr("width", matrixX.bandwidth())
+            .attr("height", matrixY.bandwidth())
+            .attr("fill", (d) => (d.weight > 0 ? "steelblue" : "#f3f3f3"))
+            .attr("fill-opacity", (d) => d.weight > 0 ? opacityScale(d.weight) : 1);
     });
 }
 drawChart();

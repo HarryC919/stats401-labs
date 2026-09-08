@@ -216,6 +216,74 @@ async function drawChart(): Promise<void> {
             .on("mouseout.tooltip", function () {
                 tooltip.style("opacity", 0);
             });
+
+        const matrixData: {
+            row: string;
+            col: string;
+            weight: number;
+            type: string | null;
+        }[] = [];
+
+        nodes.forEach((rowNode) => {
+            nodes.forEach((colNode) => {
+                const foundLink = links.find(
+                    (link) =>
+                        ((link.source as NodeDatum).id === rowNode.id &&
+                            (link.target as NodeDatum).id === colNode.id) ||
+                        ((link.source as NodeDatum).id === colNode.id &&
+                            (link.target as NodeDatum).id === rowNode.id),
+                );
+
+                matrixData.push({
+                    row: rowNode.id,
+                    col: colNode.id,
+                    weight: foundLink ? foundLink.weight : 0,
+                    type: foundLink ? foundLink.type : null,
+                });
+            });
+        });
+
+        const matrixSize = 500;
+
+        const matrixX = d3
+            .scaleBand()
+            .domain(nodes.map((d) => d.id))
+            .range([0, matrixSize])
+            .padding(0.02);
+
+        const matrixY = d3
+            .scaleBand()
+            .domain(nodes.map((d) => d.id))
+            .range([0, matrixSize])
+            .padding(0.02);
+
+        const matrixSvg = d3
+            .select("#matrix")
+            .append("svg")
+            .attr("width", 650)
+            .attr("height", 650);
+
+        const matrixGroup = matrixSvg
+            .append("g")
+            .attr("transform", "translate(100,50)");
+
+        const opacityScale = d3
+            .scaleLinear()
+            .domain(d3.extent(links, (d) => d.weight) as [number, number])
+            .range([0.25, 1]);
+
+        matrixGroup
+            .selectAll("rect")
+            .data(matrixData)
+            .join("rect")
+            .attr("x", (d) => matrixX(d.col) as number)
+            .attr("y", (d) => matrixY(d.row) as number)
+            .attr("width", matrixX.bandwidth())
+            .attr("height", matrixY.bandwidth())
+            .attr("fill", (d) => (d.weight > 0 ? "steelblue" : "#f3f3f3"))
+            .attr("fill-opacity", (d) =>
+                d.weight > 0 ? opacityScale(d.weight) : 1,
+            );
     });
 }
 
