@@ -1,19 +1,90 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lab 5 | STATS 401</title>
-    <link rel="stylesheet" href="../css/style.css">
-</head>
-<body>
-    <main class="site-shell">
-        <section class="placeholder-card">
-            <p class="eyebrow">STATS 401</p>
-            <h1>Lab 5</h1>
-            <p>Lab 5 will be added here.</p>
-            <a class="back-link" href="../index.html">&larr; Back to home</a>
-        </section>
-    </main>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="A D3 force-directed node-link diagram and adjacency matrix of a small university collaboration network."
+        />
+        <title>Lab 5 — Interactive Network Visualization with D3</title>
+        <link rel="stylesheet" href="../css/style.css" />
+    </head>
+
+    <body>
+        <main class="site-shell">
+            <header class="course-bar">
+                <div class="course-brand">
+                    <p class="course-code">STATS 401</p>
+                    <p class="course-name">
+                        Data Acquisition and Visualization
+                    </p>
+                </div>
+                <a class="back-link" href="../index.html">&larr; All labs</a>
+            </header>
+
+            <nav class="lab-tabs" aria-label="Course labs">
+                <a href="../lab1/index.html">Lab 1</a>
+                <a href="../lab2/index.html">Lab 2</a>
+                <a href="../lab3/index.html">Lab 3</a>
+                <a href="../lab4/index.html">Lab 4</a>
+                <a href="../lab5/index.html" aria-current="page">Lab 5</a>
+                <a href="../lab6/index.html">Lab 6</a>
+                <a href="../lab7/index.html">Lab 7</a>
+                <a href="../lab8/index.html">Lab 8</a>
+                <a href="../lab9/index.html">Lab 9</a>
+                <a href="../lab10/index.html">Lab 10</a>
+            </nav>
+
+            <header class="page-header lab-page-header">
+                <p class="eyebrow">
+                    Lab 5: Interactive Network Visualization with D3
+                </p>
+                <h1>University Collaboration Network</h1>
+                <p class="lede">
+                    A synthetic 10-member interdisciplinary project team.
+                    People are connected by collaboration, communication, and
+                    advice relationships, shown as a force-directed node-link
+                    diagram and as an adjacency matrix.
+                </p>
+            </header>
+
+            <section class="chart-card" aria-labelledby="chart-heading">
+                <div class="chart-heading-row">
+                    <div>
+                        <p class="section-label">Node-Link Diagram</p>
+                        <h2 id="chart-heading">Force-Directed Network</h2>
+                    </div>
+                    <p class="scale-note">
+                        Node size: activity count &middot; node color: group
+                        &middot; link width: weight &middot; link color: type
+                    </p>
+                </div>
+
+                <div id="chart" aria-live="polite"></div>
+                <div id="tooltip" class="tooltip"></div>
+                <p class="scale-note">
+                    Drag nodes to rearrange; hover a node to highlight its
+                    connections.
+                </p>
+            </section>
+
+            <section class="chart-card" aria-labelledby="matrix-heading">
+                <div class="chart-heading-row">
+                    <div>
+                        <p class="section-label">Adjacency Matrix</p>
+                        <h2 id="matrix-heading">Same Network as a Matrix</h2>
+                    </div>
+                    <p class="scale-note">
+                        Filled cell: direct link &middot; opacity: link weight
+                    </p>
+                </div>
+
+                <div id="matrix" aria-live="polite"></div>
+            </section>
+        </main>
+
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script type="module" src="../js/lab5-practice.js"></script>
+    </body>
 </html>
