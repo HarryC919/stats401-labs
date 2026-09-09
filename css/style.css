@@ -442,3 +442,121 @@ h2 {
     opacity: 0;
     font-size: 14px;
 }
+
+/* Lab 5 — network legends, write-up, matrix */
+
+#chart svg {
+    width: min(100%, 1000px);
+}
+
+#matrix svg {
+    display: block;
+    width: min(100%, 730px);
+    margin: 0 auto;
+    height: auto;
+}
+
+.legend-row {
+    display: flex;
+    margin-bottom: 16px;
+    padding: 14px 16px;
+    background: var(--canvas);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    flex-wrap: wrap;
+    gap: 12px 28px;
+}
+
+.legend-group {
+    min-width: 140px;
+}
+
+.legend-title {
+    margin-bottom: 6px;
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 750;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.legend-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+}
+
+.legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.85rem;
+}
+
+.legend-swatch {
+    width: 14px;
+    height: 14px;
+    border-radius: 4px;
+    flex: 0 0 auto;
+}
+
+.legend-note {
+    max-width: 240px;
+    margin-bottom: 0;
+    color: var(--muted);
+    font-size: 0.85rem;
+    line-height: 1.45;
+}
+
+.writeup {
+    margin-top: 16px;
+    max-width: 840px;
+}
+
+.writeup p {
+    margin-bottom: 14px;
+    color: var(--ink);
+    line-height: 1.7;
+}
+
+.writeup p:last-child {
+    margin-bottom: 0;
+}
+
+.writeup code {
+    padding: 2px 6px;
+    background: var(--canvas);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    font-size: 0.85em;
+}
+
+.qa-list {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.qa-item h3 {
+    margin: 0 0 6px;
+    font-size: 1.02rem;
+}
+
+.qa-item p {
+    margin-bottom: 0;
+}
+
+.qa-item em {
+    color: var(--blue-dark);
+    font-style: normal;
+    font-weight: 700;
+}
+
+.matrix-label {
+    font-size: 8.5px;
+    font-weight: 600;
+}
+
+#matrix rect.cell {
+    cursor: crosshair;
+}
