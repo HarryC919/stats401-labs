@@ -49,14 +49,15 @@ function drawNodeLink(stations, routes) {
         .attr("height", height);
     const tooltip = d3.select("#tooltip");
     const sizeScale = d3
-        .scaleSqrt()
-        .domain(d3.extent(stations, (d) => d.daily_passengers))
-        .range([60, 420]);
+        .scaleLinear()
+        .domain([0, d3.max(stations, (d) => d.daily_passengers)])
+        .range([0, 420]);
     const timeWidthScale = d3
         .scaleLinear()
         .domain(d3.extent(routes, (d) => d.travel_time_min))
         .range([1, 6]);
-    const nodeRadius = (d) => Math.sqrt(sizeScale(d.daily_passengers)) / 2;
+    // sqrt(area) encloses each circle, square, and equilateral triangle.
+    const nodeRadius = (d) => Math.sqrt(sizeScale(d.daily_passengers));
     const link = svg
         .append("g")
         .attr("class", "links")

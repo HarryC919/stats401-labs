@@ -98,7 +98,7 @@
                         <p class="legend-title">Size &amp; width</p>
                         <p class="legend-note">
                             Node area proportional to daily passengers <br />
-                            Link width proportional to travel time
+                            Link width increases with travel time
                         </p>
                     </div>
                 </div>
@@ -112,36 +112,11 @@
                 <h2 id="nodelink-design">How the Node-Link View Is Encoded</h2>
                 <div class="writeup">
                     <p>
-                        <strong>District &rarr; node color</strong>, because
-                        district is a geographic category and color is the
-                        strongest channel for categorical grouping; clusters of
-                        same-colored stations immediately show where each
-                        district sits in the topology.
-                        <strong>Daily passengers &rarr; node area (square-root
-                        scale)</strong>, so that heavily used stations read as 
-                        physically bigger stops without area exaggerating 
-                        differences linearly.
-                        <strong>Station type &rarr; node shape</strong>
-                        (circle = Local, square = Transfer, triangle =
-                        Terminal), since shape separates functional roles
-                        without competing with the district colors.
-                        <strong>Travel time &rarr; link width</strong>, making
-                        slow direct connections visually heavy so they stand out
-                        as potential bottlenecks.
-                        <strong>Route type &rarr; link color</strong>, letting
-                        Metro, Express, and Shuttle services be traced across
-                        the map.
-                    </p>
-                    <p>
-                        Interaction does the identification work that static
-                        encodings cannot: <strong>dragging</strong> lets the
-                        reader pull a station out of a cluster to untangle its
-                        links; <strong>hover highlighting</strong> fades
-                        everything except a station and its direct neighbors,
-                        exposing each node's degree; and
-                        <strong>tooltips</strong> identify the exact station
-                        with all three attributes, which is essential with 50
-                        nodes where permanent labels would overlap.
+                        District colors group stations; shapes distinguish Local, Transfer,
+                        and Terminal roles. Area is proportional to passengers, showing usage.
+                        Wider links indicate longer journeys; link colors distinguish services.
+                        Dragging separates overlapping marks, highlighting reveals neighbors,
+                        and tooltips identify stations.
                     </p>
                 </div>
             </section>
@@ -191,28 +166,11 @@
                 <h2 id="matrix-design">How the Matrix Is Encoded</h2>
                 <div class="writeup">
                     <p>
-                        Rows and columns both represent stations, and a filled
-                        cell marks a direct connection.
-                        <strong>Cell color &rarr; route type</strong> and
-                        <strong>cell opacity &rarr; travel time</strong>, so
-                        every populated cell carries both link attributes with
-                        the same color language as the node-link view.
-                        <strong>Label color &rarr; district</strong>, folding a
-                        node attribute into the matrix margins.
-                    </p>
-                    <p>
-                        The key choice is <strong>ordering</strong>: stations
-                        are sorted by district, then by station type (Terminal
-                        &rarr; Transfer &rarr; Local) within each district.
-                        Grouping by district turns district-to-district
-                        connectivity into rectangular bands that can be counted
-                        and compared at a glance — something the hairball of a
-                        50-node diagram hides. I deliberately did not encode
-                        daily passenger volume or station type inside the cells:
-                        with 2,500 cells, an additional size or shape channel
-                        would make the matrix unreadable, and those attributes
-                        are already carried by the node-link view and the
-                        tooltips.
+                        Rows and columns represent stations; filled cells indicate connections.
+                        Cell color shows service type, opacity shows travel time, and label color
+                        shows district. Ordering by district, then station type, groups connections
+                        for comparison. Passenger volume remains in the node-link view to avoid
+                        cluttering cells.
                     </p>
                 </div>
             </section>
@@ -228,16 +186,9 @@
                             1. Which stations appear central in the network?
                         </h3>
                         <p>
-                            <em>Node-link view, answered well.</em> Hovering a
-                            station fades everything except its neighbors, so
-                            degree is directly visible. The network is sparse —
-                            the highest degree is only 3 — and fourteen stations
-                            share that maximum (including the triangles Stations
-                            4, 7, 10, 13, 16, 25, 31, and 34). No single
-                            dominant hub exists; centrality is spread across
-                            many small local hubs, and Terminal stations are the
-                            most connected on average (mean degree 2.12 vs. 1.88
-                            for Locals).
+                            <em>Node-link, partially.</em> Highlighted neighbors reveal degree
+                            centrality: Stations 4 and 7 each have three neighbors, sharing the
+                            maximum. Other centrality measures are not encoded.
                         </p>
                     </div>
                     <div class="qa-item">
@@ -246,15 +197,9 @@
                             another?
                         </h3>
                         <p>
-                            <em>Adjacency matrix, answered well.</em> Because
-                            rows and columns are ordered by district,
-                            district-to-district links form colored blocks. The
-                            East&ndash;South block is clearly the densest (11
-                            direct links), followed by Central&ndash;North (9)
-                            and East&ndash;West (9), while the North&ndash;West
-                            block contains a single cell. This comparison is
-                            much harder in the node-link view, where
-                            cross-district links tangle.
+                            <em>Matrix, well.</em> District blocks reveal 11 East&ndash;South
+                            connections, versus nine each for Central&ndash;North and
+                            East&ndash;West; North&ndash;West has only one.
                         </p>
                     </div>
                     <div class="qa-item">
@@ -263,28 +208,17 @@
                             in the topology?
                         </h3>
                         <p>
-                            <em>Node-link view, answered partially.</em> The
-                            shape encoding shows that triangles (Terminals) and
-                            squares (Transfers) are spread through every
-                            district rather than clustered in one part of the
-                            map, and hover highlighting shows Terminals tend to
-                            be the small local hubs (average degree 2.12 vs.
-                            1.88 for Locals). Precise "location in the topology"
-                            is only approximate, since a force layout has no
-                            stable geographic coordinates.
+                            <em>Node-link, partially.</em> Triangles and squares occur in all
+                            five district colors. Hovering reveals their immediate neighbors,
+                            but broader structural roles require tracing paths.
                         </p>
                     </div>
                     <div class="qa-item">
                         <h3>4. Which stations have high passenger volume?</h3>
                         <p>
-                            <em>Node-link view, answered well.</em> Node area
-                            encodes daily passengers, so the busiest stations
-                            are literally the largest marks: Stations
-                            46&ndash;50 stand out as the five biggest nodes, one
-                            in each district (roughly 9,200&ndash;9,850
-                            passengers/day, confirmed via tooltip). The smallest
-                            circles are visibly an order of magnitude lighter in
-                            volume.
+                            <em>Node-link, partially.</em> Large areas indicate high usage;
+                            tooltips identify Stations 46&ndash;50 as the busiest
+                            (9,158&ndash;9,850 passengers/day). Similar sizes make exact ranking difficult.
                         </p>
                     </div>
                     <div class="qa-item">
@@ -293,15 +227,9 @@
                             connections?
                         </h3>
                         <p>
-                            <em>Both views, answered well.</em> In the node-link
-                            diagram, link width makes the slowest routes the
-                            thickest strokes; in the matrix, the same links are
-                            the darkest cells. The three heaviest links are
-                            Station 7 &harr; Station 31 (16 min), Station 18
-                            &harr; Station 34 (15 min), and Station 29 &harr;
-                            Station 50 (14 min) — all orange, i.e. Express
-                            routes, which fits their role as long cross-city
-                            connections.
+                            <em>Matrix, well.</em> Opaque cells and tooltips identify Express
+                            connections 7&ndash;31 (16 minutes), 18&ndash;34 (15), and
+                            29&ndash;50 (14) as the longest.
                         </p>
                     </div>
                     <div class="qa-item">
@@ -310,14 +238,9 @@
                             particular parts of the network?
                         </h3>
                         <p>
-                            <em>Both views, answered well.</em> Link and cell
-                            colors show that Metro, Express, and Shuttle links
-                            are interleaved throughout all five districts rather
-                            than segregated; the matrix's colored cells appear
-                            scattered across every district block with no
-                            monochrome band. The counts are nearly equal (17
-                            Express, 17 Shuttle, 16 Metro), so no route type
-                            dominates any part of the city.
+                            <em>Matrix, well.</em> Cell colors mix across major district pairs,
+                            but Central's two internal connections are both Shuttle;
+                            North&ndash;West's only connection is Metro.
                         </p>
                     </div>
                 </div>
