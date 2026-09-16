@@ -1,13 +1,19 @@
-import pandas as pd
 import json
+from pathlib import Path
+
+import pandas as pd
+
+data_dir = Path(__file__).resolve().parent.parent / "data"
+small = data_dir / "lab6_assignment_gdp.csv"
+output_path = data_dir / "lab6_assignment_gdp.json"
 
 
-def build_hierarchy(dataframe, levels, value_column):
+def build_hierarchy(dataframe, levels, gdp_column, gdp_status_column):
 
     if len(levels) == 1:
 
         return [
-            {"name": row[levels[0]], "value": row[value_column]}
+            {"name": row[levels[0]], "gdp_amount": row[gdp_column], "gdp_status": row[gdp_status_column]}
             for _, row in dataframe.iterrows()
         ]
 
@@ -20,7 +26,7 @@ def build_hierarchy(dataframe, levels, value_column):
         children.append(
             {
                 "name": value,
-                "children": build_hierarchy(group, levels[1:], value_column),
+                "children": build_hierarchy(group, levels[1:], gdp_column, gdp_status_column),
             }
         )
 
@@ -28,16 +34,16 @@ def build_hierarchy(dataframe, levels, value_column):
 
 
 def main():
-    df = pd.read_csv("../data/lab6_small_hierarchy.csv")
+    df = pd.read_csv(small)
 
     hierarchy = {
         "name": "World",
         "children": build_hierarchy(
-            df, ["continent", "country", "region", "city"], "population_thousands"
+            df, ["continent", "area", "country"], "gdp_billion_usd", "gdp_status"
         ),
     }
 
-    with open("../data/lab6_small_hierarchy.json", "w", encoding="utf-8") as f:
+    with open(output_path, "w", encoding="utf-8") as f:
 
         json.dump(hierarchy, f, indent=2, ensure_ascii=False)
 
