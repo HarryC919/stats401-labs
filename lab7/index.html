@@ -1,19 +1,146 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lab 7 | STATS 401</title>
-    <link rel="stylesheet" href="../css/style.css">
-</head>
-<body>
-    <main class="site-shell">
-        <section class="placeholder-card">
-            <p class="eyebrow">STATS 401</p>
-            <h1>Lab 7</h1>
-            <p>Lab 7 will be added here.</p>
-            <a class="back-link" href="../index.html">&larr; Back to home</a>
-        </section>
-    </main>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="Two treemaps of a continent-area-country GDP hierarchy, using squarified and slice-dice tiling, plus a collapsible node-link tree."
+        />
+        <title>
+            Lab 7 — Temporal Data Visualization with D3
+        </title>
+        <link rel="stylesheet" href="../css/style.css" />
+    </head>
+
+    <body>
+        <main class="site-shell">
+            <header class="course-bar">
+                <div class="course-brand">
+                    <p class="course-code">STATS 401</p>
+                    <p class="course-name">
+                        Data Acquisition and Visualization
+                    </p>
+                </div>
+                <a class="back-link" href="../index.html">&larr; All labs</a>
+            </header>
+
+            <nav class="lab-tabs" aria-label="Course labs">
+                <a href="../lab1/index.html">Lab 1</a>
+                <a href="../lab2/index.html">Lab 2</a>
+                <a href="../lab3/index.html">Lab 3</a>
+                <a href="../lab4/index.html">Lab 4</a>
+                <a href="../lab5/index.html">Lab 5</a>
+                <a href="../lab6/index.html">Lab 6</a>
+                <a href="../lab7/index.html" aria-current="page">Lab 7</a>
+                <a href="../lab8/index.html">Lab 8</a>
+                <a href="../lab9/index.html">Lab 9</a>
+                <a href="../lab10/index.html">Lab 10</a>
+            </nav>
+
+            <header class="page-header lab-page-header">
+                <p class="eyebrow">
+                    Lab 7: Temporal Data Visualization with D3
+                </p>
+                <h1>World GDP Hierarchy</h1>
+                <p class="lede">
+                    Countries nested inside a four-level hierarchy — World
+                    &rarr; continent &rarr; area &rarr; country — with GDP (in
+                    billions of U.S. dollars) as the quantitative value and GDP
+                    status (increase, unchanged, decrease) encoded by color. The
+                    hierarchy is shown as a collapsible node-link tree and as
+                    two treemaps with different segmentation methods.
+                </p>
+            </header>
+
+            <section class="chart-card" aria-labelledby="tree-heading">
+                <p class="section-label">Node-Link Tree</p>
+                <h2 id="tree-heading">Hierarchy as a Tree</h2>
+                <p class="scale-note">
+                    Click an internal node to collapse or expand its subtree
+                </p>
+                <div id="tree"></div>
+            </section>
+
+            <section class="chart-card" aria-labelledby="treemaps-heading">
+                <p class="section-label">Treemaps</p>
+                <h2 id="treemaps-heading">GDP as Nested Area</h2>
+
+                <div class="legend-row">
+                    <div class="legend-group">
+                        <p class="legend-title">Rectangle area</p>
+                        <p class="legend-note">
+                            Area is proportional to GDP (billions of U.S.
+                            dollars).
+                        </p>
+                    </div>
+                    <div class="legend-group">
+                        <p class="legend-title">Rectangle color</p>
+                        <p class="legend-note">
+                            Color encodes each country&rsquo;s GDP status.
+                        </p>
+                    </div>
+                    <div class="legend-group">
+                        <p class="legend-title">GDP status</p>
+                        <p id="status-legend" class="legend-items"></p>
+                    </div>
+                </div>
+
+                <div class="treemap-block">
+                    <h3 id="treemap-squarify-heading">Squarified tiling</h3>
+                    <div
+                        id="treemap-squarify"
+                        role="img"
+                        aria-labelledby="treemap-squarify-heading"
+                    ></div>
+                </div>
+
+                <div class="treemap-block">
+                    <h3 id="treemap-slicedice-heading">Slice-Dice tiling</h3>
+                    <div
+                        id="treemap-slicedice"
+                        role="img"
+                        aria-labelledby="treemap-slicedice-heading"
+                    ></div>
+                </div>
+            </section>
+
+            <section class="chart-card" aria-labelledby="design-heading">
+                <p class="section-label">Design Description</p>
+                <h2 id="design-heading">Why These Channels and Tilings</h2>
+                <div class="writeup">
+                    <p>
+                        I chose rectangle area to encode GDP because it shows
+                        each country&rsquo;s contribution to the total within
+                        the continent and area hierarchy. Larger economies
+                        occupy more space, making broad differences easy to
+                        identify, although similar values are harder to compare
+                        precisely by area. Color encodes GDP status because
+                        increase, unchanged, and decrease are distinct
+                        categories. This separates the direction of change from
+                        the size of an economy, while the legend explains the
+                        category mapping.
+                    </p>
+                    <p>
+                        Squarified tiling favors compact rectangles with aspect
+                        ratios close to one, making country areas easier to
+                        compare and leaving more usable space for labels.
+                        Slice-dice tiling alternates horizontal and vertical
+                        divisions at successive hierarchy levels, emphasizing
+                        the recursive grouping structure. However, unequal GDP
+                        values can produce long, thin rectangles that make
+                        smaller countries and their labels difficult to read.
+                        Both views use the same GDP values and status colors, so
+                        their differences show how layout affects readability
+                        without changing the underlying data.
+                    </p>
+                </div>
+            </section>
+        </main>
+
+        <div id="tooltip" class="tooltip"></div>
+
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script type="module" src="../js/lab7.js"></script>
+    </body>
 </html>
