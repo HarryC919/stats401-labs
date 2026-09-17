@@ -613,3 +613,57 @@ h2 {
 #status-legend {
     margin-bottom: 0;
 }
+
+.controls-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 14px 20px;
+    margin: 18px 0;
+}
+
+.control-group {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.control-group-wide {
+    flex: 1 1 260px;
+}
+
+.control-group label {
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.control-group select,
+.control-group input[type="date"] {
+    padding: 7px 10px;
+    color: var(--ink);
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    font: inherit;
+}
+
+.control-group input[type="range"] {
+    width: 100%;
+    accent-color: var(--blue);
+}
+
+.control-group button {
+    padding: 8px 18px;
+    color: #ffffff;
+    background: var(--blue);
+    border: none;
+    border-radius: 10px;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.control-group button:hover {
+    background: var(--blue-dark);
+}

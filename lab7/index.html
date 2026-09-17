@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
             name="description"
-            content="Two treemaps of a continent-area-country GDP hierarchy, using squarified and slice-dice tiling, plus a collapsible node-link tree."
+            content="An animated temporal network of commercial transactions among 12 companies over 60 days, built with D3 forceSimulation, with play, pause, reset, a time slider, tooltips, and a legend."
         />
         <title>
-            Lab 7 — Temporal Data Visualization with D3
+            Lab 7 — Animated Temporal Commercial Network
         </title>
         <link rel="stylesheet" href="../css/style.css" />
     </head>
@@ -42,97 +42,195 @@
                 <p class="eyebrow">
                     Lab 7: Temporal Data Visualization with D3
                 </p>
-                <h1>World GDP Hierarchy</h1>
+                <h1>Commercial Network</h1>
                 <p class="lede">
-                    Countries nested inside a four-level hierarchy — World
-                    &rarr; continent &rarr; area &rarr; country — with GDP (in
-                    billions of U.S. dollars) as the quantitative value and GDP
-                    status (increase, unchanged, decrease) encoded by color. The
-                    hierarchy is shown as a collapsible node-link tree and as
-                    two treemaps with different segmentation methods.
+                    Twelve companies trade with each other over 60 days. Each
+                    frame shows one day: links fade in as relationships appear
+                    and fade out as they end, while node size tracks each
+                    company&rsquo;s transaction volume for the current day.
                 </p>
             </header>
 
-            <section class="chart-card" aria-labelledby="tree-heading">
-                <p class="section-label">Node-Link Tree</p>
-                <h2 id="tree-heading">Hierarchy as a Tree</h2>
+            <section class="chart-card" aria-labelledby="network-heading">
+                <p class="section-label">Temporal Network</p>
+                <h2 id="network-heading">Transactions Day by Day</h2>
                 <p class="scale-note">
-                    Click an internal node to collapse or expand its subtree
+                    Press Play to animate, or drag the slider to inspect a
+                    specific day. Hover nodes and links for details.
                 </p>
-                <div id="tree"></div>
-            </section>
 
-            <section class="chart-card" aria-labelledby="treemaps-heading">
-                <p class="section-label">Treemaps</p>
-                <h2 id="treemaps-heading">GDP as Nested Area</h2>
+                <div class="controls-row">
+                    <div class="control-group">
+                        <button id="play" type="button">Play</button>
+                    </div>
+                    <div class="control-group">
+                        <button id="pause" type="button">Pause</button>
+                    </div>
+                    <div class="control-group">
+                        <button id="reset" type="button">Reset</button>
+                    </div>
+                    <div class="control-group control-group-wide">
+                        <label for="time-slider">Day</label>
+                        <input
+                            type="range"
+                            id="time-slider"
+                            min="1"
+                            max="60"
+                            value="1"
+                        />
+                    </div>
+                </div>
 
                 <div class="legend-row">
                     <div class="legend-group">
-                        <p class="legend-title">Rectangle area</p>
-                        <p class="legend-note">
-                            Area is proportional to GDP (billions of U.S.
-                            dollars).
+                        <p class="legend-title">Day</p>
+                        <p class="legend-items">
+                            <strong id="stat-day">1 / 60</strong>
                         </p>
                     </div>
                     <div class="legend-group">
-                        <p class="legend-title">Rectangle color</p>
-                        <p class="legend-note">
-                            Color encodes each country&rsquo;s GDP status.
+                        <p class="legend-title">Date</p>
+                        <p class="legend-items">
+                            <strong id="stat-date">&mdash;</strong>
                         </p>
                     </div>
                     <div class="legend-group">
-                        <p class="legend-title">GDP status</p>
-                        <p id="status-legend" class="legend-items"></p>
+                        <p class="legend-title">Active companies</p>
+                        <p class="legend-items">
+                            <strong id="stat-companies">&mdash;</strong>
+                        </p>
+                    </div>
+                    <div class="legend-group">
+                        <p class="legend-title">Active links</p>
+                        <p class="legend-items">
+                            <strong id="stat-links">&mdash;</strong>
+                        </p>
+                    </div>
+                    <div class="legend-group">
+                        <p class="legend-title">Total value</p>
+                        <p class="legend-items">
+                            <strong id="stat-value">&mdash;</strong>
+                        </p>
                     </div>
                 </div>
 
-                <div class="treemap-block">
-                    <h3 id="treemap-squarify-heading">Squarified tiling</h3>
-                    <div
-                        id="treemap-squarify"
-                        role="img"
-                        aria-labelledby="treemap-squarify-heading"
-                    ></div>
+                <div class="legend-row">
+                    <div class="legend-group">
+                        <p class="legend-title">Sector &rarr; node color</p>
+                        <p class="legend-items" id="sector-legend"></p>
+                    </div>
+                    <div class="legend-group">
+                        <p class="legend-title">Region &rarr; node stroke</p>
+                        <p class="legend-items" id="region-legend"></p>
+                    </div>
+                    <div class="legend-group">
+                        <p class="legend-title">
+                            Transaction type &rarr; link color
+                        </p>
+                        <p class="legend-items" id="type-legend"></p>
+                    </div>
+                    <div class="legend-group">
+                        <p class="legend-title">Encoding</p>
+                        <p class="legend-note">
+                            Node size encodes the company&rsquo;s transaction
+                            volume on the current day; inactive companies are
+                            dimmed. Link width encodes transaction amount.
+                        </p>
+                    </div>
                 </div>
 
-                <div class="treemap-block">
-                    <h3 id="treemap-slicedice-heading">Slice-Dice tiling</h3>
-                    <div
-                        id="treemap-slicedice"
-                        role="img"
-                        aria-labelledby="treemap-slicedice-heading"
-                    ></div>
-                </div>
+                <div id="network"></div>
             </section>
 
             <section class="chart-card" aria-labelledby="design-heading">
                 <p class="section-label">Design Description</p>
-                <h2 id="design-heading">Why These Channels and Tilings</h2>
+                <h2 id="design-heading">Encoding and Mental Map</h2>
                 <div class="writeup">
                     <p>
-                        I chose rectangle area to encode GDP because it shows
-                        each country&rsquo;s contribution to the total within
-                        the continent and area hierarchy. Larger economies
-                        occupy more space, making broad differences easy to
-                        identify, although similar values are harder to compare
-                        precisely by area. Color encodes GDP status because
-                        increase, unchanged, and decrease are distinct
-                        categories. This separates the direction of change from
-                        the size of an economy, while the legend explains the
-                        category mapping.
+                        Node color encodes sector, node stroke encodes region
+                        (solid dark for Asia, dashed dark for Europe, white for
+                        North America), and node size encodes the current
+                        day&rsquo;s transaction volume. Link color encodes
+                        transaction type and link width encodes amount, so two
+                        company attributes and two link properties are visible
+                        at once.
                     </p>
                     <p>
-                        Squarified tiling favors compact rectangles with aspect
-                        ratios close to one, making country areas easier to
-                        compare and leaving more usable space for labels.
-                        Slice-dice tiling alternates horizontal and vertical
-                        divisions at successive hierarchy levels, emphasizing
-                        the recursive grouping structure. However, unequal GDP
-                        values can produce long, thin rectangles that make
-                        smaller countries and their labels difficult to read.
-                        Both views use the same GDP values and status colors, so
-                        their differences show how layout affects readability
-                        without changing the underlying data.
+                        To preserve the mental map, node positions are computed
+                        once with <code>d3.forceSimulation()</code> on the
+                        aggregated 60-day network and then fixed; frames only
+                        join and exit links and resize nodes, so no company
+                        ever jumps to a new location. New relationships fade in
+                        and ended ones fade out over 400&nbsp;ms, and the
+                        animation is fully controllable with play, pause,
+                        reset, and a 60-day slider.
+                    </p>
+                </div>
+            </section>
+
+            <section class="chart-card" aria-labelledby="questions-heading">
+                <p class="section-label">Analysis</p>
+                <h2 id="questions-heading">Temporal Network Questions</h2>
+                <div class="writeup">
+                    <p>
+                        <strong>
+                            1. How does overall connectivity change across the
+                            60 days?
+                        </strong>
+                        The network becomes denser and more valuable over time.
+                        The first ten days average about 5.5 active links and
+                        roughly $77k per day; the last ten days average about
+                        7.4 links and roughly $149k per day &mdash; daily
+                        transaction value approximately doubles.
+                    </p>
+                    <p>
+                        <strong>
+                            2. Which companies become more central or
+                            commercially active over time?
+                        </strong>
+                        Fusion Electronics is the most active company overall
+                        (about $2.0M in total volume). Ion Systems grows the
+                        most dramatically, from about $321k in the first half
+                        to about $1.17M in the second, and Cedar Retail roughly
+                        triples ($316k &rarr; $971k). BlueRiver Logistics is
+                        the only large company whose volume slightly declines.
+                    </p>
+                    <p>
+                        <strong>
+                            3. Are there periods of relatively separate
+                            clusters?
+                        </strong>
+                        On individual days the network is fragmented: only 3&ndash;10
+                        of the 66 possible links are active per day, so a
+                        typical day splits into about 3&ndash;9 small
+                        components with several isolated companies. Over any
+                        10-day window, however, all 12 companies connect into a
+                        single component, so the separation is day-level
+                        sparsity rather than durable clusters.
+                    </p>
+                    <p>
+                        <strong>
+                            4. Which relationships appear, disappear, or become
+                            stronger?
+                        </strong>
+                        BlueRiver&ndash;Delta, Cedar&ndash;Fusion, and
+                        Harbor&ndash;Keystone trade only in the first half and
+                        then disappear. New second-half ties include
+                        Cedar&ndash;Keystone ($282k), Fusion&ndash;Ion ($301k),
+                        and Cedar&ndash;Granite ($254k). Ion&ndash;Juniper
+                        strengthens ($127k &rarr; $202k), while
+                        Granite&ndash;Harbor weakens sharply
+                        ($175k &rarr; $67k).
+                    </p>
+                    <p>
+                        <strong>
+                            5. Does the network become more or less
+                            cross-regional over time?
+                        </strong>
+                        More cross-regional. The share of links between
+                        companies in different regions holds around 62&ndash;65%
+                        during days 1&ndash;40, then rises to about 72&ndash;73%
+                        over days 41&ndash;60.
                     </p>
                 </div>
             </section>
