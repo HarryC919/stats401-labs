@@ -1,0 +1,484 @@
+{
+  "sample_count": 29,
+  "source_pages": [
+    2,
+    10,
+    20,
+    24,
+    27,
+    32,
+    36,
+    42,
+    62,
+    69,
+    74,
+    79,
+    87,
+    119,
+    200,
+    218,
+    245,
+    300,
+    336,
+    359,
+    390,
+    397,
+    398,
+    400
+  ],
+  "rendered_pages_inspected": [
+    19,
+    24,
+    66,
+    87,
+    200,
+    218,
+    336,
+    359,
+    397
+  ],
+  "scope": "Representative manual text and hierarchy checks, selected rendered-page checks, plus regression cases; not an exhaustive 400-page visual audit.",
+  "samples": [
+    {
+      "passage_id": "p00001_01",
+      "inspected_page": 2,
+      "page": 2,
+      "page_end": 2,
+      "hierarchy": "Front matter > Publication and institutional notices",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00001",
+        "r00002",
+        "r00003",
+        "r00004"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "July 2021 Undergraduate Studies Committee Marcia France, Dean of Undergraduate Studies William Parsons, Associate Dean of Undergraduate Curricular Affairs",
+      "raw_source_text": "July 2021 Undergraduate Studies Committee Marcia France, Dean of Undergraduate Studies William Parsons, Associate Dean of Undergraduate Curricular Affairs"
+    },
+    {
+      "passage_id": "p00010_01",
+      "inspected_page": 10,
+      "page": 10,
+      "page_end": 10,
+      "hierarchy": "Part 1: General Information",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00019"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "Welcome to the intellectual and personal excitement of Duke Kunshan University, to its commitment to the finest education and to its passion for shaping a more knowledgeable, inclusive, responsible and peaceful world. DKU’s founders, leaders and community have set ambitious goals. Confident that you will contribute importantly to reaching those goals, we invite you to join us in pursuing them together.",
+      "raw_source_text": "Welcome to the intellectual and personal excitement of Duke Kunshan University, to its\ncommitment to the finest education and to its passion for shaping a more knowledgeable, inclusive,\nresponsible and peaceful world. DKU’s founders, leaders and community have set ambitious goals.\nConfident that you will contribute importantly to reaching those goals, we invite you to join us in\npursuing them together."
+    },
+    {
+      "passage_id": "p00048_01",
+      "inspected_page": 20,
+      "page": 20,
+      "page_end": 20,
+      "hierarchy": "Part 3: The Curriculum > Degree Requirements > General Education Requirements > Common Core (3 courses, 12 credits)",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00059"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "Common Core courses provide opportunities for students to develop a degree of common knowledge and shared experiences. One dimension of this commonality is a set of core courses that focus on big questions and critical challenges with which every student should be prepared to engage. Engagement will draw from and integrate humanistic and scientific knowledge, including its historical context and cultural traditions of thought about value, the nature of reality, and what it is to be human. Such knowledge is both a means for addressing challenges and a pre-requisite for identifying what our challenges are and how we might address them. Common Core courses also provide regular instruction and guided practice in writing and speaking for non-specialist audiences. Students take these courses one per year, in sequence, so that the common experience and development of communication skills extend across time.",
+      "raw_source_text": "Common Core courses provide opportunities for students to develop a degree of common\nknowledge and shared experiences. One dimension of this commonality is a set of core courses that\nfocus on big questions and critical challenges with which every student should be prepared to\nengage. Engagement will draw from and integrate humanistic and scientific knowledge, including\nits historical context and cultural traditions of thought about value, the nature of reality, and what\nit is to be human. Such knowledge is both a means for addressing challenges and a pre-requisite\nfor identifying what our challenges are and how we might address them. Common Core courses\nalso provide regular instruction and guided practice in writing and speaking for non-specialist\naudiences. Students take these courses one per year, in sequence, so that the common experience\nand development of communication skills extend across time."
+    },
+    {
+      "passage_id": "p00071_01",
+      "inspected_page": 24,
+      "page": 24,
+      "page_end": 24,
+      "hierarchy": "Part 3: The Curriculum > Degree Requirements > Credits Required for Degree",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00082"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "Duke Kunshan University adheres to the academic standards upheld by Duke University and the relevant requirements for graduation and degree awarding by the education administration authorities of China. All undergraduate students must meet the requirements of both Duke University and Duke Kunshan University before they can graduate and be awarded a graduation certificate and a bachelor’s degree from Duke Kunshan University, as well as a bachelor’s degree from Duke University.",
+      "raw_source_text": "Duke Kunshan University adheres to the academic standards upheld by Duke University and the\nrelevant requirements for graduation and degree awarding by the education administration\nauthorities of China. All undergraduate students must meet the requirements of both Duke\nUniversity and Duke Kunshan University before they can graduate and be awarded a graduation\ncertificate and a bachelor’s degree from Duke Kunshan University, as well as a bachelor’s degree\nfrom Duke University."
+    },
+    {
+      "passage_id": "p00080_01",
+      "inspected_page": 27,
+      "page": 27,
+      "page_end": 27,
+      "hierarchy": "Part 4: Admission, Scholarships and Financial Aid > Principles of Selection",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00096"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "Duke Kunshan University seeks high-caliber, diverse, and talented students with 60-70% of the student population from China, and 30-40% of students from the rest of the world. Like Duke University, academic excellence and accomplishments are important factors for admissions. In line with our own unique institutional identity, we also place a very high value on qualities such as perseverance, global-mindedness, entrepreneurialism and ability to make an impact.",
+      "raw_source_text": "Duke Kunshan University seeks high-caliber, diverse, and talented students with 60-70% of the\nstudent population from China, and 30-40% of students from the rest of the world. Like Duke\nUniversity, academic excellence and accomplishments are important factors for admissions. In line\nwith our own unique institutional identity, we also place a very high value on qualities such as\nperseverance, global-mindedness, entrepreneurialism and ability to make an impact."
+    },
+    {
+      "passage_id": "p00105_01",
+      "inspected_page": 32,
+      "page": 32,
+      "page_end": 32,
+      "hierarchy": "Part 5: Financial Information > Estimated Expenses",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00133"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "International Travel includes an estimate of the cost of one roundtrip from an international destination to Shanghai for international students, typical visa costs, and the additional health check and registration costs associated with establishing legal residence in China for non-Chinese students. Students wishing to return to their home countries during breaks in their study before the end of the year should budget additional funds for these trips.",
+      "raw_source_text": "International Travel includes an estimate of the cost of one roundtrip from an international\ndestination to Shanghai for international students, typical visa costs, and the additional health\ncheck and registration costs associated with establishing legal residence in China for non-Chinese\nstudents. Students wishing to return to their home countries during breaks in their study before\nthe end of the year should budget additional funds for these trips."
+    },
+    {
+      "passage_id": "p00132_01",
+      "inspected_page": 36,
+      "page": 36,
+      "page_end": 36,
+      "hierarchy": "Part 6: Academic Procedures and Information > Academic Integrity",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00166"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "All DKU students are responsible for adhering to the Duke Kunshan University Community Standard (see section on Community Standard, Part 1). Each student admitted to DKU is required to sign the Community Standard before classes begin. The DKU Community Standard stresses the commitment that students share with all members of the community to enhance the climate for honesty, fairness, respect, and accountability at DKU. Students affirm their commitment to foster this climate by signing a pledge that includes taking constructive action if they witness or know about behavior they perceive to be inconsistent with the DKU Community Standard, which may include violation of university policies. Students are responsible for maintaining high standards of academic honesty and personal integrity in all matters, including reporting the results of their studies, laboratory work, and research; completing assignments; writing papers; and taking quizzes, tests, and examinations. When confronted with a possible violation of academic integrity, it is important that faculty members deal fairly and consistently with students.",
+      "raw_source_text": "All DKU students are responsible for adhering to the Duke Kunshan University Community\nStandard (see section on Community Standard, Part 1). Each student admitted to DKU is required\nto sign the Community Standard before classes begin. The DKU Community Standard stresses the\ncommitment that students share with all members of the community to enhance the climate for\nhonesty, fairness, respect, and accountability at DKU. Students affirm their commitment to foster\nthis climate by signing a pledge that includes taking constructive action if they witness or know\nabout behavior they perceive to be inconsistent with the DKU Community Standard, which may\ninclude violation of university policies. Students are responsible for maintaining high standards of\nacademic honesty and personal integrity in all matters, including reporting the results of their\nstudies, laboratory work, and research; completing assignments; writing papers; and taking\nquizzes, tests, and examinations. When confronted with a possible violation of academic integrity,\nit is important that faculty members deal fairly and consistently with students."
+    },
+    {
+      "passage_id": "p00162_01",
+      "inspected_page": 42,
+      "page": 42,
+      "page_end": 42,
+      "hierarchy": "Part 6: Academic Procedures and Information > Registration",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00198"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "Those students who have not paid any fees owed to or fines imposed by the university (such as student residence fines, library fines, and other possible fines) by the date specified for registration for the following term will not be permitted to register for the following term until such fees and fines have been paid in full, notwithstanding the fact that the student may have paid in full the tuition for the following term. Students who, for any reason, fail to register for the fall or spring term are placed on involuntary administrative leave of absence and must apply for reinstatement if they wish to return. The deadlines to file return applications, including all required supporting materials, are 5:00 p.m. May 1 (BJT) for Fall or Summer Term and 5:00 p.m. October 15 (BJT) for Spring Term. Late or incomplete applications will not be accepted.",
+      "raw_source_text": "Those students who have not paid any fees owed to or fines imposed by the university (such as\nstudent residence fines, library fines, and other possible fines) by the date specified for registration\nfor the following term will not be permitted to register for the following term until such fees and\nfines have been paid in full, notwithstanding the fact that the student may have paid in full the\ntuition for the following term. Students who, for any reason, fail to register for the fall or spring\nterm are placed on involuntary administrative leave of absence and must apply for reinstatement\nif they wish to return. The deadlines to file return applications, including all required supporting\nmaterials, are 5:00 p.m. May 1 (BJT) for Fall or Summer Term and 5:00 p.m. October 15 (BJT) for\nSpring Term. Late or incomplete applications will not be accepted."
+    },
+    {
+      "passage_id": "p00262_01",
+      "inspected_page": 62,
+      "page": 62,
+      "page_end": 62,
+      "hierarchy": "Part 6: Academic Procedures and Information > Changes in Status > Leave of Absence",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00306"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "A medical leave of absence with proper documentation may be granted at any time but with one restriction. Students requesting a medical leave of absence during a current term must file the leave of absence forms with the Office of Undergraduate Studies prior to the end of the last day of classes of that term. Students who request a medical leave of absence for a current term and submit their leave request prior to the last day of classes will be assigned W in lieu of a regular grade for each course. Students taking a medical leave of absence during the final four weeks of classes for 14- week long courses and the final two weeks of classes for 7-week long courses will have the option, upon obtaining the appropriate approvals from the instructor, to choose to receive the grade of I in one or more courses instead of the W grade. The student may then complete the course as described in the section on Incomplete Coursework. In most cases, students electing to take a medical leave of absence will be expected to remain on medical leave of absence through the following fall or spring term. Refunding will follow that of voluntary withdrawal.",
+      "raw_source_text": "A medical leave of absence with proper documentation may be granted at any time but with one\nrestriction. Students requesting a medical leave of absence during a current term must file the leave\nof absence forms with the Office of Undergraduate Studies prior to the end of the last day of classes\nof that term. Students who request a medical leave of absence for a current term and submit their\nleave request prior to the last day of classes will be assigned W in lieu of a regular grade for each\ncourse. Students taking a medical leave of absence during the final four weeks of classes for 14-\nweek long courses and the final two weeks of classes for 7-week long courses will have the option,\nupon obtaining the appropriate approvals from the instructor, to choose to receive the grade of I in\none or more courses instead of the W grade. The student may then complete the course as described\nin the section on Incomplete Coursework. In most cases, students electing to take a medical leave\nof absence will be expected to remain on medical leave of absence through the following fall or\nspring term. Refunding will follow that of voluntary withdrawal."
+    },
+    {
+      "passage_id": "p00298_01",
+      "inspected_page": 69,
+      "page": 69,
+      "page_end": 69,
+      "hierarchy": "Part 7: Academic Advising and Support",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00342"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "The Office of Undergraduate Advising is committed to providing a student-centered advising experience that promotes holistic learning and understanding of the integrated and interdisciplinary curriculum and prepares the next generation of scholars and leaders. Further, academic advising provides undergraduates with academic strategies that reinforce a research- oriented liberal arts and sciences education that is inclusive of how students learn and develop in pursuit of their academic and career endeavors. The Office of Undergraduate Advising consists of Academic Advising and the Academic Resource Center.",
+      "raw_source_text": "The Office of Undergraduate Advising is committed to providing a student-centered advising\nexperience that promotes holistic learning and understanding of the integrated and\ninterdisciplinary curriculum and prepares the next generation of scholars and leaders. Further,\nacademic advising provides undergraduates with academic strategies that reinforce a research-\noriented liberal arts and sciences education that is inclusive of how students learn and develop in\npursuit of their academic and career endeavors. The Office of Undergraduate Advising consists of\nAcademic Advising and the Academic Resource Center."
+    },
+    {
+      "passage_id": "p00321_01",
+      "inspected_page": 74,
+      "page": 73,
+      "page_end": 74,
+      "hierarchy": "Part 8: Career Services, Study Away, and Research Opportunities > Office of Global Education and Study Away",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00366"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "Students may study away and transfer credits for one academic term in their junior year, as well as during summers. The application process for term study away programs starts in the fall term of the sophomore year, but planning for study away should start in first-year academic planning. Students must be in good academic, conduct, and financial standing in order to study away. Students placed on academic or conduct probation that will be in effect during their planned term away are not eligible to study away. Students accepted into study away programs who are then placed on academic or conduct probation may be liable for the program costs, even if they withdraw from the program. Students should refer to the \"DKU Global Education Sakai Site\" for complete eligibility requirements. Students who do not meet the eligibility requirements may not study away. All students who study away must sign the appropriate legal documents before departure.",
+      "raw_source_text": "Students may study away and transfer credits for one academic term in their junior year, as well as\nduring summers. The application process for term study away programs starts in the fall term of\nthe sophomore year, but planning for study away should start in first-year academic planning.\nStudents must be in good academic, conduct, and financial standing in order to study away.\nStudents placed on academic or conduct probation that will be in effect during their planned term\naway are not eligible to study away. Students accepted into study away programs who are then\nplaced on academic or conduct probation may be liable for the program costs, even if they\nwithdraw from the program. Students should refer to the \"DKU Global Education Sakai Site\" for\ncomplete eligibility requirements. Students who do not meet the eligibility requirements may not\nstudy away. All students who study away must sign the appropriate legal documents before\ndeparture."
+    },
+    {
+      "passage_id": "p00347_01",
+      "inspected_page": 79,
+      "page": 78,
+      "page_end": 79,
+      "hierarchy": "Part 9: Student Affairs and Campus Life > Leadership Development",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00396"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "The Global Leadership Academy is designed to help students become global leaders who can positively impact the campus, Kunshan community, and the world. The Global Leadership Academy was created and rooted in a theoretical framework that helps students understand consciousness of self, congruence, commitment, common purpose, controversy with civility, collaboration, and citizenship. Throughout the six term, experience-tiered Academy growing in depth and breadth each term of participation, participants discover who they are as a leader, explore different aspects of leaderships, and blaze their own trail of continued leadership development.",
+      "raw_source_text": "The Global Leadership Academy is designed to help students become global leaders who can\npositively impact the campus, Kunshan community, and the world. The Global Leadership\nAcademy was created and rooted in a theoretical framework that helps students understand\nconsciousness of self, congruence, commitment, common purpose, controversy with civility,\ncollaboration, and citizenship. Throughout the six term, experience-tiered Academy growing in\ndepth and breadth each term of participation, participants discover who they are as a leader,\nexplore different aspects of leaderships, and blaze their own trail of continued leadership\ndevelopment."
+    },
+    {
+      "passage_id": "p00388_01",
+      "inspected_page": 87,
+      "page": 87,
+      "page_end": 87,
+      "hierarchy": "Part 10: Majors and Courses > Majors (listed in alphabetical order) > Applied Mathematics and Computational Sciences with tracks in Computer Science and Mathematics > Major Requirements",
+      "passage_kind": "table_block",
+      "raw_passage_ids": [
+        "r00438"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "(Not every course listed is offered every term, and the course list will be updated periodically. Please refer to the online Course Catalog for Courses offered in 2021-2022.)",
+      "raw_source_text": "(Not every course listed is offered every term, and the course list will be updated periodically. Please refer to\nthe online Course Catalog for Courses offered in 2021-2022.)"
+    },
+    {
+      "passage_id": "p00467_01",
+      "inspected_page": 119,
+      "page": 119,
+      "page_end": 119,
+      "hierarchy": "Part 10: Majors and Courses > Majors (listed in alphabetical order) > Data Science",
+      "passage_kind": "table_block",
+      "raw_passage_ids": [
+        "r00518"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "The field of Data Science deals with the theories, methodologies and tools of applying statistical concepts and computational techniques to various data analysis problems related to science, engineering, medicine, business, etc. The objective is to inspect, clean, transform and model data in order to discover useful information, suggest conclusions and support decision-making. It is an emerging topic that plays a critical role in almost every discipline of today’s science and technology and has become an indispensable component.",
+      "raw_source_text": "The field of Data Science deals with the theories, methodologies and tools of applying statistical\nconcepts and computational techniques to various data analysis problems related to science,\nengineering, medicine, business, etc. The objective is to inspect, clean, transform and model data in\norder to discover useful information, suggest conclusions and support decision-making. It is an\nemerging topic that plays a critical role in almost every discipline of today’s science and technology\nand has become an indispensable component."
+    },
+    {
+      "passage_id": "p00657_01",
+      "inspected_page": 200,
+      "page": 199,
+      "page_end": 200,
+      "hierarchy": "Part 10: Majors and Courses > Majors (listed in alphabetical order) > Political Economy with tracks in Economics, Political Science, and Public Policy > Political Economy / Economics > Electives",
+      "passage_kind": "table_block",
+      "raw_passage_ids": [
+        "r00708"
+      ],
+      "source_prefix_matches": false,
+      "review_note": "Table cell order differs from baseline text order. Wrapped course codes/titles were visually checked on page 200; the January 31 row was checked against PDF cell extraction and covered by a regression test.",
+      "text": "POLECON 105 China and the Global South 2 MATH 201 Multivariable Calculus 4 COMPSCI 206 /ECON 206 Computational Microeconomics 4 ECON 211 Intelligent Economics: An Explainable AI approach 4 POLECON 211 Risk Analysis and Forecasting 2 PUBPOL 220 Introduction to Regulatory Governance 4 ECON 301 Health Economics 4 ECON 302/ ENVIR 302 Environmental Economics & Policy 4 ECON 303 Financial Institutions 4 ECON 304 Economic Growth 4 SOCIOL 306 Contemporary Population Problems 4 ECON 307 History of Monetary & International Crises 4 POLSCI 307 Political Economy of Institutions 4 ECON 308 Economic History and Modernization of the Islamic Middle East 4 ECON 309 Behavioral Finance 4 ECON 310 Urban Economics 4 MATH 316/ ECON 316 Discrete Time Finance 4 PUBPOL 318 How to Change the World: The Role of Non-State Actors 4 ECON 333/ SOSC 333 Social and Economic Networks 4 ECON 401 Competitive Strategy & Industrial Organization 4 POLECON 401 /GCHINA 401 Political Economy of the Chinese Reform 4 ECON 402 International Finance 4 ECON 404/ ENVIR 404 Environmental Justice: The Economics of Race, Place and Pollution 4",
+      "raw_source_text": "POLECON 105 China and the Global South 2\nMATH 201 Multivariable Calculus 4\nCOMPSCI 206 /ECON 206 Computational Microeconomics 4\nECON 211 Intelligent Economics: An Explainable AI approach 4\nPOLECON 211 Risk Analysis and Forecasting 2\nPUBPOL 220 Introduction to Regulatory Governance 4\nECON 301 Health Economics 4\nECON 302/ ENVIR 302 Environmental Economics & Policy 4\nECON 303 Financial Institutions 4\nECON 304 Economic Growth 4\nSOCIOL 306 Contemporary Population Problems 4\nECON 307 History of Monetary & International Crises 4\nPOLSCI 307 Political Economy of Institutions 4\nECON 308 Economic History and Modernization of the Islamic Middle East 4\nECON 309 Behavioral Finance 4\nECON 310 Urban Economics 4\nMATH 316/ ECON 316 Discrete Time Finance 4\nPUBPOL 318 How to Change the World: The Role of Non-State Actors 4\nECON 333/ SOSC 333 Social and Economic Networks 4\nECON 401 Competitive Strategy & Industrial Organization 4\nPOLECON 401 /GCHINA 401 Political Economy of the Chinese Reform 4\nECON 402 International Finance 4\nECON 404/ ENVIR 404 Environmental Justice: The Economics of Race, Place and Pollution 4"
+    },
+    {
+      "passage_id": "p00693_01",
+      "inspected_page": 218,
+      "page": 218,
+      "page_end": 218,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Arts and Humanities (ARHU) > ARHU 101: The Art of Interpretation: Written Texts (4 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r00744"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "ARHU 101: The Art of Interpretation: Written Texts (4 credits). Training in close reading and analysis of text remains a foundational skill in the arts and humanities, whether the text is literary or documentary. This core course combines practical training in close reading of a variety of texts, with strategies of analysis that are theoretically informed without, however, offering a comprehensive treatment of theory per se. The course will focus both on reading and analysis of literary texts, and on the nuanced unpacking of documents (official, unofficial, personal) with a view to historical method. Prerequisite(s): None",
+      "raw_source_text": "Training in close reading and analysis of text remains a foundational skill in the arts and humanities,\nwhether the text is literary or documentary. This core course combines practical training in close\nreading of a variety of texts, with strategies of analysis that are theoretically informed without,\nhowever, offering a comprehensive treatment of theory per se. The course will focus both on\nreading and analysis of literary texts, and on the nuanced unpacking of documents (official,\nunofficial, personal) with a view to historical method.\nPrerequisite(s): None"
+    },
+    {
+      "passage_id": "p00797_01",
+      "inspected_page": 245,
+      "page": 245,
+      "page_end": 245,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Computer Design (COMPDSGN) > COMPDSGN 490 Senior Seminar (4 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r00848"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "COMPDSGN 490 Senior Seminar (4 credits). This seminar is a core component of the interdisciplinary major in Computation and Design. Students will apply to interdisciplinary topics the knowledge and methods of analysis that they have gained in different disciplines. Students will re-connect with the broader community of faculty and students in their major and further develop their capacities to translate between their areas of expertise and the larger questions and issues that apply across a variety of disciplines. The seminar will foster the ability to see their disciplinary knowledge from a wider perspective and to apply it flexibly. Specific topics will vary. This seminar is required for all seniors in the major. Other students may enroll with the permission of the instructor.",
+      "raw_source_text": "This seminar is a core component of the interdisciplinary major in Computation and Design.\nStudents will apply to interdisciplinary topics the knowledge and methods of analysis that they\nhave gained in different disciplines. Students will re-connect with the broader community of\nfaculty and students in their major and further develop their capacities to translate between their\nareas of expertise and the larger questions and issues that apply across a variety of disciplines. The\nseminar will foster the ability to see their disciplinary knowledge from a wider perspective and to\napply it flexibly. Specific topics will vary. This seminar is required for all seniors in the major. Other\nstudents may enroll with the permission of the instructor."
+    },
+    {
+      "passage_id": "p00998_01",
+      "inspected_page": 300,
+      "page": 300,
+      "page_end": 300,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: History (HIST) > HIST 305 Special Topics in History of Chinese Institutions (4 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r01049"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "HIST 305 Special Topics in History of Chinese Institutions (4 credits). This special topics course focuses on the historical development of a specific set of institutions in China, such as the evolution of health care, social welfare, military organizations, or child and family institutions over time. In so doing the course provides an opportunity for students to dive deeply into the historical evolution of institutions as a way to understand the development of modern China in a specific sphere. In this way students gain a deep, specialized knowledge in the history of a particular area, and then demonstrate how that knowledge can be applied more broadly to better understand the historical evolution of modern Chinese society.",
+      "raw_source_text": "This special topics course focuses on the historical development of a specific set of institutions in\nChina, such as the evolution of health care, social welfare, military organizations, or child and\nfamily institutions over time. In so doing the course provides an opportunity for students to dive\ndeeply into the historical evolution of institutions as a way to understand the development of\nmodern China in a specific sphere. In this way students gain a deep, specialized knowledge in the\nhistory of a particular area, and then demonstrate how that knowledge can be applied more broadly\nto better understand the historical evolution of modern Chinese society."
+    },
+    {
+      "passage_id": "p01126_01",
+      "inspected_page": 336,
+      "page": 335,
+      "page_end": 336,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Media and Arts (MEDIART) > MEDIART 310 Screenwriting (4 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r01177"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "MEDIART 310 Screenwriting (4 credits). This course introduces students to theory and practice of the process of writing for the screen. We explore visual storytelling and analysis of screenplays and movies in order to develop original stories into screenplay format. Students will learn to recognize and understand proper screenplay format and structure, understand how screenplay writing is a unique style of writing and why, understand character development and power relationships, and have a better understanding of the business of screenwriting. Through the actual writing of a feature length script, students gain hands-on practice on writing and presenting treatments, outlines, scenes, story planning, character development, communicating information, relationships between script and cinematic dimensions, as well as working with studios and editors.",
+      "raw_source_text": "This course introduces students to theory and practice of the process of writing for the screen. We\nexplore visual storytelling and analysis of screenplays and movies in order to develop original\nstories into screenplay format. Students will learn to recognize and understand proper screenplay\nformat and structure, understand how screenplay writing is a unique style of writing and why,\nunderstand character development and power relationships, and have a better understanding of\nthe business of screenwriting. Through the actual writing of a feature length script, students gain\nhands-on practice on writing and presenting treatments, outlines, scenes, story planning, character\ndevelopment, communicating information, relationships between script and cinematic dimensions,\nas well as working with studios and editors."
+    },
+    {
+      "passage_id": "p01220_01",
+      "inspected_page": 359,
+      "page": 359,
+      "page_end": 359,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Political Science (POLSCI) > POLSCI 105 Contemporary Political Ideologies (2 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r01271"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "POLSCI 105 Contemporary Political Ideologies (2 credits). The goal of this course is to understand the fundamental alternative political ideologies or theories that have shaped our world and to consider which political theories may shape our world in the future. To accomplish this goal we will 1) Investigate the theories at the foundation of liberal democracy, capitalism, Marxism, fascism, and anti-liberal Islam; 2) Consider how each of these theories addresses such fundamental human questions as: What is the best form of government? What is the nature of human beings? 3) Study through close textual analysis the principal arguments both for and against each of these theories.",
+      "raw_source_text": "The goal of this course is to understand the fundamental alternative political ideologies or theories\nthat have shaped our world and to consider which political theories may shape our world in the\nfuture. To accomplish this goal we will 1) Investigate the theories at the foundation of liberal\ndemocracy, capitalism, Marxism, fascism, and anti-liberal Islam; 2) Consider how each of these\ntheories addresses such fundamental human questions as: What is the best form of government?\nWhat is the nature of human beings? 3) Study through close textual analysis the principal\narguments both for and against each of these theories."
+    },
+    {
+      "passage_id": "p01338_01",
+      "inspected_page": 390,
+      "page": 389,
+      "page_end": 390,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Statistics (STATS) > STATS 305 Study Design: Design of Surveys and Causal Studies (4 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r01389"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "STATS 305 Study Design: Design of Surveys and Causal Studies (4 credits). Investigation of study designs collecting data and their implications for statistical inference. Design and analysis of surveys of populations, including stratification, clustering, multi-stage sampling, design-based inference, considerations when analyzing convenience samples and big data. Design and analysis of causal studies including randomized experiments, blocking, fractional factorial designs, non-randomized studies, propensity score analysis. Applications involving big data, health, policy, natural and social sciences. Prerequisite(s): STATS 101",
+      "raw_source_text": "Investigation of study designs collecting data and their implications for statistical inference.\nDesign and analysis of surveys of populations, including stratification, clustering, multi-stage\nsampling, design-based inference, considerations when analyzing convenience samples and big\ndata. Design and analysis of causal studies including randomized experiments, blocking,\nfractional factorial designs, non-randomized studies, propensity score analysis. Applications\ninvolving big data, health, policy, natural and social sciences.\nPrerequisite(s): STATS 101"
+    },
+    {
+      "passage_id": "p01362_01",
+      "inspected_page": 397,
+      "page": 397,
+      "page_end": 397,
+      "hierarchy": "Part 11: Academic Calendar 2021-22",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r01413",
+        "r01414",
+        "r01415"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "(NOTE: CALENDAR SUBJECT TO CHANGE) Please go to the following website for the most up-to-date version. https://dukekunshan.edu.cn/sites/default/files/u102705/dku_acdemic_calendar_2021- 2022_final.pdf",
+      "raw_source_text": "(NOTE: CALENDAR SUBJECT TO CHANGE) Please go to the following website for the most up-to-date version. https://dukekunshan.edu.cn/sites/default/files/u102705/dku_acdemic_calendar_2021-\n2022_final.pdf"
+    },
+    {
+      "passage_id": "p01390_01",
+      "inspected_page": 398,
+      "page": 398,
+      "page_end": 398,
+      "hierarchy": "Part 11: Academic Calendar 2021-22",
+      "passage_kind": "calendar_event",
+      "raw_passage_ids": [
+        "r01445"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "January 13 Thursday. Drop/add ends for first 7-weeks undergraduate session. Last day to declare CR/NC for Fall 2021 courses for classes of 2022-24",
+      "raw_source_text": "January 13 Thursday. Drop/add ends for first 7-weeks undergraduate session. Last day to declare CR/NC for Fall 2021 courses for classes of 2022-24"
+    },
+    {
+      "passage_id": "p01437_01",
+      "inspected_page": 400,
+      "page": 400,
+      "page_end": 400,
+      "hierarchy": "Part 12: Useful Contacts",
+      "passage_kind": "contact",
+      "raw_passage_ids": [
+        "r01493"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "• Undergraduate Admissions:  china-admissions@dukekunshan.edu.cn (Duke Kunshan China Admissions);  Intl-admissions@dukekunshan.edu.cn (Duke Kunshan International Admissions)",
+      "raw_source_text": "• Undergraduate Admissions:\n china-admissions@dukekunshan.edu.cn (Duke Kunshan China Admissions);\n Intl-admissions@dukekunshan.edu.cn (Duke Kunshan International Admissions)"
+    },
+    {
+      "passage_id": "p00288_01",
+      "inspected_page": 66,
+      "page": 66,
+      "page_end": 67,
+      "hierarchy": "Part 6: Academic Procedures and Information > Grade Review Procedure",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00332"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "The Division Chair will review the case with the Instructor(s) involved. The review will focus on whether the grade assigned by the instructor was arrived at in accordance with the course grading policy as articulated in the syllabus and/or as discussed with the students in class and calculated in the same way that the grades other students received in the course were calculated. Generally speaking the review will not focus on how individual pieces of work in a course were graded, as it is the responsibility solely of the instructor to evaluate the quality of students' work within the context of his/her course.",
+      "raw_source_text": "The Division Chair will review the case with the Instructor(s) involved. The review will focus on\nwhether the grade assigned by the instructor was arrived at in accordance with the course grading\npolicy as articulated in the syllabus and/or as discussed with the students in class and calculated\nin the same way that the grades other students received in the course were calculated. Generally\nspeaking the review will not focus on how individual pieces of work in a course were graded, as it\nis the responsibility solely of the instructor to evaluate the quality of students' work within the\ncontext of his/her course."
+    },
+    {
+      "passage_id": "p01130_01",
+      "inspected_page": 336,
+      "page": 336,
+      "page_end": 337,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Media and Arts (MEDIART) > MEDIART 390 Junior Seminar: Advanced Topics (4 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r01181"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Unbookmarked bold course heading visually verified; separately attributed course description and cross-page continuation.",
+      "text": "MEDIART 390 Junior Seminar: Advanced Topics (4 credits). This seminar is a core component of the interdisciplinary major in Media and Arts. Students will apply to interdisciplinary topics the knowledge and methods of analysis that they have gained in different disciplines. Students will re-connect with the broader community of faculty and students in their major and further develop their capacities to translate between their areas of expertise and the larger questions and issues that apply across a variety of disciplines. The seminar will foster the ability to see their disciplinary knowledge from a wider perspective and to apply it flexibly. Specific topics will vary. This seminar is required for all juniors in the major. Other students may enroll with the permission of the instructor.",
+      "raw_source_text": "This seminar is a core component of the interdisciplinary major in Media and Arts. Students will\napply to interdisciplinary topics the knowledge and methods of analysis that they have gained in\ndifferent disciplines. Students will re-connect with the broader community of faculty and students\nin their major and further develop their capacities to translate between their areas of expertise and\nthe larger questions and issues that apply across a variety of disciplines. The seminar will foster the\nability to see their disciplinary knowledge from a wider perspective and to apply it flexibly. Specific\ntopics will vary. This seminar is required for all juniors in the major. Other students may enroll\nwith the permission of the instructor."
+    },
+    {
+      "passage_id": "p01225_01",
+      "inspected_page": 359,
+      "page": 359,
+      "page_end": 360,
+      "hierarchy": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Political Science (POLSCI) > POLSCI 204 The U.S. Constitution and its Critics (4 credits)",
+      "passage_kind": "course_description",
+      "raw_passage_ids": [
+        "r01276"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Unbookmarked bold course heading visually verified; separately attributed course description and cross-page continuation.",
+      "text": "POLSCI 204 The U.S. Constitution and its Critics (4 credits). The U.S. Constitution is the foundation of the American legal and political system. It is the oldest national constitution still in effect, and it has influenced many subsequent constitutions around the world. According to its admirers, it has played a central role in the rise of the United States as a global superpower. Its critics, on the other hand, claim that it has produced an increasingly unequal society and a dysfunctional political system. This course will help students to better understand the basic structure of the U.S. Constitution, its history, and the political debates to which it has given rise. We will begin by examining the arguments raised for and against the Constitution when it was first proposed in the eighteenth century, before turning to the study of several contemporary political challenges in which constitutional questions play a prominent role, namely those concerning race, free speech, and the power of the American presidency.",
+      "raw_source_text": "The U.S. Constitution is the foundation of the American legal and political system. It is the oldest\nnational constitution still in effect, and it has influenced many subsequent constitutions around the\nworld. According to its admirers, it has played a central role in the rise of the United States as a\nglobal superpower. Its critics, on the other hand, claim that it has produced an increasingly unequal\nsociety and a dysfunctional political system. This course will help students to better understand the\nbasic structure of the U.S. Constitution, its history, and the political debates to which it has given\nrise. We will begin by examining the arguments raised for and against the Constitution when it was\nfirst proposed in the eighteenth century, before turning to the study of several contemporary\npolitical challenges in which constitutional questions play a prominent role, namely those\nconcerning race, free speech, and the power of the American presidency."
+    },
+    {
+      "passage_id": "p01392_01",
+      "inspected_page": 398,
+      "page": 398,
+      "page_end": 398,
+      "hierarchy": "Part 11: Academic Calendar 2021-22",
+      "passage_kind": "calendar_event",
+      "raw_passage_ids": [
+        "r01447"
+      ],
+      "source_prefix_matches": false,
+      "review_note": "Table cell order differs from baseline text order. Wrapped course codes/titles were visually checked on page 200; the January 31 row was checked against PDF cell extraction and covered by a regression test.",
+      "text": "January 31- February 6 Monday-Sunday. Spring Festival – Chinese New Year – No classes",
+      "raw_source_text": "January 31- February 6 Monday-Sunday. Spring Festival – Chinese New Year – No classes"
+    },
+    {
+      "passage_id": "p00086_01",
+      "inspected_page": 28,
+      "page": 28,
+      "page_end": 28,
+      "hierarchy": "Part 4: Admission, Scholarships and Financial Aid > Application Timelines",
+      "passage_kind": "paragraph",
+      "raw_passage_ids": [
+        "r00105",
+        "r00106"
+      ],
+      "source_prefix_matches": true,
+      "review_note": "Source text and hierarchy inspected; whitespace normalized.",
+      "text": "Chinese Students: All Chinese students, including students from Hong Kong, Macau and Taiwan, applying to Duke Kunshan University must complete the application in the Slate system, and choose the Regular Decision plan for application.",
+      "raw_source_text": "Chinese Students: All Chinese students, including students from Hong Kong, Macau and Taiwan, applying to Duke\nKunshan University must complete the application in the Slate system, and choose the Regular\nDecision plan for application."
+    }
+  ]
+}

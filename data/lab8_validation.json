@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "passage_count": 1460,
+  "section_count": 84,
+  "topic_count": 8,
+  "matrix_cells": 672,
+  "neighbor_edges": 7300,
+  "checks": [
+    "unique IDs and reconciled corpus counts",
+    "nonempty passages and model token limit",
+    "source page ranges",
+    "finite coordinates and normalized 384D embeddings",
+    "prepared/exported text identity and embedding row alignment",
+    "complete matrix and section denominators",
+    "summary totals",
+    "neighbor validity, descending scores, and original-vector cosine consistency"
+  ]
+}

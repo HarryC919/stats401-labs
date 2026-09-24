@@ -1,0 +1,47 @@
+{
+  "title": "Bulletin of Duke Kunshan University: Undergraduate Instruction",
+  "academic_year": "2021-2022",
+  "publication_date": "July 2021",
+  "source_url": "https://dku-web-admissions.s3.cn-north-1.amazonaws.com.cn/dkumain/files/V2021-22_DKU_UG_Bulletin.pdf",
+  "source_acquisition": "User-supplied local PDF; remote identity not independently verified",
+  "local_source": "Lab8/V2021-22_DKU_UG_Bulletin.pdf",
+  "accessed_date": "2026-09-22",
+  "source_sha256": "431bd3fdcdfdf7722783c29502a7600e8ac21ae45fd4785d230d1ab387dc9133",
+  "page_count": 400,
+  "page_convention": "1-based PDF page; matches printed page numbers; page_end is inclusive",
+  "raw_passage_count": 1495,
+  "duplicate_blocks_removed": 1,
+  "fragments_merged_into_context": 55,
+  "malformed_blocks_removed": 2,
+  "additional_chunks_from_token_splitting": 23,
+  "clean_passage_count": 1460,
+  "mean_word_count": 77.43219178082192,
+  "section_count": 84,
+  "maximum_token_count": 256,
+  "token_limit_including_special_tokens": 256,
+  "section_definition": "Direct child of a Part bookmark; synthetic Chapter introduction for text preceding the first section. Deeper headings retained in subsection and hierarchy_path.",
+  "deduplication": "Exact normalized text within the full hierarchy path; cross-hierarchy repetitions retained with provenance.",
+  "excluded_pages": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "exclusion_counts": {
+    "cover_or_table_of_contents": 8,
+    "diagram_not_linear_prose": 2,
+    "repeated_table_header": 187,
+    "exact_duplicate_within_hierarchy": 1,
+    "no_meaningful_text": 1,
+    "structural_heading_without_body": 1
+  },
+  "limitations": [
+    "Automated layout-based segmentation; representative manual audit does not guarantee every boundary.",
+    "Split chunks retain their parent page span; individual sentence coordinates are not exported.",
+    "Formal sections differ greatly in size, particularly Majors and Course Descriptions."
+  ]
+}

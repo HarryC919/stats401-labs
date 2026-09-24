@@ -1,0 +1,50 @@
+{
+  "0": {
+    "name": "STEM Courses and Major Requirements",
+    "rationale": "Mathematics, biology, chemistry, physics, computing, and statistics dominate the characteristic terms and centroid-near course requirement blocks.",
+    "evidence_passage_ids": ["p00433_01", "p00569_01", "p00414_01"],
+    "caveat": "A broad scientific curriculum cluster; peripheral physical-education and facilities passages are not well described by the central label."
+  },
+  "1": {
+    "name": "Language Learning, Writing, and Placement",
+    "rationale": "Representative passages describe Chinese heritage-language sequences and English academic writing; characteristic terms also identify advanced placement and language skills.",
+    "evidence_passage_ids": ["p00767_01", "p00874_01", "p00757_01"],
+    "caveat": "Includes some broader writing and degree-related material, rather than only language course descriptions."
+  },
+  "2": {
+    "name": "Elective Choices and Course Availability",
+    "rationale": "Centroid-near passages repeat advice about choosing electives across disciplines and updating course lists; peripheral examples discuss whether listed courses are offered each term.",
+    "evidence_passage_ids": ["p00417_01", "p00422_01", "p00691_01"],
+    "caveat": "This is substantially a repeated-boilerplate cluster. Identical wording in different major hierarchies is intentionally retained to preserve its formal distribution."
+  },
+  "3": {
+    "name": "Politics, Economics, and Public Policy",
+    "rationale": "Political institutions, legal systems, social-science methods, economics, and public-policy course lists recur in characteristic terms and representative passages.",
+    "evidence_passage_ids": ["p00662_02", "p00515_01", "p00587_01"],
+    "caveat": "This broad social-science theme includes environmental policy and ethical questions; isolated peripheral assignments should not be interpreted as definitive topic membership."
+  },
+  "4": {
+    "name": "History, Culture, and the Arts",
+    "rationale": "Representative material concerns Chinese cultural history, inter-Asian literature, global art history, cultural studies, and media; terms emphasize world, history, culture, and literature.",
+    "evidence_passage_ids": ["p00936_01", "p01044_01", "p00991_01"],
+    "caveat": "Overlaps with politics and language learning; it should not be treated as a strict disciplinary boundary."
+  },
+  "5": {
+    "name": "Academic Calendar and Class Scheduling",
+    "rationale": "Centroid-near passages are dated class meetings, session endings, and examinations; peripheral passages describe holiday closures and the authority for changing class times.",
+    "evidence_passage_ids": ["p01409_01", "p01365_01", "p01375_01"],
+    "caveat": "This theme is concentrated in calendar rows and includes general scheduling policy."
+  },
+  "6": {
+    "name": "University Mission, Services, and Study Opportunities",
+    "rationale": "Representative passages describe DKU's mission and partnership, campus engagement, and approval for external study; characteristic terms emphasize offices, programs, services, and opportunities.",
+    "evidence_passage_ids": ["p00354_01", "p00158_01", "p00014_01"],
+    "caveat": "This is a mixed institutional-support cluster, not a single narrowly defined policy topic. Email and website tokens appear among its characteristic terms."
+  },
+  "7": {
+    "name": "Academic Progress, Grading, and Enrollment Status",
+    "rationale": "Withdrawal, underloads, probation, leave, grades, and degree progress dominate the representative policies and characteristic terms.",
+    "evidence_passage_ids": ["p00258_01", "p00164_01", "p00233_01"],
+    "caveat": "Some peripheral financial and disciplinary procedures share administrative language with this cluster."
+  }
+}

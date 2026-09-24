@@ -1,0 +1,85 @@
+section_id,chapter,section,passage_count,average_word_count,median_word_count,total_words
+227fd8d953f9,Front matter,Publication and institutional notices,9,59.888888888888886,45.0,539
+52fb38d5fa27,Part 1: General Information,Chapter introduction,4,50.25,50.5,201
+7d2d1d53d852,Part 1: General Information,Mission Statement,1,141.0,141.0,141
+03f471377dd9,Part 1: General Information,Statement on Diversity and Inclusion,1,146.0,146.0,146
+aa1098157cfd,Part 1: General Information,Who We Are,4,147.25,161.0,589
+4b2fa9fb85a5,Part 1: General Information,Partners,8,63.125,48.5,505
+180c5c9140ca,Part 1: General Information,Duke Kunshan University Community Standard,1,136.0,136.0,136
+03e1aa0882bf,Part 2: A Liberal Arts Education at Duke Kunshan University,A 21st Century Curriculum,1,119.0,119.0,119
+554ff026be29,Part 2: A Liberal Arts Education at Duke Kunshan University,A Liberal Arts College Experience,1,153.0,153.0,153
+3163807abf79,Part 2: A Liberal Arts Education at Duke Kunshan University,Dual Degrees,1,92.0,92.0,92
+1d411a928ac9,Part 2: A Liberal Arts Education at Duke Kunshan University,Animating Principles,8,32.875,30.0,263
+b0dd071a18b8,Part 3: The Curriculum,Overview,4,144.5,148.5,578
+c8c8ddcef0cc,Part 3: The Curriculum,Key Components,6,87.66666666666667,99.5,526
+ff33e6e8004e,Part 3: The Curriculum,Degree Requirements,35,75.94285714285714,63.0,2658
+5f161de6c607,"Part 4: Admission, Scholarships and Financial Aid",Principles of Selection,2,61.5,61.5,123
+7e5a226fbb64,"Part 4: Admission, Scholarships and Financial Aid",How to Apply,1,11.0,11.0,11
+ec67cffed2c9,"Part 4: Admission, Scholarships and Financial Aid",Application Timelines,6,40.833333333333336,37.5,245
+5eccca8903c0,"Part 4: Admission, Scholarships and Financial Aid",Application Requirements,6,44.166666666666664,46.5,265
+0a63e5c9a56a,"Part 4: Admission, Scholarships and Financial Aid",Scholarships and Financial Aid,4,56.25,51.0,225
+7cc6f4cd91ef,"Part 4: Admission, Scholarships and Financial Aid",Notification and Responses,1,13.0,13.0,13
+7592383c5682,Part 5: Financial Information,Tuition and Fees,2,67.5,67.5,135
+cdc180ee822f,Part 5: Financial Information,Estimated Expenses,20,49.05,42.5,981
+717aa253300b,Part 5: Financial Information,Refund,10,36.6,29.5,366
+f788d01409f9,Part 6: Academic Procedures and Information,Academic Integrity,5,103.2,99.0,516
+e223d7c1881a,Part 6: Academic Procedures and Information,Entrance Credit and Placement,14,86.07142857142857,82.5,1205
+d1f6ee3ada9e,Part 6: Academic Procedures and Information,Transfer of Work Taken Elsewhere,9,91.44444444444444,89.0,823
+944b246b1a20,Part 6: Academic Procedures and Information,Time Limit for Completing Undergraduate Degree,1,73.0,73.0,73
+134a71383ca7,Part 6: Academic Procedures and Information,Registration,7,87.71428571428571,80.0,614
+e8500d65ef28,Part 6: Academic Procedures and Information,Undergraduate Course Load,16,88.9375,86.0,1423
+015358fc2bec,Part 6: Academic Procedures and Information,Eligibility for Courses,4,88.0,100.5,352
+284ec88cf672,Part 6: Academic Procedures and Information,Course Repeat,6,98.5,98.5,591
+2224c1e8aca6,Part 6: Academic Procedures and Information,Course Audit,1,206.0,206.0,206
+2ae99cd31cc5,Part 6: Academic Procedures and Information,Two-Credit Writing Courses,1,120.0,120.0,120
+6d5d5e71ad97,Part 6: Academic Procedures and Information,Independent Studies,2,116.0,116.0,232
+cd67a86f2ba6,Part 6: Academic Procedures and Information,Submission of Term Paper,1,41.0,41.0,41
+dfe0692da229,Part 6: Academic Procedures and Information,Declaration of Major,2,132.5,132.5,265
+3f431dd01ce2,Part 6: Academic Procedures and Information,Class Attendance and Missed Work,3,97.66666666666667,83.0,293
+e0f9873af4ee,Part 6: Academic Procedures and Information,Class Scheduling,1,46.0,46.0,46
+57445e0e07e6,Part 6: Academic Procedures and Information,Incomplete Coursework and Excused Absence from Final Exam,4,126.5,123.0,506
+3432860f8b02,Part 6: Academic Procedures and Information,Final Examinations,3,115.66666666666667,131.0,347
+57f488b6f6f5,Part 6: Academic Procedures and Information,Grading and Grade Requirements,22,104.18181818181819,88.5,2292
+106f7157272a,Part 6: Academic Procedures and Information,Progress toward Degree,6,81.83333333333333,90.0,491
+411c9e18a697,Part 6: Academic Procedures and Information,"Academic Warning, Probation, and Suspension for Students in the Classes of 2022-2024",11,93.63636363636364,106.0,1030
+a3976067cd4a,Part 6: Academic Procedures and Information,"Academic Warning, Probation, and Suspension for Students in the Class of 2025 and Beyond",11,81.27272727272727,66.0,894
+5bf5a13dc4bc,Part 6: Academic Procedures and Information,Changes in Status,12,108.0,83.0,1296
+0f14a71c9ed7,Part 6: Academic Procedures and Information,Academic Recognition and Honors,4,105.0,102.0,420
+d8f4b2200501,Part 6: Academic Procedures and Information,Notification of Intention to Graduate,1,116.0,116.0,116
+900f9f51a8ff,Part 6: Academic Procedures and Information,Graduation and Commencement,1,84.0,84.0,84
+c44c7c8101b5,Part 6: Academic Procedures and Information,Education Records,4,55.5,54.0,222
+c81b1480573c,Part 6: Academic Procedures and Information,The Provision of Academic Information to Parents and Guardians,1,68.0,68.0,68
+8d86f0867d0a,Part 6: Academic Procedures and Information,Procedure for Resolution of Students' Academic Concerns,8,56.75,71.0,454
+75f9d92772ff,Part 6: Academic Procedures and Information,Grade Review Procedure,5,94.8,97.0,474
+d368a3fced31,Part 6: Academic Procedures and Information,Exclusion of Disruptive Students from a Course,2,57.5,57.5,115
+2495b2e06325,Part 6: Academic Procedures and Information,Compliance with Academic Regulations,1,79.0,79.0,79
+bd8ac966c65c,Part 6: Academic Procedures and Information,Religious Holidays,1,107.0,107.0,107
+dec7271d782e,Part 7: Academic Advising and Support,Chapter introduction,1,83.0,83.0,83
+edc978778375,Part 7: Academic Advising and Support,Academic Advising,4,104.25,103.0,417
+0bcfee98289b,Part 7: Academic Advising and Support,Academic Resource Center,5,66.0,69.0,330
+4cb87aa32d0c,Part 7: Academic Advising and Support,Seven Principles of Duke Kunshan University Academic Advising,2,81.0,81.0,162
+080351a33f88,"Part 8: Career Services, Study Away, and Research Opportunities",Career Services,7,66.57142857142857,55.0,466
+d256bafc2b87,"Part 8: Career Services, Study Away, and Research Opportunities",Student Research Opportunities,2,83.0,83.0,166
+a717c9075c89,"Part 8: Career Services, Study Away, and Research Opportunities",Office of Global Education and Study Away,19,88.26315789473684,73.0,1677
+8817a646b581,Part 9: Student Affairs and Campus Life,Student Affairs,2,32.0,32.0,64
+d3220c043d37,Part 9: Student Affairs and Campus Life,Student Affairs Conceptual Framework,2,86.5,86.5,173
+d947e2a528af,Part 9: Student Affairs and Campus Life,Residence Life,2,86.5,86.5,173
+e03ae2e5f26a,Part 9: Student Affairs and Campus Life,Accommodations,3,80.33333333333333,99.0,241
+5ed73b76d3e8,Part 9: Student Affairs and Campus Life,Leadership Development,1,89.0,89.0,89
+ed2a053c14d7,Part 9: Student Affairs and Campus Life,Campus Engagement,1,54.0,54.0,54
+4078d267a0a9,Part 9: Student Affairs and Campus Life,Arts and Culture,1,113.0,113.0,113
+7c92881ddf83,Part 9: Student Affairs and Campus Life,Blue Oasis Student Center,2,59.0,59.0,118
+c7697b2cf047,Part 9: Student Affairs and Campus Life,Campus Programs,3,90.33333333333333,104.0,271
+dadaf815ffc8,Part 9: Student Affairs and Campus Life,Student Clubs and Organizations,1,115.0,115.0,115
+3980caa71a22,Part 9: Student Affairs and Campus Life,Athletics & University Sports,5,48.0,42.0,240
+f8c63dccc327,Part 9: Student Affairs and Campus Life,Counseling and Psychological Services (CAPS),2,98.5,98.5,197
+da5f5380d755,Part 9: Student Affairs and Campus Life,Campus Health Clinic,1,157.0,157.0,157
+52fab60de478,Part 9: Student Affairs and Campus Life,Chinese Student Services and Student Mobility,2,102.0,102.0,204
+84e1eb871781,Part 9: Student Affairs and Campus Life,International Student Services,2,47.5,47.5,95
+c543b36e6255,Part 9: Student Affairs and Campus Life,Host Family Program,1,45.0,45.0,45
+db6d365ff210,Part 9: Student Affairs and Campus Life,Student Conduct,3,60.666666666666664,74.0,182
+238640d65fa1,Part 10: Majors and Courses,Requirements for All Majors,11,22.181818181818183,23.0,244
+18ab7f789e44,Part 10: Majors and Courses,Majors (listed in alphabetical order),317,64.26498422712933,48.0,20372
+e91471b27392,Part 10: Majors and Courses,Course Descriptions,674,90.36498516320475,96.0,60906
+f8d2815b0bd9,Part 11: Academic Calendar 2021-22,Chapter introduction,58,13.275862068965518,9.0,770
+aacd1222e59c,Part 12: Useful Contacts,Chapter introduction,20,6.1,5.5,122

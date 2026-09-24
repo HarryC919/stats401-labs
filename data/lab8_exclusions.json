@@ -1,0 +1,1027 @@
+[
+  {
+    "page": 1,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 3,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 4,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 5,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 6,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 7,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 8,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 9,
+    "reason": "cover_or_table_of_contents"
+  },
+  {
+    "page": 19,
+    "reason": "diagram_not_linear_prose",
+    "text": "Figure 1 and its labels"
+  },
+  {
+    "page": 24,
+    "reason": "diagram_not_linear_prose",
+    "text": "Figure 2 and its labels above Credits Required for Degree"
+  },
+  {
+    "page": 25,
+    "text": "Course Credits",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 84,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 85,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 87,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 87,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 88,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 88,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 89,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 89,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 90,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 90,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 91,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 91,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 92,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 92,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 95,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 95,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 96,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 96,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 98,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 98,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 99,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 99,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 101,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 101,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 102,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 102,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 104,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 104,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 105,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 105,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 107,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 107,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 108,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 109,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 112,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 112,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 112,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 113,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 114,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 114,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 114,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 115,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 116,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 116,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 116,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 117,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 119,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 120,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 120,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 120,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 123,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 123,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 124,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 124,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 125,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 125,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 126,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 126,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 127,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 127,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 128,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 128,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 129,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 129,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 130,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 130,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 133,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 133,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 134,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 134,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 136,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 136,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 137,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 137,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 139,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 139,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 140,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 140,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 141,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 142,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 142,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 143,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 144,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 144,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 144,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 145,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 146,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 146,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 146,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 147,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 148,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 148,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 148,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 149,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 150,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 150,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 150,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 151,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 153,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 153,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 154,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 154,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 156,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 156,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 156,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 157,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 160,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 160,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 161,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 161,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 163,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 163,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 164,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 164,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 166,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 166,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 167,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 167,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 169,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 169,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 169,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 170,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 172,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 172,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 172,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 173,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 175,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 176,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 176,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 177,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 178,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 178,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 179,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 179,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 182,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 182,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 183,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 183,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 185,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 185,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 186,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 186,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 189,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 190,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 190,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 191,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 192,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 192,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 192,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 193,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 194,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 194,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 195,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 195,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 196,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 196,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 196,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 197,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 198,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 199,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 199,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 199,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 201,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 201,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 201,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 202,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 204,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 204,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 204,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 205,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 207,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 208,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 208,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 209,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 210,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 210,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 210,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 211,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 212,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 212,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 212,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 213,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 215,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 215,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 215,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "page": 216,
+    "text": "Course Code Course Name Course Credit",
+    "reason": "repeated_table_header"
+  },
+  {
+    "chapter": "Part 3: The Curriculum",
+    "section": "Degree Requirements",
+    "section_id": "ff33e6e8004e",
+    "subsection": "Credits Required for Degree",
+    "hierarchy_path": "Part 3: The Curriculum > Degree Requirements > Credits Required for Degree",
+    "page": 25,
+    "page_end": 25,
+    "passage_kind": "paragraph",
+    "starts_with_heading": false,
+    "text": "Students from Hong Kong, Macau, and Taiwan must meet the same requirements as those from\nthe Chinese mainland. However, they may substitute the military training credits with credits from\nspecific designated Chinese studies courses, or they can voluntarily take military training to get the\ncorresponding credits.",
+    "raw_passage_ids": "r00090",
+    "reason": "exact_duplicate_within_hierarchy"
+  },
+  {
+    "chapter": "Part 10: Majors and Courses",
+    "section": "Majors (listed in alphabetical order)",
+    "section_id": "18ab7f789e44",
+    "subsection": "Applied Mathematics and Computational Sciences with tracks in Computer Science and Mathematics > Applied Mathematics and Computational Sciences/Mathematics (for the Classes of 2022- 2024)",
+    "hierarchy_path": "Part 10: Majors and Courses > Majors (listed in alphabetical order) > Applied Mathematics and Computational Sciences with tracks in Computer Science and Mathematics > Applied Mathematics and Computational Sciences/Mathematics (for the Classes of 2022- 2024)",
+    "page": 91,
+    "page_end": 91,
+    "passage_kind": "paragraph",
+    "starts_with_heading": true,
+    "text": "2024)11",
+    "raw_passage_ids": "r00450",
+    "occurrence_pages": [
+      91
+    ],
+    "reason": "no_meaningful_text"
+  },
+  {
+    "chapter": "Part 10: Majors and Courses",
+    "section": "Course Descriptions",
+    "section_id": "e91471b27392",
+    "subsection": "Courses with Course Subject: Chinese (CHINESE)",
+    "hierarchy_path": "Part 10: Majors and Courses > Course Descriptions > Courses with Course Subject: Chinese (CHINESE)",
+    "page": 235,
+    "page_end": 235,
+    "passage_kind": "paragraph",
+    "starts_with_heading": true,
+    "text": "Chinese as Second Language Courses",
+    "raw_passage_ids": "r00803",
+    "occurrence_pages": [
+      235
+    ],
+    "reason": "structural_heading_without_body"
+  }
+]

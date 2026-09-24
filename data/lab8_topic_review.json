@@ -1,0 +1,1088 @@
+[
+  {
+    "cluster": 0,
+    "passage_count": 295,
+    "top_terms": [
+      "math",
+      "biol",
+      "science",
+      "chem",
+      "chemistry",
+      "phys",
+      "introduction",
+      "biology",
+      "compsci",
+      "calculus",
+      "physics",
+      "stats",
+      "systems",
+      "integrated",
+      "data",
+      "integrated science",
+      "following",
+      "molecular",
+      "include",
+      "topics"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "count": 193
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "count": 95
+      },
+      {
+        "chapter": "Front matter",
+        "section": "Publication and institutional notices",
+        "count": 1
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Requirements for All Majors",
+        "count": 1
+      },
+      {
+        "chapter": "Part 12: Useful Contacts",
+        "section": "Chapter introduction",
+        "count": 1
+      },
+      {
+        "chapter": "Part 2: A Liberal Arts Education at Duke Kunshan University",
+        "section": "Animating Principles",
+        "count": 1
+      },
+      {
+        "chapter": "Part 3: The Curriculum",
+        "section": "Degree Requirements",
+        "count": 1
+      },
+      {
+        "chapter": "Part 8: Career Services, Study Away, and Research Opportunities",
+        "section": "Career Services",
+        "count": 1
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p00433_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Computation and Design with tracks in Computer Science, Digital Media, and Social Policy > Computation and Design / Computer Science > Divisional Foundation Courses",
+        "page": 101,
+        "text": "MATH 205 Probability and Statistics 4 And choose one of the following two courses MATH 101 Introductory Calculus 4 MATH 105 Calculus 4 And choose one of the following three courses BIOL 110 Integrated Science – Biology 4 CHEM 110 Integrated Science – Chemistry 4 PHYS 121 Integrated Science – Physics 4"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00569_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Global Health with Tracks in Biology and Public Policy > Global Health / Biology > Disciplinary Courses",
+        "page": 161,
+        "text": "CHEM 201 Organic Chemistry I 4 BIOL 201 Cell and Molecular Biology 4 BIOL 202 Genetics and Evolution 4 BIOL 208 General Ecology 4 BIOL 212 Microbiology 4 BIOL 305 Introduction to Biochemistry 4 And choose one from the following courses STATS 101 Introduction to Applied Statistical Methods 4 MATH 205 Probability and Statistics 4"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00414_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Behavioral Science with tracks in Psychology and Neuroscience > Behavioral Science / Psychology > Divisional Foundation Courses",
+        "page": 95,
+        "text": "BIOL 110 Integrated Science - Biology 4 SOSC 101 Foundational Questions in Social Science 4 STATS 101* Introduction to Applied Statistical Methods 4 And choose one from the following 2 courses MATH 101 Introductory Calculus 4 MATH 105 Calculus 4 * Students who are more interested in computational modeling can take MATH 205 Probability and Statistics as a substitute for STATS 101."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00419_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Behavioral Science with tracks in Psychology and Neuroscience > Behavioral Science / Neuroscience > Divisional Foundation Courses",
+        "page": 98,
+        "text": "BIOL 110 Integrated Science - Biology 4 SOSC 101 Foundational Questions in Social Science 4 STATS 101* Introduction to Applied Statistical Methods 4 And choose one from the following 2 courses MATH 101 Introductory Calculus 4 MATH 105 Calculus 4 * Students who are more interested in computational modeling can take MATH 205 Probability and Statistics as a substitute for STATS 101."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00489_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Environmental Science with tracks in Biogeochemistry, Biology, Chemistry, and Public Policy > Environmental Science / Biology > Disciplinary Courses",
+        "page": 126,
+        "text": "BIOL 201 Cell and Molecular Biology 4 CHEM 201 Organic Chemistry I 4 BIOL 208 General Ecology 4 BIOL 212 Microbiology 4 BIOL 202 Genetics and Evolution 4 BIOL 305 Introduction to Biochemistry 4 And choose one from the following two courses STATS 101 Introduction to Applied Statistical Methods 4 MATH 205 Probability and Statistics 4"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00359_01",
+        "chapter": "Part 9: Student Affairs and Campus Life",
+        "section": "Athletics & University Sports",
+        "subsection": "",
+        "page": 81,
+        "text": "Our facilities include a soccer stadium, outdoor multi-sport courts, and a fitness center that offers a range of cardio equipment, free weights and exercise machines, and hosts daily fitness classes such as yoga, Pilates, tai-chi, dance, and many others."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00381_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Requirements for All Majors",
+        "subsection": "Two Signature Work Capstone Courses (8 credits)",
+        "page": 85,
+        "text": "CAPSTONE 495 Signature Work Capstone I 4 CAPSTONE 496 Signature Work Capstone II 4"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p01195_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Physical Education (PHYSEDU) > PHYSEDU 116 Stick Stretching/Yoga (0.5 credit)",
+        "page": 353,
+        "text": "PHYSEDU 116 Stick Stretching/Yoga (0.5 credit). Stick stretching is a hybrid blend of traditional yoga poses, tai chi and soft martial arts, which is designed to improve mobility, flexibility, balance, strength, coordination and postural awareness. Hence, the focus of stick yoga is on spinal health and correcting body mechanic. Sticks are used to provide support, guide and leverage stretching, strengthening and balance forms."
+      }
+    ]
+  },
+  {
+    "cluster": 1,
+    "passage_count": 193,
+    "top_terms": [
+      "chinese",
+      "language",
+      "advanced",
+      "writing",
+      "skills",
+      "placement",
+      "basis",
+      "advanced placement",
+      "continuation",
+      "placement basis",
+      "eap",
+      "chinese chinese",
+      "equivalent",
+      "continuation chinese",
+      "major",
+      "basis college",
+      "college",
+      "college board",
+      "required",
+      "study"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "count": 125
+      },
+      {
+        "chapter": "Part 3: The Curriculum",
+        "section": "Degree Requirements",
+        "count": 21
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "count": 10
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Requirements for All Majors",
+        "count": 8
+      },
+      {
+        "chapter": "Part 5: Financial Information",
+        "section": "Estimated Expenses",
+        "count": 5
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Entrance Credit and Placement",
+        "count": 4
+      },
+      {
+        "chapter": "Part 3: The Curriculum",
+        "section": "Key Components",
+        "count": 3
+      },
+      {
+        "chapter": "Part 4: Admission, Scholarships and Financial Aid",
+        "section": "Application Requirements",
+        "count": 3
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p00767_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Chinese (CHINESE) > CHINESE 232A Second Year Chinese for Heritage Learners 2 – A (2 credits)",
+        "page": 238,
+        "text": "CHINESE 232A Second Year Chinese for Heritage Learners 2 – A (2 credits). This course, a continuation of CHINESE 231, is designed to help Chinese heritage students continue improving their formal and informal discourse in speaking and writing. This course aims to further expand and refine students’ language skills by studying a variety of texts that are written with advanced intermediate-level vocabulary (including vocabulary denoting abstract concepts), complex grammatical structures, and formal language uses. Students will develop these skills both through curricular activities (such as pair work, writing essays and diaries, and group work) and extracurricular activities (such as Chinese Table and Language Partners). Topics of the course focus on social and cultural issues in contemporary China. Prerequisite(s): CHINESE 231B or equivalent"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00874_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: English for Academic Purposes (EAP) > EAP 102A Writing about Culture Learning – A (2 credits)",
+        "page": 265,
+        "text": "EAP 102A Writing about Culture Learning – A (2 credits). This is a content-based academic writing course for EAP-track students that further builds written and oral communication skills introduced in EAP101. In this course students will study generalizations that are often made about significant aspects of a Western culture (e.g. the idea that U.S. culture is relatively individualistic); then they will write papers in which they analyze and critically examine these generalizations. Students will practice researching issues and appropriately making use of resource materials. They will practice planning and writing course papers in which they take a stand on an issue and then make a case for their position. Students will also share ideas by making presentations. This course, required for EAP-track students, is normally taken in Year 1, Term 2. Prerequisite(s): EAP 101B"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00757_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Chinese (CHINESE) > CHINESE 131A First Year Chinese for Heritage Learners 1 – A (2 credits)",
+        "page": 236,
+        "text": "CHINESE 131A First Year Chinese for Heritage Learners 1 – A (2 credits). This course is designed for CSL track students who were raised in a Chinese-speaking environment and who are proficient in speaking and listening to Chinese in daily and social conversation, but who have little or no ability to read or write in Chinese. This course will focus on teaching these students to read and write in Chinese, improve their pronunciation and grammatical structures of Mandarin, and expand vocabulary beyond daily life. Students will develop these skills both through curricular activities (such as pair work, writing essays and diaries, and group work) and extracurricular activities (such as Chinese Table and Language Partners). Topics of the course range from home and social life to cultural and social issues. Prerequisite(s): None"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00765_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Chinese (CHINESE) > CHINESE 231A Second Year Chinese for Heritage Learners 1 – A (2 credits)",
+        "page": 237,
+        "text": "CHINESE 231A Second Year Chinese for Heritage Learners 1 – A (2 credits). This course, a continuation of CHINESE 132, is designed to help Chinese heritage students continue improving their formal and informal discourse in speaking and writing. This course aims to further expand and refine students’ language skills by studying a variety of texts that are written with advanced intermediate-level vocabulary (including vocabulary denoting abstract concepts), complex grammatical structures, and formal language uses. Students will develop these skills both through curricular activities (such as pair work, writing essays and diaries, and group work) and extracurricular activities (such as Chinese Table and Language Partners). Topics of the course will focus on social and cultural issues in contemporary China. Prerequisite(s): CHINESE 132B or equivalent"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00766_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Chinese (CHINESE) > CHINESE 231B Second Year Chinese for Heritage Learners 1 – B (2 credits)",
+        "page": 237,
+        "text": "CHINESE 231B Second Year Chinese for Heritage Learners 1 – B (2 credits). Continuation of CHINESE 231A Prerequisite(s): CHINESE 231A"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00070_01",
+        "chapter": "Part 3: The Curriculum",
+        "section": "Degree Requirements",
+        "subsection": "Major Requirements (16-19 courses, 64-76 credits) > Signature Work and Experiential Education (8 credits and one Experiential Learning activity)",
+        "page": 23,
+        "text": "The Signature Work Project will vary across fields and disciplines, but will always include substantial scholarly writing, reflection on learning, and publicly visible results. A student's Signature Work topic will be identified by the end of the sophomore year, at the latest. In the junior and senior years, a student will create an e-portfolio that captures both the Signature Work Product a student has produced and a narrative explaining the larger inquiry informing their Signature Work Project. Further information is available in the Signature Work Guide."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00380_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Requirements for All Majors",
+        "subsection": "Two Signature Work Capstone Courses (8 credits)",
+        "page": 85,
+        "text": "Resulting in a Signature Work Product. Please see details in Part 3: The Curriculum."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00105_01",
+        "chapter": "Part 5: Financial Information",
+        "section": "Estimated Expenses",
+        "subsection": "",
+        "page": 32,
+        "text": "International Travel includes an estimate of the cost of one roundtrip from an international destination to Shanghai for international students, typical visa costs, and the additional health check and registration costs associated with establishing legal residence in China for non-Chinese students. Students wishing to return to their home countries during breaks in their study before the end of the year should budget additional funds for these trips."
+      }
+    ]
+  },
+  {
+    "cluster": 2,
+    "passage_count": 64,
+    "top_terms": [
+      "electives",
+      "updated",
+      "updated periodically",
+      "periodically",
+      "list updated",
+      "list",
+      "recommended electives",
+      "disciplines divisions",
+      "divisions electives",
+      "select different",
+      "select",
+      "divisions",
+      "recommended",
+      "different disciplines",
+      "disciplines",
+      "listed",
+      "different",
+      "choose recommended",
+      "electives list",
+      "offered"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "count": 62
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "count": 1
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Requirements for All Majors",
+        "count": 1
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p00417_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Behavioral Science with tracks in Psychology and Neuroscience > Behavioral Science / Psychology > Electives",
+        "page": 96,
+        "text": "Students can choose the recommended electives in their tracks or select other courses in different disciplines or divisions as electives. The course list will be updated periodically."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00422_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Behavioral Science with tracks in Psychology and Neuroscience > Behavioral Science / Neuroscience > Electives",
+        "page": 99,
+        "text": "Students can choose the recommended electives in their tracks or select other courses in different disciplines or divisions as electives. The course list will be updated periodically."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00436_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Computation and Design with tracks in Computer Science, Digital Media, and Social Policy > Computation and Design / Computer Science > Electives",
+        "page": 102,
+        "text": "Students can choose the recommended electives in their tracks or select other courses in different disciplines or divisions as electives. The course list will be updated periodically."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00441_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Computation and Design with tracks in Computer Science, Digital Media, and Social Policy > Computation and Design / Digital Media > Electives",
+        "page": 105,
+        "text": "Students can choose the recommended electives in their tracks or select other courses in different disciplines or divisions as electives. The course list will be updated periodically."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00447_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Computation and Design with tracks in Computer Science, Digital Media, and Social Policy > Computation and Design / Social Policy > Electives",
+        "page": 109,
+        "text": "Students can choose the recommended electives in their tracks or select other courses in different disciplines or divisions as electives. The course list will be updated periodically."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00432_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Computation and Design with tracks in Computer Science, Digital Media, and Social Policy > Major Requirements",
+        "page": 101,
+        "text": "Not every course listed is offered every term, and the course list will be updated periodically. Please refer t he online Course Catalog for Courses offered in 2021-2022.)"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00691_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "",
+        "page": 217,
+        "text": "Not every course listed is offered every term, and the course list and course information will be updated periodically. Please refer to the online Course Catalog for Courses offered in AY2021-2022."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00372_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Requirements for All Majors",
+        "subsection": "",
+        "page": 84,
+        "text": "All students regardless of their choice of major will be required to take the following courses. Other specific major requirements are listed under each major."
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "passage_count": 271,
+    "top_terms": [
+      "political",
+      "social",
+      "policy",
+      "polsci",
+      "pubpol",
+      "econ",
+      "sosc",
+      "economic",
+      "politics",
+      "science",
+      "questions",
+      "public",
+      "introduction",
+      "institutions",
+      "economics",
+      "environmental",
+      "world",
+      "global",
+      "foundational",
+      "health"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "count": 171
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "count": 95
+      },
+      {
+        "chapter": "Part 1: General Information",
+        "section": "Chapter introduction",
+        "count": 2
+      },
+      {
+        "chapter": "Part 12: Useful Contacts",
+        "section": "Chapter introduction",
+        "count": 1
+      },
+      {
+        "chapter": "Part 2: A Liberal Arts Education at Duke Kunshan University",
+        "section": "Animating Principles",
+        "count": 1
+      },
+      {
+        "chapter": "Part 9: Student Affairs and Campus Life",
+        "section": "Student Affairs Conceptual Framework",
+        "count": 1
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p00662_02",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Political Economy with tracks in Economics, Political Science, and Public Policy > Political Economy / Political Science > Electives",
+        "page": 202,
+        "text": "POLSCI 219/ PUBPOL 219 The U.S. Legal System: Lawyers, Judges, Lawmakers, & Bureaucrats 4 PUBPOL 220 Introduction to Regulatory Governance 4 POLSCI 221 US/China Relations 4 POLSCI 303 International Politics of East Asia 4 SOCIOL 306 Contemporary Population Problems 4 POLSCI 311/ SOCIOL 311 /PHIL 311 The Political and Social Thought of Hannah Arendt 4 POLSCI 312 Islamic Political Thought 4 POLSCI 313/ PSYCH 313 Political Psychology 4 CULANTH 314 / POLSCI 314 Refugees and the Biopolitics of Citizenship 4 POLSCI 315 American Politics in Comparative Perspective 4 PUBPOL 316/ HIST 316 The Modern Regulatory State 4 PUBPOL 317 Plastic Planet: Pollution and Solutions 4 PUBPOL 318 How to Change the World: The Role of Non-State Actors 4 SOSC 320 Data in the World: Applied Social Statistics 4 ECON 333/ SOSC 333 Social and Economic Networks 4 POLECON 401/ GCHINA 401 Political Economy of the Chinese Reform 4"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00515_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Ethics and Leadership with tracks in Philosophy, Public Policy, Religious Studies > Ethics and Leadership / Public Policy > Electives",
+        "page": 137,
+        "text": "ETHLDR 108 Democracy and Inclusion: Hopes, Prospects, Dilemmas 2 GCULS 108 Science, Culture, and Politics 2 POLSCI 204 The U.S. Constitution and its Critics 4 PUBPOL 110 Introduction to Human Rights 4 PUBPOL 215 Law, Ethics and Responsibility 4 PUBPOL 217 Enterprising Leadership 4 PUBPOL 218 Ethics in an Unjust World 4 PUBPOL 220 Introduction to Regulatory Governance 4 PUBPOL 310 Family Rights and Human Rights 2 PUBPOL 312 News as Moral Battleground 4 POLSCI 313 /PSYCH 313 Political Psychology 4 PUBPOL 317 Plastic Planet: Pollution and Solutions 4 PUBPOL 318 How to Change the World: The Role of Non-State Actors 4"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00587_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Institutions and Governance with tracks in Economics, Political Science, and Public Policy > Institutions and Governance / Political Science > Disciplinary Courses",
+        "page": 169,
+        "text": "POLSCI 101 International Politics 4 ETHLDR 202 Ethics, Markets and Politics 4 PUBPOL 301 Political Analysis for Public Policy 4 POLSCI 301 Program Evaluation 4 POLSCI 302 Public Opinion 4"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00446_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Computation and Design with tracks in Computer Science, Digital Media, and Social Policy > Computation and Design / Social Policy > Disciplinary Courses",
+        "page": 108,
+        "text": "Methods Courses STATS 201 Introduction to Machine Learning for Social Science 4 COMPSCI 206/ ECON 206 Computational Microeconomics 4 STATS 305 Study Design: Design of Surveys and Causal Studies 4 SOSC 314 Computational Social Science: Tools to Collect & Analyze Human Behavior Using Data from the Internet 4 SOSC 320 Data in the World: Applied Social Statistics 4 Urban Design Concentration Courses PUBPOL 204 Governing Cities 4 ECON 310 Urban Economics 4 SOSC 315 Urban Sociology 4 SOSC 405 The Future of the City 4 Environmental Sustainability Concentration Courses EHTLDR 204 Environmental Ethics 4 ENVIR 206 Energy and the Environment 4 ENVIR 301 International Environmental Policy 4 ENVIR 302/ECON 302 Environmental Economics & Policy 4 Global Networks Concentration Courses CULMOVE 101 Cultures of Globalization 4 POLECON 201 International Political Economy 4 POLSCI 309 Networks in a Globalizing World 4"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00589_02",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Institutions and Governance with tracks in Economics, Political Science, and Public Policy > Institutions and Governance / Political Science > Electives",
+        "page": 170,
+        "text": "Legal System: Lawyers, Judges, Lawmakers, & Bureaucrats 4 PUBPOL 220 Introduction to Regulatory Governance 4 POLSCI 303 International Politics of East Asia 4 POLSCI 311/ SOCIOL 311 /PHIL 311 The Political and Social Thought of Hannah Arendt 4 POLSCI 312 Islamic Political Thought 4 POLSCI 313 /PSYCH 313 Political Psychology 4 CULANTH 314 /POLSCI 314 Refugees and the Biopolitics of Citizenship 4 POLSCI 315 American Politics in Comparative Perspective 4 PUBPOL 316/ HIST 316 The Modern Regulatory State 4 PUBPOL 317 Plastic Planet: Pollution and Solutions 4 PUBPOL 318 How to Change the World: The Role of Non-State Actors 4 SOSC 320 Data in the World: Applied Social Statistics 4 ECON 333/ SOSC 333 Social and Economic Networks 4 POLECON 401 /GCHINA 401 Political Economy of the Chinese Reform 4"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00013_01",
+        "chapter": "Part 1: General Information",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 10,
+        "text": "--Prof. Youmei Feng, Chancellor --Dr. Al Bloom, Executive Vice Chancellor"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00861_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Economics (ECON) > ECON 309 Behavioral Finance (4credits)",
+        "page": 261,
+        "text": "ECON 309 Behavioral Finance (4credits). The field of Behavioral Finance uses psychology to explain anomalies that we observe in the financial markets—investment behavior that are not consistent with the classical economic models of rational decision-making. In behavioral models, we recognize that individuals (and markets) may behave irrationally, sometimes for extended periods of time. Using some of the more popular and accepted theories of human behavior from the fields of psychology and decision-making, we will characterize some prevalent features of irrational behavior in the financial markets. We will discuss typical errors made by financial market participants as a result of behavioral biases, and examine the extent to which irrationality can affect financial markets at the aggregate level (“bubbles”), how long irrationality may persist, and what factors will eventually cause these bubbles to burst (“crashes”). Prerequisite(s): ECON 101"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p01149_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Philosophy (PHIL) > PHIL 108 Philosophy and Ethics of Artificial Intelligence (2 credits)",
+        "page": 342,
+        "text": "PHIL 108 Philosophy and Ethics of Artificial Intelligence (2 credits). Recent progress in Artificial Intelligence, via machine learning techniques that leverage big data, has made breakthroughs in a variety of domains. While some believe AI is still nothing but a tool, others believe we are on the verge of a technological singularity – the invention of an artificial superintelligence that will trigger exponential technological advancement that will change humanity in unpredictable ways. In this course we will begin with philosophical reflection on the nature of AI and then consider ethical issues that lie on a spectrum from highly speculative projections regarding the future of AI to highly practical issues that are being generated by actual AI applications being deployed today: internet usage, profiling, and autonomous vehicles among others."
+      }
+    ]
+  },
+  {
+    "cluster": 4,
+    "passage_count": 243,
+    "top_terms": [
+      "world",
+      "history",
+      "china",
+      "cultural",
+      "global",
+      "culture",
+      "media",
+      "social",
+      "chinese",
+      "historical",
+      "hist",
+      "lit",
+      "art",
+      "literature",
+      "american",
+      "studies",
+      "mediart",
+      "religious",
+      "political",
+      "examines"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "count": 180
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "count": 54
+      },
+      {
+        "chapter": "Part 2: A Liberal Arts Education at Duke Kunshan University",
+        "section": "Animating Principles",
+        "count": 5
+      },
+      {
+        "chapter": "Front matter",
+        "section": "Publication and institutional notices",
+        "count": 2
+      },
+      {
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Requirements for All Majors",
+        "count": 1
+      },
+      {
+        "chapter": "Part 1: General Information",
+        "section": "Partners",
+        "count": 1
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p00936_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Global Cultural Studies (GCULS) > GCULS 304 Chinese Culture and Ideology in the 20th Century and Now (4 credits)",
+        "page": 284,
+        "text": "GCULS 304 Chinese Culture and Ideology in the 20th Century and Now (4 credits). This course considers a variety of literary texts from the perspective of the nexus of cultures and societies in Asia, primarily on modern and contemporary China. This course exposes students to cultural and literary expressions and representations of modern China from the beginning of the 20th century to the present. It explores issues of politics and ideology and the formation of Chinese exceptionalism. The class is divided into two parts: 1. the beginning of the 20th century (1900-1949) and the Mao era (1949-1976); 2. contemporary China since the era of reform and opening up (1978- present). The course takes comparative, interdisciplinary approaches of intellectual and cultural history, literary and cultural studies, and political science. It aims at unraveling the complex relationship of political, ideological formations and cultural, intellectual movements in modern China within the global context of Asia and beyond."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p01044_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Literature (LIT) > LIT 209 Critical Inter-Asia: Rethinking Local and Global Connections (4 credits)",
+        "page": 315,
+        "text": "LIT 209 Critical Inter-Asia: Rethinking Local and Global Connections (4 credits). This course considers a variety of literary texts from the perspective of the nexus of cultures and societies in Asia. It emphasizes critical, transnational and interdisciplinary perspectives on two or more Asian cultures and their interactions in the world. In addition to providing the critical theoretical tools to analyze the production and reception of inter-Asian texts, the course will cover a representative variety of texts including history, literature, current affairs, cinematic, visual, and pop-cultures. By framing these texts in their local, regional, and global contexts, a comprehensive critical analysis will be developed."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00991_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: History (HIST) > HIST 210 Global Art History (4 credits)",
+        "page": 298,
+        "text": "HIST 210 Global Art History (4 credits). Art has been a part of every society since recorded history. How have the arts told stories about civilizations, ethnicities, communities and peoples? How have the arts evolved and circulated across the globe? The arts provide vital narratives in our understandings of each other as our cultures have both clashed and shared over time. This course asks these questions by focusing on visual arts across cultures not with the aim of comprehensive coverage, but representation of key issues in the interpretation of art. Students will learn how to interpret art from a critical perspective in terms of its relation to broader social, cultural and political dynamics."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00551_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Global Cultural Studies with tracks in World History and World Literature",
+        "page": 152,
+        "text": "Focusing on the practical and theoretical issues arising from cross-cultural encounters around the world, Cultural Studies examines conventional cultural products (literature, history, film, visual art, music, social media, new technology, etc.) and also their broader political and social contexts (colonialism, modernity, capitalism, etc.). In today's era of economic globalization and neoliberal restructuring, the language of culture is increasingly heard in debates about issues as diverse as nationalism, political conflicts, human rights, immigration, trade, the environment, media, history, literacy, and education. In the new millennium, increasing students’ capacity to live with and understand the heterogeneity and flux that characterize global flows of people, culture, and capital is of paramount importance. The major in Global Cultural Studies has tracks in World Literature and in World History and imparts students with skills and competency in critical thinking, cultural analysis, and communication for careers in education, creative industry, NGOs and international business and law."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00616_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Majors (listed in alphabetical order)",
+        "subsection": "Media and Arts with tracks in Art History and Creative Practice > Media and Arts / Art History > Electives",
+        "page": 183,
+        "text": "MEDIART 106 The Visual Culture of News, Past and Present 4 MEDIART 109 Introduction to Visual Culture 4 MEDIART 112 Race on Film 2 MEDIART 114 Film Musicals and Musical Films 2 GCULS 201 Culture and Industry 4 GCHINA 203 Visual China 4 HIST 207 History of Media Art 4 MEDIART 208 Comparative Media Systems and Chinese Mass Media 4 LIT 208 From Cool Japan to the Korean Wave: Popular Culture from East Asia 4 HIST 210 Global Art History 4 MEDIART 215 Documenting City Life 2 MEDIART 216 Performance, Embodiment and Cultural Memory 4 HIST 217 /MEDIART 217 Ancient and Imperial Chinese Art 4 HIST 220 Global Media History 4 POLSCI 302 Public Opinion 4 GCULS 305 Translation for Stage and Screen 4 MEDIART 307 International Communication 4 MEDIART 405/ GCULS 405 The Curatorial: Theory and Practice 4"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00004_01",
+        "chapter": "Front matter",
+        "section": "Publication and institutional notices",
+        "subsection": "",
+        "page": 2,
+        "text": "Donald Snow, Director of Language and Culture Center Registrar’s Office Lingling Wang, Registrar"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00034_01",
+        "chapter": "Part 2: A Liberal Arts Education at Duke Kunshan University",
+        "section": "Animating Principles",
+        "subsection": "",
+        "page": 15,
+        "text": "• Lucid Communication: To develop the ability to communicate effectively, both orally and in writing, and to listen attentively to different viewpoints in coming to mature judgments."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p01045_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Literature (LIT) > LIT 210 Robots and Monsters: Unruly Human Creations in World Literature (4 credits)",
+        "page": 315,
+        "text": "LIT 210 Robots and Monsters: Unruly Human Creations in World Literature (4 credits). What if humans had the power to create intelligent life. What would they do with that power? What would such creatures be like? These questions have captivated the imagination of storytellers for thousands of years. Prometheus stole the power to create life from the Greek gods. The Rabbi of Prague brought a clay creature to life with magical incantations. Frankenstein accomplished it with science on the operating table. And computer programmers try to build such creatures with AI technology. In stories, the end is always the same: the creature gets out of control, it threatens its creator and needs to be subdued. In this course, we will read stories of human effort to bring to life their own creations. We will discuss the literary features of such fantastical creations as the Golem, Frankenstein’s monster, Androids and AI. Over the term we will come to appreciate the human desires and fantasies associated with this figure, and ask what these robots and monsters can tell us about our own humanity."
+      }
+    ]
+  },
+  {
+    "cluster": 5,
+    "passage_count": 66,
+    "top_terms": [
+      "classes",
+      "undergraduate",
+      "friday",
+      "graduate",
+      "week",
+      "thursday",
+      "week undergraduate",
+      "undergraduate session",
+      "monday",
+      "session",
+      "december",
+      "april",
+      "ece",
+      "graduate classes",
+      "day",
+      "classes continue",
+      "ends",
+      "second week",
+      "january",
+      "continue"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "count": 58
+      },
+      {
+        "chapter": "Part 4: Admission, Scholarships and Financial Aid",
+        "section": "Application Timelines",
+        "count": 3
+      },
+      {
+        "chapter": "Front matter",
+        "section": "Publication and institutional notices",
+        "count": 1
+      },
+      {
+        "chapter": "Part 4: Admission, Scholarships and Financial Aid",
+        "section": "Application Requirements",
+        "count": 1
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Class Scheduling",
+        "count": 1
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Final Examinations",
+        "count": 1
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Graduation and Commencement",
+        "count": 1
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p01409_01",
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 399,
+        "text": "April 29 Friday. Undergraduate classes continue, classes meet on a Monday Schedule."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p01365_01",
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 397,
+        "text": "August 23 Monday. Undergraduate and graduate classes begin."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p01413_01",
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 399,
+        "text": "May 5 Thursday. Second 7-week undergraduate session ends."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p01410_01",
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 399,
+        "text": "April 30 Saturday. Undergraduate classes continue, classes meet on a Tuesday Schedule."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p01375_01",
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 397,
+        "text": "October 18-21 Monday-Thursday. First 7-week undergraduate session final examinations. Graduate classes continue."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00203_01",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Class Scheduling",
+        "subsection": "",
+        "page": 50,
+        "text": "Class times are officially scheduled at registration unless designated “to be arranged” (TBA). After registration begins, no class time may be changed without prior permission of the Registrar’s Office. Within-class tests (except for the final exam) are to be given during the regular class meeting times."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p01403_01",
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 398,
+        "text": "April 3-5 Sunday-Tuesday. Qing Ming – Tomb Sweeping Day – No classes"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p01362_01",
+        "chapter": "Part 11: Academic Calendar 2021-22",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 397,
+        "text": "(NOTE: CALENDAR SUBJECT TO CHANGE) Please go to the following website for the most up-to-date version. https://dukekunshan.edu.cn/sites/default/files/u102705/dku_acdemic_calendar_2021- 2022_final.pdf"
+      }
+    ]
+  },
+  {
+    "cluster": 6,
+    "passage_count": 181,
+    "top_terms": [
+      "edu",
+      "dukekunshan",
+      "dukekunshan edu",
+      "dku",
+      "office",
+      "academic",
+      "education",
+      "programs",
+      "undergraduate",
+      "services",
+      "program",
+      "taken",
+      "opportunities",
+      "career",
+      "campus",
+      "work",
+      "degree",
+      "international",
+      "activities",
+      "faculty"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 12: Useful Contacts",
+        "section": "Chapter introduction",
+        "count": 17
+      },
+      {
+        "chapter": "Part 8: Career Services, Study Away, and Research Opportunities",
+        "section": "Office of Global Education and Study Away",
+        "count": 15
+      },
+      {
+        "chapter": "Part 3: The Curriculum",
+        "section": "Degree Requirements",
+        "count": 11
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Entrance Credit and Placement",
+        "count": 9
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Transfer of Work Taken Elsewhere",
+        "count": 9
+      },
+      {
+        "chapter": "Part 1: General Information",
+        "section": "Partners",
+        "count": 7
+      },
+      {
+        "chapter": "Part 8: Career Services, Study Away, and Research Opportunities",
+        "section": "Career Services",
+        "count": 6
+      },
+      {
+        "chapter": "Part 7: Academic Advising and Support",
+        "section": "Academic Resource Center",
+        "count": 5
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p00354_01",
+        "chapter": "Part 9: Student Affairs and Campus Life",
+        "section": "Campus Programs",
+        "subsection": "",
+        "page": 80,
+        "text": "These activities constitute an exciting and important part of the Duke Kunshan University experience in serving the diverse needs and interests of our students and promoting connections outside the classroom. These opportunities also provide leadership skills, development opportunities and serve to empower students culturally, socially, and intellectually."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00158_01",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Transfer of Work Taken Elsewhere",
+        "subsection": "Work Taken After Matriculation at Duke Kunshan University",
+        "page": 41,
+        "text": "Approval forms for Duke Kunshan University students taking courses at institutions other than Duke Kunshan University and Duke University may be obtained online or from the Office of Global Education. Students wishing to transfer credit for study at another accredited college or university while on leave, on a DKU-approved study abroad program, or during the summer must complete and receive approval through published credit-transfer review processes. No credit will be accepted for coursework taken while a Duke Kunshan University student is withdrawn, suspended, or on involuntary leave of absence."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00017_01",
+        "chapter": "Part 1: General Information",
+        "section": "Who We Are",
+        "subsection": "",
+        "page": 11,
+        "text": "With the goal of spearheading the future of higher education, Duke Kunshan is influenced and informed by both Chinese and American traditions of higher education. The shared vision of Duke and Wuhan universities is that Duke Kunshan will help address the changing needs of global higher education. Their rich heritage inspires Duke Kunshan to pursue academic excellence and integrity and apply classroom knowledge in service to society. Duke Kunshan delivers academic programs designed to address society’s future needs through a curriculum based in the liberal arts tradition and a commitment to problem-based learning that challenges students to apply their knowledge during the learning process. As an international, intellectual community that encourages diversity, openness and creative learning, Duke Kunshan University welcomes outstanding students and faculty from around the world who contribute diverse perspectives and experiences to this global learning environment. The university’s innovative programs inspire students to master academically rigorous course work, generate new ideas and develop creative solutions to the world’s challenges, preparing them not just for careers in specific fields but to become globally sophisticated leaders and citizens. Duke Kunshan is governed by an independent Board of Trustees and operates under a set of guiding principles that are consistent with those of world-leading universities. Administrative"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00014_01",
+        "chapter": "Part 1: General Information",
+        "section": "Mission Statement",
+        "subsection": "",
+        "page": 10,
+        "text": "Duke Kunshan University is a highly selective research-oriented, liberal arts and sciences university located in China, whose primary mission is to enable students from around the world to lead purposeful and productive lives. By delivering the highest quality undergraduate and graduate education that is truly interdisciplinary, we prepare students for professional, intellectual and societal leadership roles across the globe. The core of our educational offering is a four-year undergraduate degree program featuring an integrated and multi-disciplinary curriculum, with an effective blend of Chinese, American, and global techniques and values and a culture of academic excellence and freedom. Our world-class faculty pursue knowledge in service of society, involving students in innovative scholarship and research programs. As a premier Sino-US joint-venture university, we embrace the integration of global, national, and local traditions of thought and experience and promote cross-cultural understanding and cross-border collaborations."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00016_01",
+        "chapter": "Part 1: General Information",
+        "section": "Who We Are",
+        "subsection": "",
+        "page": 11,
+        "text": "Duke Kunshan University is a Sino-American partnership of Duke University, Wuhan University and Kunshan city in Jiangsu province to create a world-class liberal arts and research university offering a range of academic programs for students from China and throughout the world. A nonprofit, joint-venture institution, Duke Kunshan University was granted the accreditation approval by China’s Ministry of Education in September 2013. Duke Kunshan welcomed its first group of students in August 2014, initially offering graduate degrees as well as term-long programs for undergraduate students enrolled at Duke and other universities. In August 2018, Duke Kunshan welcomed its inaugural undergraduate class. The four-year bachelor’s degree program is based in the liberal arts and sciences tradition, which emphasizes critical thinking, creativity, collaboration and exploration."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00311_01",
+        "chapter": "Part 8: Career Services, Study Away, and Research Opportunities",
+        "section": "Career Services",
+        "subsection": "",
+        "page": 72,
+        "text": "The Office will provide both guidance and resources to students and alumni that will help them to explore different job and career opportunities as well as help them to gain important skills, knowledge, and experience in order to be competitive and successful in achieving their long-term career goals. The Career Services Office encourages students to make the most of their"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p01424_01",
+        "chapter": "Part 12: Useful Contacts",
+        "section": "Chapter introduction",
+        "subsection": "",
+        "page": 400,
+        "text": "• Office of Signature Work: signaturework@dukekunshan.edu.cn"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p01202_01",
+        "chapter": "Part 10: Majors and Courses",
+        "section": "Course Descriptions",
+        "subsection": "Courses with Course Subject: Physical Education (PHYSEDU) > PHYSEDU 123 Kendo (0.5 credit)",
+        "page": 355,
+        "text": "PHYSEDU 123 Kendo (0.5 credit). Kendo is a form of martial art that focuses on the use of bamboo sword as its integral part. Kendo integrates strategic thinking and methodology with physical agility and responsiveness, and as such is mentally and physically stimulating activity. Subsequently, students in this course have a unique opportunity not only to learn about Kendo as a physical activity, but also its significance in cultivating social and personal values in traditional China."
+      }
+    ]
+  },
+  {
+    "cluster": 7,
+    "passage_count": 147,
+    "top_terms": [
+      "term",
+      "academic",
+      "grade",
+      "absence",
+      "leave",
+      "leave absence",
+      "underload",
+      "probation",
+      "section",
+      "dean",
+      "grades",
+      "withdrawal",
+      "advisor",
+      "undergraduate",
+      "meet",
+      "undergraduate studies",
+      "receive",
+      "tuition",
+      "requirements",
+      "grading"
+    ],
+    "top_sections": [
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Grading and Grade Requirements",
+        "count": 16
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Undergraduate Course Load",
+        "count": 16
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Academic Warning, Probation, and Suspension for Students in the Classes of 2022-2024",
+        "count": 11
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Changes in Status",
+        "count": 11
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Academic Warning, Probation, and Suspension for Students in the Class of 2025 and Beyond",
+        "count": 11
+      },
+      {
+        "chapter": "Part 5: Financial Information",
+        "section": "Estimated Expenses",
+        "count": 10
+      },
+      {
+        "chapter": "Part 5: Financial Information",
+        "section": "Refund",
+        "count": 10
+      },
+      {
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Registration",
+        "count": 7
+      }
+    ],
+    "examples": [
+      {
+        "role": "representative",
+        "passage_id": "p00258_01",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Changes in Status",
+        "subsection": "Voluntary Withdrawal",
+        "page": 61,
+        "text": "Students who wish to withdraw from the university must give official notification to the Office of Undergraduate Studies. Notification must be received prior to the beginning of classes in any term, or tuition and housing fee will be refunded only partially (See section on Refund in Part 5). For students withdrawing on their own initiative after the beginning of classes and up to the first day of the last two weeks of 7-week classes or of the last four weeks of 14-week classes in the fall or spring terms, a W is assigned in lieu of a regular grade for each course. After these dates, an F grade is recorded unless withdrawal is caused by an emergency beyond the control of the student, in which case a W is assigned by the University Registrar. Alternatively, students withdrawing for medical reasons during this period will have the option, upon obtaining the appropriate approvals from the instructor, to choose to receive the grade of I in one or more courses instead of the W grade. The student may then complete the course as described in the section on Incomplete Coursework."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00164_01",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Registration",
+        "subsection": "Withdrawal from a Course",
+        "page": 42,
+        "text": "Withdrawing from a course differs from dropping a course. Students drop the course themselves during the Drop/Add period, and the course does not appear on their official transcript. To withdraw from a course after the Drop/Add period, the student must obtain permission from his or her academic advisor. After the Drop/Add period, students permitted to withdraw from a course receive a designation of W for that course on their academic record. The deadline for requesting withdrawal from a course in a fall/spring term is four weeks prior to the last day of classes for fourteen-week courses and two weeks prior to the last day of classes for seven-week courses. The deadline applies to course withdrawals for any reason other than medical. Coursework discontinued without the advisor’s permission will result in a grade of F."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00168_02",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Undergraduate Course Load",
+        "subsection": "",
+        "page": 43,
+        "text": "Students who enroll in or withdraw to an underload, earn a failing grade (F or NC), or repeat a course in any term should work with their academic advisor to develop a plan to make up credits in order to avoid a delayed graduation date."
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00173_01",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Undergraduate Course Load",
+        "subsection": "Underload",
+        "page": 44,
+        "text": "Students should take note that an underload may affect a student’s scholarship or ability to graduate on time; 8 additional credits above the minimum of 16 per term are needed in order to meet the 136 credits requirement for graduation. Students should not count on an overload later to compensate for a previous underload. Students taking an underload will be ineligible for the Dean’s list and the Dean’s List with Distinction during that term. Each term, the Office of the Registrar will review all students with an enrollment under 16 credits. Students in an unauthorized underload may be placed on involuntary administrative leave of absence and have to apply for reinstatement if they wish to return. (See section on Leave of Absence.)"
+      },
+      {
+        "role": "representative",
+        "passage_id": "p00233_01",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Progress toward Degree",
+        "subsection": "Satisfactory Performance Each Term (Term Credit Requirements)",
+        "page": 56,
+        "text": "Students must make satisfactory progress toward fulfillment of curricular requirements and credits each term. All students must meet the following minimum requirements at the start of each fall and spring term or receive an academic warning: To be on track for an on-time graduation, at the start of the A student should have earned at least7 An academic warning will be issued to students who have earned less than7 2nd term at Duke Kunshan 16 credits 12 credits 3rd term at Duke Kunshan 34 credits 30 credits 4th term at Duke Kunshan 52 credits 46 credits 5th term at Duke Kunshan 68 credits 62 credits 6th term at Duke Kunshan 84 credits 78 credits 7th term at Duke Kunshan 102 credits 96 credits 8th term at Duke Kunshan 116 credits 112 credits"
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00096_01",
+        "chapter": "Part 4: Admission, Scholarships and Financial Aid",
+        "section": "Scholarships and Financial Aid",
+        "subsection": "",
+        "page": 29,
+        "text": "All applicants for admission are automatically considered for merit scholarships. A separate application is not required."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00120_01",
+        "chapter": "Part 5: Financial Information",
+        "section": "Estimated Expenses",
+        "subsection": "Payment",
+        "page": 33,
+        "text": "Service charges are normally assessed by the sending bank. For overseas payment, the intermediary bank might also be involved in completing the wire transfer and charge service fee. Please make sure you include or pay for the service charge before initiating your wire transfer. Your student account will be credited for the actual amount received (net of fees assessed by both the sending bank and the intermediary bank)."
+      },
+      {
+        "role": "peripheral",
+        "passage_id": "p00134_01",
+        "chapter": "Part 6: Academic Procedures and Information",
+        "section": "Academic Integrity",
+        "subsection": "",
+        "page": 36,
+        "text": "Any case reviewed by the UARB shall be kept strictly confidential and only those parties involved in investigating and resolving the case should know the details of the case and its resolution."
+      }
+    ]
+  }
+]
