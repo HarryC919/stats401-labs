@@ -1,19 +1,207 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lab 9 | STATS 401</title>
-    <link rel="stylesheet" href="../css/style.css">
-</head>
-<body>
-    <main class="site-shell">
-        <section class="placeholder-card">
-            <p class="eyebrow">STATS 401</p>
-            <h1>Lab 9</h1>
-            <p>Lab 9 will be added here.</p>
-            <a class="back-link" href="../index.html">&larr; Back to home</a>
-        </section>
-    </main>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="Two coordinated D3 world maps of 2025 nominal GDP for the 50 largest economies: a choropleth (color encodes GDP) and a Dorling cartogram (area encodes GDP), with linked highlighting."
+        />
+        <title>Lab 9 — Geospatial Visualization | STATS 401</title>
+        <link rel="stylesheet" href="../css/style.css" />
+    </head>
+
+    <body>
+        <main class="site-shell">
+            <header class="course-bar">
+                <div class="course-brand">
+                    <p class="course-code">STATS 401</p>
+                    <p class="course-name">
+                        Data Acquisition and Visualization
+                    </p>
+                </div>
+                <a class="back-link" href="../index.html">&larr; All labs</a>
+            </header>
+
+            <nav class="lab-tabs" aria-label="Course labs">
+                <a href="../lab1/index.html">Lab 1</a>
+                <a href="../lab2/index.html">Lab 2</a>
+                <a href="../lab3/index.html">Lab 3</a>
+                <a href="../lab4/index.html">Lab 4</a>
+                <a href="../lab5/index.html">Lab 5</a>
+                <a href="../lab6/index.html">Lab 6</a>
+                <a href="../lab7/index.html">Lab 7</a>
+                <a href="../lab8/index.html">Lab 8</a>
+                <a href="../lab9/index.html" aria-current="page">Lab 9</a>
+                <a href="../lab10/index.html">Lab 10</a>
+            </nav>
+
+            <header class="page-header lab-page-header">
+                <p class="eyebrow">Lab 9: Geospatial Visualization</p>
+                <h1>2025 GDP: Choropleth vs. Cartogram</h1>
+                <p class="lede">
+                    The same IMF 2025 nominal-GDP estimates for the 50 largest
+                    economies, drawn twice: a choropleth where color encodes
+                    GDP over true geography, and a Dorling cartogram where
+                    area encodes GDP and shapes are deliberately distorted.
+                    Hovering or clicking a country in either map highlights it
+                    in both.
+                </p>
+            </header>
+
+            <!-- 1. DATASET DESCRIPTION (submission requirement) -->
+            <section class="chart-card" aria-labelledby="dataset-heading">
+                <p class="section-label">Dataset Description</p>
+                <h2 id="dataset-heading">
+                    2025 Nominal GDP — Top 50 Economies
+                </h2>
+                <p>
+                    The statistical data come from the
+                    <a
+                        href="https://www.imf.org/en/Publications/WEO"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        >IMF World Economic Outlook, October 2025</a
+                    >, nominal-GDP series, current prices. The IMF notes that
+                    WEO observations may include IMF staff estimates where
+                    complete official data are unavailable and can later be
+                    revised. The file
+                    <code>data/lab9_gdp_2025_top50.csv</code> holds one row per
+                    economy (50 rows): the 50 largest economies by 2025
+                    nominal GDP.
+                </p>
+                <table class="source-table">
+                    <thead>
+                        <tr>
+                            <th>Variable</th>
+                            <th>Meaning</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>iso3</code></td>
+                            <td>ISO-3 geographic identifier — the join key against the GeoJSON</td>
+                        </tr>
+                        <tr>
+                            <td><code>country</code></td>
+                            <td>Country/economy name (shown in tooltips)</td>
+                        </tr>
+                        <tr>
+                            <td><code>gdp_2025_billion_usd</code></td>
+                            <td>2025 nominal GDP, current prices, billions of U.S. dollars</td>
+                        </tr>
+                        <tr>
+                            <td><code>rank</code></td>
+                            <td>GDP rank among the included economies (1–50)</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>
+                    The geographic data are
+                    <code>data/ne_50m_admin_0_countries.geojson</code>, an
+                    export of Natural Earth 1:50m Admin 0 Countries (public
+                    domain). The two files are joined on the ISO-3 code on
+                    both sides. A few Natural Earth features carry
+                    <code>"-99"</code> in <code>ISO_A3</code> (France and
+                    Norway among the top 50); the join repairs them via the
+                    always-populated <code>ADM0_A3</code> field. Countries
+                    outside the top 50 have no GDP value — they are rendered
+                    as neutral "no data", never as zero-GDP economies.
+                </p>
+            </section>
+
+            <!-- 2. CHOROPLETH scale-note -->
+            <section class="chart-card" aria-labelledby="choropleth-heading">
+                <p class="section-label">View 1</p>
+                <h2 id="choropleth-heading">2025 GDP Choropleth</h2>
+                <p class="scale-note">
+                    Position and shape = real geography; color = 2025 nominal
+                    GDP on a log-transformed Blues ramp (rationale in the
+                    comparison below). Hover for tooltip + highlight, click to
+                    pin a selection, drag to pan, scroll to zoom.
+                </p>
+                <div id="choropleth-legend" class="legend-row"></div>
+                <div id="choropleth-map" class="map-frame"></div>
+                <p class="scale-note">
+                    This map presents statistical data only. Some regions
+                    shown are disputed; it does not represent the political
+                    position of any individual or group.
+                </p>
+            </section>
+
+            <!-- 3. CARTOGRAM (Part C) -->
+            <section class="chart-card" aria-labelledby="cartogram-heading">
+                <p class="section-label">View 2</p>
+                <h2 id="cartogram-heading">2025 GDP Cartogram</h2>
+                <p class="scale-note">
+                    AREA — not color, not geographic size — represents 2025
+                    nominal GDP. Shapes are intentionally distorted: this is a
+                    Dorling cartogram (each top-50 economy is a circle whose
+                    area is proportional to GDP; implemented in
+                    <code>src/lab9.ts</code>). Countries outside the top 50
+                    are omitted because they have no GDP value. Colors reuse
+                    the choropleth scale. Hover/click for tooltip + linked
+                    highlight.
+                </p>
+                <div id="cartogram-map" class="map-frame"></div>
+            </section>
+
+            <!-- 4. DESIGN AND COMPARISON (Part E, 150–250 words) -->
+            <section class="chart-card" aria-labelledby="comparison-heading">
+                <p class="section-label">Design and Comparison</p>
+                <h2 id="comparison-heading">
+                    Choropleth vs. Cartogram
+                </h2>
+                <div class="writeup">
+                    <p>
+                        These two views encode the same 2025 nominal-GDP
+                        estimates with different visual variables, so each
+                        answers a different question.
+                    </p>
+                    <p>
+                        In the choropleth, the darkest countries — the United
+                        States and China — dominate, yet geographic position
+                        and shape keep huge, mid-ranked countries visually
+                        important: Russia, Canada and Australia catch the eye
+                        despite ranking 9th–15th. In the cartogram, area
+                        encodes GDP, so the US and China balloon while Russia,
+                        Canada and Australia shrink to modest circles; India
+                        visibly overtakes the UK and France, and
+                        geographically tiny Singapore, Hong Kong and Taiwan
+                        become legible for the first time. Switching from
+                        color to area therefore reframes global economic size
+                        around productive economies rather than land area.
+                    </p>
+                    <p>
+                        The choropleth preserves exact position, shape,
+                        adjacency and distance, so it best supports
+                        where-questions: locating a country, reading regional
+                        patterns, comparing neighbors. The cartogram distorts
+                        shape, position and adjacency into circles, sacrificing
+                        geography to make ranking and ratio comparisons
+                        immediate.
+                    </p>
+                    <p>
+                        For color, GDP runs from 300 to 30,616 billion USD —
+                        heavily right-skewed — so a linear Blues ramp would
+                        leave every mid-ranked economy the same pale blue. I
+                        chose a log-transformed sequential scale
+                        (d3.scaleSequentialLog): equal color steps for equal
+                        ratios keeps differences like Poland, Switzerland and
+                        Taiwan visible, with a strictly positive domain over
+                        joined values only.
+                    </p>
+                    <p>
+                        Neither map is better universally: use the choropleth
+                        for geographic context, the cartogram for magnitude.
+                    </p>
+                </div>
+            </section>
+        </main>
+
+        <div id="tooltip" class="tooltip"></div>
+
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script type="module" src="../js/lab9.js"></script>
+    </body>
 </html>

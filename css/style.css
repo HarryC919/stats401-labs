@@ -1088,3 +1088,29 @@ h2 {
         grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     }
 }
+
+/* Lab 9 — GDP choropleth + cartogram */
+
+#choropleth-map svg,
+#cartogram-map svg {
+    display: block;
+    width: min(100%, 1000px);
+    margin: 0 auto;
+    height: auto;
+}
+
+#choropleth-map .country,
+#cartogram-map .country {
+    cursor: pointer;
+}
+
+.legend-tick {
+    fill: var(--muted);
+    font-size: 11px;
+}
+
+.cartogram-note {
+    fill: var(--muted);
+    font-size: 13px;
+}
+
